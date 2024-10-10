@@ -1,0 +1,32 @@
+{
+  "id": "1M439meCk9SDQYJSrDBJJeRntk1FtmSaaZakSeLFvcJonxGUM",
+  "name": "Firedrill Testnet One",
+  "description": "This is the official explorer for Firedrill Testnet One.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

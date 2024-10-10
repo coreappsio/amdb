@@ -1,0 +1,32 @@
+{
+  "id": "mUKpAkagxejna1REJTVGCZ8tXWcctXJVitJ5AFv7zfMvasGNY",
+  "name": "QR0606T3TP",
+  "description": "QR0606T3TP",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

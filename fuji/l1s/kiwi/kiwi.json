@@ -1,0 +1,32 @@
+{
+  "id": "wAt2FdEjkVXpkpKQFqaYXrtdtzYoK3cKwmWRFH4M1ywrpJFjQ",
+  "name": "Kiwi",
+  "description": "The testnet for the Kiwi Avalanche Subnet Project.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

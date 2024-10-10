@@ -1,0 +1,35 @@
+{
+  "id": "2aa7G6cQbomnqyhBexzWPmvihio8Uk1qrzYpBRNH2wcNpBkgNU",
+  "name": "XPLUS",
+  "description": "XPlus is a custom Avalanche subnet. XPlus stores user\nbehavior and achievements on-chain, and increases user bonding,\ntransparency, privacy, and security for the entire XPLUS Ecosystem",
+  "icon": "https://cdn.snowpeer.io/xplus.jpeg",
+  "color": "#69ddcd",
+  "website": "https://www.xplus.com",
+  "chains": [],
+  "categories": [
+    "SOCIAL",
+    "NFT"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

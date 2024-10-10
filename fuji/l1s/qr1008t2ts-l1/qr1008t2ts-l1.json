@@ -1,0 +1,32 @@
+{
+  "id": "2N78znhdb5PxSHjqagcMboNZqPh43JVBpZU7BJPgNrWhwVsxkV",
+  "name": "QR1008T2TS L1",
+  "description": "QR1008T2TS",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

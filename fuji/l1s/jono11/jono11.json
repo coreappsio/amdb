@@ -1,0 +1,32 @@
+{
+  "id": "vJZV9YtkWWMbCcGTHi4oiPmeT53U85RxK6qVqyU3y6nqiFMgf",
+  "name": "Jono11",
+  "description": "Official subnet explorer for jono11 subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

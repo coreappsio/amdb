@@ -1,0 +1,34 @@
+{
+  "id": "2An23jRoEGZc5Fr9CQSw4vNnBRDX5Y56F27ChYz9Sa5Bg8L6JK",
+  "name": "Solert Games",
+  "description": "Subnet LAW for Legends at War is a dedicated blockchain environment designed to enhance the gaming experience for its players. It offers a seamless, high-speed platform for in-game transactions and interactions, ensuring robust security and efficiency. This specialized subnet brings a new level of immersion and connectivity to the Legends at War community, fostering a rich, interactive gaming universe.",
+  "icon": "https://cdn.snowpeer.io/solert.png",
+  "color": "#FFE200",
+  "website": "https://solertgames.com",
+  "chains": [],
+  "categories": [
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

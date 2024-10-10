@@ -1,0 +1,32 @@
+{
+  "id": "saG6FqANrcgfNjTmWHYGgQBfrUpjp6tDaYo4nJZVct4sCiRVj",
+  "name": "QR0122I1 Testnet",
+  "description": "QA Testing Subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

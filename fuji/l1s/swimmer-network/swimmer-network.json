@@ -1,0 +1,35 @@
+{
+  "id": "2WJTQKACZWKAnkakMCafag2nuef6v6UuTFRxH1ndGXKWFg9pPJ",
+  "name": "Swimmer Network",
+  "description": "Swimmer Network Subnet is a custom blockchain built on an Avalanche Subnet, and is home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. The Crabada Idle-Game and marketplace is expected migrate from the C-chain onto the Swimmer Network. Crabada can be bred, and used in games to earn cryptocurrencies with real value",
+  "icon": "https://cdn.snowpeer.io/swimmer.png",
+  "color": "#fb209a",
+  "website": "https://www.swimmer.network",
+  "chains": [],
+  "categories": [
+    "nft",
+    "gaming"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

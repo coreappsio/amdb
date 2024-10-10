@@ -1,0 +1,32 @@
+{
+  "id": "dwWfVQ5dgYMeWTuP6JB4xevQmVw4MmHKLFUeHAUoMNV9v5cHp",
+  "name": "SubnetsIO",
+  "description": "",
+  "icon": "https://cdn.snowpeer.io/subnetsio.jpg",
+  "color": "#ff3c74",
+  "website": "https://www.subnets.io",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "jyecfYvLKCXJ5gv3aqtmxZ5rAdtxJfQ9m9LAgMEAGdU6pUQNv",
+  "name": "LT0",
+  "description": "Official testnet explorer for the LT0 subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

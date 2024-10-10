@@ -1,0 +1,32 @@
+{
+  "id": "2hdzHnmzkpbzcvu2pj83m8Kwnv8tTE4iQuRD5sGraztA4oJvNS",
+  "name": "QR0326T4TS Testnet",
+  "description": "QA Testing",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

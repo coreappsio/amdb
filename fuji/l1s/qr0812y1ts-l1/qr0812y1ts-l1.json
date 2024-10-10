@@ -1,0 +1,32 @@
+{
+  "id": "2rfy8DFY8rnf2iWHhjN3uyQVhB1FibiitecJFoPhjyiCc5EUBa",
+  "name": "QR0812Y1TS L1",
+  "description": "QR0812Y1TS subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

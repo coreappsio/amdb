@@ -1,0 +1,32 @@
+{
+  "id": "21vtEKXW1ikD55aDB96EqQsDhhRNKjkzBjTmKneKvZi1gYxzYy",
+  "name": "LT9",
+  "description": "Official Subnet explorer for LT9 Subnet.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "aAAqv4xkuzWtuZhY9CM3mWAKchLBJBwbdxK91saSHsfXmujo4",
+  "name": "LT8",
+  "description": "Offical subnet explorer for LT8.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

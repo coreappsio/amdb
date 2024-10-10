@@ -1,0 +1,32 @@
+{
+  "id": "2eQhLLJq1XgV9HtFSsakRgHnf4bWcpxayFDvxJjjJKBLdNkQRk",
+  "name": "MELD Kanazawa",
+  "description": "The Meld Network is one of the key pieces of the MELD protocol. It supports the smart contracts and operations of the financial products developed by MELD in a composable, interoperable way.",
+  "icon": "https://cdn.snowpeer.io/meld.png",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

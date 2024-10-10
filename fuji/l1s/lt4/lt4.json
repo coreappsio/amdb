@@ -1,0 +1,32 @@
+{
+  "id": "zBfCqyPczevnQPhV8gTSxQvSFjf2q5yateQc4cm9UwkRFsRNk",
+  "name": "LT4",
+  "description": "Official testnet explorer for the LT4 subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

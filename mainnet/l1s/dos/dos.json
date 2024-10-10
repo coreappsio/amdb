@@ -1,0 +1,36 @@
+{
+  "id": "nQCwF6V9y8VFjvMuPeQVWWYn6ba75518Dpf6ZMWZNb3NyTA94",
+  "name": "DOS",
+  "description": "Zero gas fee blockchain for gaming and metaverse",
+  "icon": "https://cdn.snowpeer.io/dos.png",
+  "color": "#ff450a",
+  "website": "https://doschain.com",
+  "chains": [],
+  "categories": [
+    "GAMING",
+    "METAVERSE",
+    "NFT"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

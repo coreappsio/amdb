@@ -1,0 +1,32 @@
+{
+  "id": "1NqWU6TWHyhPK95zMqsiHP3MrvezP1ERTs3EdZRjFwUdGWNW6",
+  "name": "Tiltyard",
+  "description": "Tiltyard.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

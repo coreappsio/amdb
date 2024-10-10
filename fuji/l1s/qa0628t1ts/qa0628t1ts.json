@@ -1,0 +1,32 @@
+{
+  "id": "2hH91YfTQRkYaVNFUHE53zZbWfy982BecS66BwqFNrAcvJr55x",
+  "name": "QA0628T1TS",
+  "description": "QA testing",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

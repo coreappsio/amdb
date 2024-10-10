@@ -1,0 +1,32 @@
+{
+  "id": "2RWgiLacMhxm7UndJ4RVLoDXibc9SCzzodq8EndBVqz8tmsTdy",
+  "name": "LT5",
+  "description": "This is the official explorer for the LT5 subnet.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

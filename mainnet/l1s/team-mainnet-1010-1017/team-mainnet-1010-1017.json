@@ -1,0 +1,32 @@
+{
+  "id": "BU3kp2jPE7joksdp13xPjXuUVTzBSHNKLsU9RfKB7TvEZvf46",
+  "name": "Team Mainnet 1010-1017",
+  "description": "This is the official subnet explorer for the Team Mainnet 1010-1017 Subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

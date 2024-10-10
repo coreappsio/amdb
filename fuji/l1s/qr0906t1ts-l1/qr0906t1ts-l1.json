@@ -1,0 +1,32 @@
+{
+  "id": "2GM3cuszx9ahePACi9nSg3vp8qE9B3KowmGJR8wDaTSvsMDovD",
+  "name": "QR0906T1TS L1",
+  "description": "QR 0906 L1",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

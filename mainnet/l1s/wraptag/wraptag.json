@@ -1,0 +1,34 @@
+{
+  "id": "A1iV86hr1toCL7y4F6PM263n9fomCLUDDwpqFT2sG9FTCZJCm",
+  "name": "WrapTag",
+  "description": "",
+  "icon": "https://cdn.snowpeer.io/wraptag.png",
+  "color": "#f7931a",
+  "website": "https://wraptag.io",
+  "chains": [],
+  "categories": [
+    "IP"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

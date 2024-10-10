@@ -1,0 +1,32 @@
+{
+  "id": "2cCkejfKVcKffPvCTao4kXrxYTCMqbzk3nY2WdoVHd11rQhfnx",
+  "name": "QR1129I1",
+  "description": "This is the official subnet explorer for the QR1129I1 Subnet.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

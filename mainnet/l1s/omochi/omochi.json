@@ -1,0 +1,32 @@
+{
+  "id": "2mBbfPEFbdEqeaBvRLgvmQQA3cG5mbpqbC8fcXCTZaycXZrXDq",
+  "name": "OMOCHI",
+  "description": "OMOCHI Chain: Private Chain where only Validators can view and utilize data. Data written on OMOCHI Chain is communicated to ONIGIRI Chain via Avalanche Warp Messaging without public exposure. Validators on ONIGIRI Chain receive $ONGR rewards.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

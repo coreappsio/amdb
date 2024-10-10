@@ -1,0 +1,32 @@
+{
+  "id": "4eZqgdtnQM61UqqVdhWW9qWqnG1iTqmNYzShicD63YUK5wciN",
+  "name": "QR0215Y1MP",
+  "description": "QA Mainnet Testing",
+  "icon": "https://cdn.snowpeer.io/avacloud.png",
+  "color": "#3a65ff",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

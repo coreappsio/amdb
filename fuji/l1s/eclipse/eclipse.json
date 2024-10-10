@@ -1,0 +1,32 @@
+{
+  "id": "2aNty5ysymeQkSRj6PN4U8U3zMfeedBEvVJuwMjqQS87sQ6mRR",
+  "name": "Eclipse",
+  "description": "The Eclipse Network is a dedicated Gaming EVM Subnet designed to empower game developers in creating vibrant in-game economies through Non-Fungible Tokens (NFTs) and token rewards. Our mission is to facilitate seamless integration with fast and cost-effective transactions while providing easy onboarding for both web2 and web3 game developers.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

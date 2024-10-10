@@ -1,0 +1,35 @@
+{
+  "id": "XHLRR9cvMtCR8KZsjU8nLxg1JbV7aS23AcLVeBMVHLKkSBriS",
+  "name": "DFK",
+  "description": "The vision for the DFK Subnet is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale",
+  "icon": "https://cdn.snowpeer.io/dfk.png",
+  "color": "#53c26e",
+  "website": "https://defikingdoms.com",
+  "chains": [],
+  "categories": [
+    "gaming",
+    "nft"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "jrPr1rKMFqc2snozqF63cjUeRsZjyP1RSYvuc3z6Lkif8EiMx",
+  "name": "Xantus",
+  "description": "AI-powered Entertainment Protocol for Socialfi and Gaming.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

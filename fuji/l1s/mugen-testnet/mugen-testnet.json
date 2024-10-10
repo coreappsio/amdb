@@ -1,0 +1,32 @@
+{
+  "id": "25e4GyTXTaPeAxp3jHgu5XgQ5xe95aehCPu3Bx9tDZddhXqVns",
+  "name": "MUGEN Testnet",
+  "description": "mugen testnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

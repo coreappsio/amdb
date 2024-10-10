@@ -1,0 +1,32 @@
+{
+  "id": "sTQXuLqDWSMZtNmJMSwBZFPprMvt3A4iR9qkThXATjCGUMxYc",
+  "name": "Project Orc1",
+  "description": "Project Orc Explorer",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

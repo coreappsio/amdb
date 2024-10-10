@@ -1,0 +1,34 @@
+{
+  "id": "VzsCkPm6MjStgT2v5Qmcn5ycgMhj68rxPN4gX9eMgBbBXHYEu",
+  "name": "Green Dot",
+  "description": "The Green Dot Subnet is an EVM-compatible blockchain which supports Deloitte assets, including Close As You Go (CAYG), a secure cloud-based software platform built to help agencies manage recovery documentation for procurement and contracting, model policies and procedures, and plan for disaster.",
+  "icon": "https://cdn.snowpeer.io/greendot.png",
+  "color": "#68B04D",
+  "website": "https://cayg.app",
+  "chains": [],
+  "categories": [
+    "STORAGE"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

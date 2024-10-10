@@ -1,0 +1,32 @@
+{
+  "id": "18YjyGzFoosdLngQaktsynP8Xkwps8bLwFsch2q3WCAwmgZej",
+  "name": "QR0523S1T",
+  "description": "Offical explorer of QR0523S1T Testnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

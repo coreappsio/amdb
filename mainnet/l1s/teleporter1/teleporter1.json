@@ -1,0 +1,32 @@
+{
+  "id": "V9cD5JH4TYcw9241zgxrXXEj3k3rZJJLNL2UEPv5ujDip1m3m",
+  "name": "Teleporter1",
+  "description": "",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

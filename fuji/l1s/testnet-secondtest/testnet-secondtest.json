@@ -1,0 +1,32 @@
+{
+  "id": "TfsHKZ9t35aBN6GkSihTgLYkZvDj635reGFFXpvqyd2H97URU",
+  "name": "TESTNet SecondTEST",
+  "description": "複数接続ケースに利用するサブネットになります。",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

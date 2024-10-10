@@ -1,0 +1,32 @@
+{
+  "id": "nkcXxq2Pn1e2zaoB91SoaMdebaUVpxgXpiRuDBLeaNPG5jdLm",
+  "name": "QR0530T1TS",
+  "description": "QA Regression Subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

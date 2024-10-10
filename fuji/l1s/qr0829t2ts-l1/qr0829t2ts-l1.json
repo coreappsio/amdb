@@ -1,0 +1,32 @@
+{
+  "id": "mzYLBFSnpxh1HvnVo6BNQ1spkrCHd8t5ziVh9LmvkHTpHufvJ",
+  "name": "QR0829T2TS L1",
+  "description": "QR0829T2TS L1 explorer",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "27A4JzMyRm1qUkjrdAWR4Jj5bzUigcbJDDizgcmH9rN6f4uarY",
+  "name": "Jono12",
+  "description": "This is the official explorer for the Jono12 Subnet.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

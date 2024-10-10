@@ -1,0 +1,34 @@
+{
+  "id": "T6XNCf5qHYhJigDcGtjTaGvfiQGRW8JVXTyPza9eZBfCGyDF",
+  "name": "Mintara",
+  "description": "Mintara is a subnet managed by PLAYTHINK Inc.",
+  "icon": "https://cdn.snowpeer.io/mintara.png",
+  "color": "#08ac94",
+  "website": "https://playthink.co.jp",
+  "chains": [],
+  "categories": [
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

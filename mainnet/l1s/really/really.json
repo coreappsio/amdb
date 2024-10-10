@@ -1,0 +1,34 @@
+{
+  "id": "nzn8Jhci2yYVnKSTzEjADD5UUx9pEa3kPizEoyrv14e6iaZ7f",
+  "name": "REALLY",
+  "description": "Build your status with Really’s unique Fandime. Really collectors enjoy access to exclusive content and unforgettable special events in the metaverse.  Download the ReallyAR App to get started.",
+  "icon": "https://cdn.snowpeer.io/really.png",
+  "color": "#3C00C3",
+  "website": "https://really.ar",
+  "chains": [],
+  "categories": [
+    "AR"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

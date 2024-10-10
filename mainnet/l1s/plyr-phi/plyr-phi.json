@@ -1,0 +1,32 @@
+{
+  "id": "axp7DUSPvFghTM883ug2B8btAReBAACxD1VyENmRDStH4Lfed",
+  "name": "PLYR PHI",
+  "description": "The PLYR gaming chain offers low-cost, fast, and secure transactions for gaming. It enables seamless in-game purchases, asset transfers, and integrates with over 200 networks, providing a robust foundation for innovative and cross-chain gaming experiences.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

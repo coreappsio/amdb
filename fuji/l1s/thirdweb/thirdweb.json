@@ -1,0 +1,32 @@
+{
+  "id": "YMqWcs5n5izvb2qQt7dwjpifCyWhCYn4ouupAX1BwBVJdj4Fg",
+  "name": "Thirdweb",
+  "description": "A test subnet used for thirdweb internal development.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

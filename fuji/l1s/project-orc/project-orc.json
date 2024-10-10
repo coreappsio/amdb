@@ -1,0 +1,32 @@
+{
+  "id": "2MVzqq59sJKmrZe1MyiU2BDg6aec1Mam7XzKbjRBnT9abrYdH8",
+  "name": "Project Orc",
+  "description": "Test subnets for project orc",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

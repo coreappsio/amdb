@@ -1,0 +1,32 @@
+{
+  "id": "Lkvrns1GNQbmDGxTeQLCRSgJ2ZxDonLqQNsx6w4tPQsHujLbb",
+  "name": "LT3",
+  "description": "Official testnet explorer for the LT3 subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

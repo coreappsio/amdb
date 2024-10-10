@@ -1,0 +1,34 @@
+{
+  "id": "9ewhue9Lyryt1G4H1icgZotc6wRVwiPgmiVemSN24JXwg91JH",
+  "name": "Gunzilla",
+  "description": "",
+  "icon": "https://cdn.snowpeer.io/gunzilla.png",
+  "color": "#afff01",
+  "website": "https://gunzillagames.com",
+  "chains": [],
+  "categories": [
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

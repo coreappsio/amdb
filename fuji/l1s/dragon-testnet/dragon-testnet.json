@@ -1,0 +1,32 @@
+{
+  "id": "21xudaHzCDvSMhVgFiTKF7qYZtHviC1amkxe2K8xwL7QpanhCK",
+  "name": "Dragon Testnet",
+  "description": "Testnet for Dragon",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

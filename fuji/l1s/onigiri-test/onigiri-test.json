@@ -1,0 +1,32 @@
+{
+  "id": "amsMnq4EpSMeAFo9Da6W69iqEtYRSmApKfYrvu2ZgaVYFDE8q",
+  "name": "ONIGIRI Test",
+  "description": "We see ONIGIRI as a protocol in food. Similarly, with ONIGIRI Chain, you can store any food-related data. And just like the seaweed hides the filling, we can hide data you don't want to show. We aim to be the blockchain solution for various food-related services, including cooking apps, e-commerce, apps, health care apps and more. Using blockchain as a shared food database across various services, l believe we can create more value and revolution  in the Food Industry.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2P6yHDMZhgobeApVvUrNXevp3v4bS3Fg8ZtZWFRxreWw3DPWm1",
+  "name": "LT10",
+  "description": "Official Subnet explorer for LT10 Subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

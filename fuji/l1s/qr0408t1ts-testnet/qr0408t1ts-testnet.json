@@ -1,0 +1,32 @@
+{
+  "id": "2e1mrHanmwwihLNGS8qGy5zSeg13miQy852EbuEij5WAAQ8u68",
+  "name": "QR0408T1TS Testnet",
+  "description": "QR0408T1TS Testnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2UDoJcLjTeTFvvi3m5gMBatwXDxax75UJ7UVpvjBAYkcGg1hb4",
+  "name": "Second Firedrill",
+  "description": "This is the official explorer of the Second Firedrill Subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

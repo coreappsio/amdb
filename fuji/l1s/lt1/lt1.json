@@ -1,0 +1,32 @@
+{
+  "id": "2QFuPsd6xhgLXZRVmzJJv2zHEKqrqofqdNrSG7mEmpZhW3vooH",
+  "name": "LT1",
+  "description": "Official testnet explorer for the LT1 subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

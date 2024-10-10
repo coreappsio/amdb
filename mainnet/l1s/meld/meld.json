@@ -1,0 +1,35 @@
+{
+  "id": "2ibTg9ruyJRQf4NpRbkd1Utcfayo3gRRpkoWGCWNC3oXTZoYCe",
+  "name": "MELD",
+  "description": "The Meld Network is one of the key pieces of the MELD protocol. It supports the smart contracts and operations of the financial products developed by MELD in a composable, interoperable way.",
+  "icon": "https://cdn.snowpeer.io/meld.png",
+  "color": "#e81a44",
+  "website": "https://www.meld.com",
+  "chains": [],
+  "categories": [
+    "FINANCE",
+    "DEFI"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

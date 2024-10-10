@@ -1,0 +1,32 @@
+{
+  "id": "zFqAb4x8tSXnJ3Jf4C4n9TzLuZC4zSLAu3Mbo6rvtveDzjMRn",
+  "name": "QR0607t1ts",
+  "description": "QA Regression",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

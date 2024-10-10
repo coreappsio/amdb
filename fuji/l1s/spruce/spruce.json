@@ -1,0 +1,32 @@
+{
+  "id": "2Bid39wZEqqX1QtrWAV8uUCnwTVdiKYZN3vjb5tVhj3uiP9xXu",
+  "name": "Spruce",
+  "description": "Spruce is a Testnet version of the Evergreen Institutional Subnet configuration.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

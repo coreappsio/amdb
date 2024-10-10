@@ -1,0 +1,32 @@
+{
+  "id": "2qs7iyb4ksDE6CHaTiwkjAUt4jr1aAbrptgs7EEaWGzrsrYeZ9",
+  "name": "Pgjjtk",
+  "description": "Official subnet explorer of pgjjtk subnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

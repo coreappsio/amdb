@@ -1,0 +1,34 @@
+{
+  "id": "2YNtQRWKQiTG7nq8WuVXD8opx6ocsEY2ZFW9eZcjArtMejeS7T",
+  "name": "D-Chain",
+  "description": "D-Chain is a private blockchain with an unique architecture that offers high performance and scalability for corporates. D-Wallet is the first application developed on the D-Chain, for an enterprise-based loyalty program",
+  "icon": "https://cdn.snowpeer.io/dchain.png",
+  "color": "#007bff",
+  "website": "https://www.d-teknoloji.com.tr",
+  "chains": [],
+  "categories": [
+    "LOYALTY"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

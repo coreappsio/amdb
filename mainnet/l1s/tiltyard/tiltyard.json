@@ -1,0 +1,34 @@
+{
+  "id": "23LsHpx3wTPtNC4PUaTdtNQkaGbLxwiGimnZjHaUc28qLHs7Dn",
+  "name": "Tiltyard",
+  "description": "Welcome to Tiltyard, a blockchain game studio forging futuristic landscapes and decentralized adventures.",
+  "icon": "https://cdn.snowpeer.io/tiltyard.png",
+  "color": "#6a49d2",
+  "website": "https://tiltyard.gg",
+  "chains": [],
+  "categories": [
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

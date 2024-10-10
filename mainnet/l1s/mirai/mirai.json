@@ -1,0 +1,34 @@
+{
+  "id": "2kyZRnEHakKriNufphojbeFR5hi247bJeTjFDgQgo7VRRjoqyq",
+  "name": "Mirai",
+  "description": "Mirai Chain is a custom-built EVM blockchain tailored for mobile developers, providing the ideal platform to create global gaming experiences",
+  "icon": "https://cdn.snowpeer.io/mirai.svg",
+  "color": "#f7971c",
+  "website": "https://miraichain.io",
+  "chains": [],
+  "categories": [
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "FAjUPxhRewh9vk8dSzcgRFZRLaCaNVg6gb5TcHwKsehuQ7k6p",
+  "name": "FRQTAL",
+  "description": "Empowering creators in the ideal marketplace. Craft, sell, or share FNFTs",
+  "icon": "https://cdn.snowpeer.io/frqtal.png",
+  "color": "#6633f5",
+  "website": "https://frqtal.org",
+  "chains": [],
+  "categories": [
+    "STORAGE"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

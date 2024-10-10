@@ -1,0 +1,34 @@
+{
+  "id": "2UEGsEEjRyMSgD7cNufCGEXbPXsma7RctBgfRw3Haqkk8oByFa",
+  "name": "IntainMARKETS",
+  "description": "Debt capital markets platform built on blockchain that ensures trust, transparency and efficiency in structured finance",
+  "icon": "https://cdn.snowpeer.io/intain.png",
+  "color": "#018E82",
+  "website": "https://intainft.com",
+  "chains": [],
+  "categories": [
+    "FINANCE"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

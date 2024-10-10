@@ -1,0 +1,34 @@
+{
+  "id": "DxanjptkyaeM1eUew2gzUMngHM3n5ttUyMj7BuHw9riXh9pJC",
+  "name": "Pulsar",
+  "description": "An MMO real-time strategy game with a 4x economy",
+  "icon": "https://cdn.snowpeer.io/pulsar.jpg",
+  "color": "#2C2C2C",
+  "website": "https://pulsar.game",
+  "chains": [],
+  "categories": [
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "CTKnVytgw7EyxtAQwKqaSFndNQZx5K35YpPr2nLbvbLkaHGT7",
+  "name": "jonoperf",
+  "description": "testnet for develop",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

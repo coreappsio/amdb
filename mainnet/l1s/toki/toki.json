@@ -1,0 +1,34 @@
+{
+  "id": "2PEXVyBhvZXFrY8NDjh6WvaK3PzfWvRgsif5Xbj3ARsVA7axCw",
+  "name": "Toki",
+  "description": "Toki can gamify your customers experience with your brand with engaging activities, challenges and airdrops. Customize the entire experience to fit the look and feel of your brand. Plus, Toki is the only platform that allows you to create alliances with other likeminded brands to boost your loyalty",
+  "icon": "https://cdn.snowpeer.io/toki.svg",
+  "color": "#fc4c01",
+  "website": "https://www.buildwithtoki.com",
+  "chains": [],
+  "categories": [
+    "LOYALTY"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

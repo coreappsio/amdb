@@ -1,0 +1,32 @@
+{
+  "id": "VWKtAXBnU8GHRwgFx6fPB8wKbmWXWsieA6ZCYhV5qc57xPmQ",
+  "name": "QR0807T1TS",
+  "description": "Offical explorer for QR0807T1TS",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

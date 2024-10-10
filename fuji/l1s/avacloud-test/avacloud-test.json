@@ -1,0 +1,32 @@
+{
+  "id": "uUS9G8CqHrw63oyafE9Dqcu4ZqmBkD4W3YWqC4bDbcTtYxwjS",
+  "name": "AvaCloud Test",
+  "description": "This is the official explorer for AvaCloud Test Subnet.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

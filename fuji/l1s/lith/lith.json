@@ -1,0 +1,32 @@
+{
+  "id": "2dkpo95qRS73zrU5KmnzSHdrSvg8EVqP2i47apGUEs3pYYTo64",
+  "name": "Lith",
+  "description": "The Lith Subnet powers the Genesis version of MapleStory Universe. An expansion of Nexon’s most widely recognized IP, MapleStory Universe is a virtual world ecosystem that creates a more immersive and engaging adventure by leveraging blockchain technology to craft a unique experience defined by digital scarcity, open ecosystems, and MapleStory NFTs at its core.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

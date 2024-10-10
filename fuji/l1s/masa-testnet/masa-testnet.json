@@ -1,0 +1,32 @@
+{
+  "id": "26WrXutvQCZETJ9A6tdchAPUgpyWYRtigh6d2vJRUAVktAkbwf",
+  "name": "Masa Testnet",
+  "description": "Masa Testnet",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

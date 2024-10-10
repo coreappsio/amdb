@@ -1,0 +1,35 @@
+{
+  "id": "G6pMcvRDSEtRJwACEyftAHahKNCJWMrhFyVvC2N1sdrNN1yXJ",
+  "name": "EMDX",
+  "description": "EMDX is a decentralized derivative exchange that focuses on bringing traditional assets into the web3 environment and enhancing cross-fi liquidity",
+  "icon": "https://cdn.snowpeer.io/emdx.png",
+  "color": "#00d46a",
+  "website": "https://emdx.io",
+  "chains": [],
+  "categories": [
+    "FINANCE",
+    "DEX"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

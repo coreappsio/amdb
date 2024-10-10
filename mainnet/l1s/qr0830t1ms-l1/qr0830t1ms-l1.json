@@ -1,0 +1,32 @@
+{
+  "id": "2u4CdtuzwT2AtS8UcZYWAiB3sVWrSJVyD8QQMR3d9wmGAXZo5v",
+  "name": "QR0830T1MS L1",
+  "description": "QA L1 08302024",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

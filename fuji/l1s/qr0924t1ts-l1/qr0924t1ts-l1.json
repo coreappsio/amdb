@@ -1,0 +1,32 @@
+{
+  "id": "qfCp6vG89nEKc1LxbXkdabn968HXKUyTzy5aJ5HFNTFS87CjW",
+  "name": "QR0924T1TS L1",
+  "description": "QR0924T1TS",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

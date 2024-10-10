@@ -1,0 +1,10 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore specific files
+avalanche-fuji.subnetmappings.json
+avalanche-mainnet.subnetmapping.json
+index.js
+package-lock.json
+package.json
+subnet.ts

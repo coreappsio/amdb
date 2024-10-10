@@ -1,0 +1,32 @@
+{
+  "id": "ezDDeh6DL4AQkDd471cseH2w6D55kgzmSnHQiLbfAtckMYBJe",
+  "name": "TESTNet ThirdTEST L1",
+  "description": "複数接続用や他のテストに用いるサブネットになります。",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

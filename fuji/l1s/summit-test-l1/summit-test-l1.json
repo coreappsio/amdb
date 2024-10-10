@@ -1,0 +1,32 @@
+{
+  "id": "AnSZsjCnbkEtgZ2oM2AqWFkruuJhYqUR87nCKjj1GsTdghFKh",
+  "name": "Summit Test L1",
+  "description": "AvaCloud Summit Chain",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

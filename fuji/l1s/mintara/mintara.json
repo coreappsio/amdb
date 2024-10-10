@@ -1,0 +1,32 @@
+{
+  "id": "2UFUBxhK9RPzDmb5CaTpsUzNgzrzzJLcf6oe1Q739kcNvz8YAY",
+  "name": "Mintara",
+  "description": "Testnet for Mintara.",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

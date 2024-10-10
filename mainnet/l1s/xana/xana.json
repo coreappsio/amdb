@@ -1,0 +1,37 @@
+{
+  "id": "ii7zCu8JNnYYgPT8PwpVYiTS1gcK5RWJfsyuPXTDv8Bn9wspY",
+  "name": "XANA",
+  "description": "XANA is AI driven web 3.0 infrastructure custom-built for the Metaverse. Broadly Adopted by major institutions, local governments, and global brands",
+  "icon": "https://cdn.snowpeer.io/xana.svg",
+  "color": "#C2129C",
+  "website": "https://xana.net",
+  "chains": [],
+  "categories": [
+    "METAVERSE",
+    "NFT",
+    "AI",
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

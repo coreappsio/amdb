@@ -1,0 +1,32 @@
+{
+  "id": "2pU5GKPkR9YNXiLxkUXgwNQq5RtRF4e7bNZdtMk6jSJ4iqwtuu",
+  "name": "QR0103I1",
+  "description": "Subnet Description",
+  "icon": "",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

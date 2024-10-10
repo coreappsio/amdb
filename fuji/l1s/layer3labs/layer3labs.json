@@ -1,0 +1,32 @@
+{
+  "id": "27wLEZRFTT8JUC6swhasdyfSevEPfa2rmrcu6spEmcXNAzWzHv",
+  "name": "Layer3Labs",
+  "description": "Layer 3 Labs is a software development firm specializing in Web3 integrations at large enterprises. This subnet hosts some of our most exciting projects, ranging from multinational sports leagues to global non-profits.",
+  "icon": "https://cdn.snowpeer.io/layer3labs.png",
+  "color": "",
+  "website": "",
+  "chains": [],
+  "categories": [],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

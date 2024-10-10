@@ -1,0 +1,34 @@
+{
+  "id": "11111111111111111111111111111111LpoYY",
+  "name": "Avalanche Primary Network",
+  "description": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by\ntime-to-finality. Avalanche is blazingly fast, low cost, and eco-friendly",
+  "icon": "https://cdn.snowpeer.io/avax.svg",
+  "color": "#f34333",
+  "website": "https://avax.network",
+  "chains": [],
+  "categories": [
+    "L1"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}

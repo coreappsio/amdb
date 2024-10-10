@@ -1,0 +1,34 @@
+{
+  "id": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
+  "name": "Beam",
+  "description": "An opinionated chain built for gaming.",
+  "icon": "https://cdn.snowpeer.io/beam.png",
+  "color": "#f4ece4",
+  "website": "https://www.onbeam.com",
+  "chains": [],
+  "categories": [
+    "GAMING"
+  ],
+  "docs": "",
+  "explorer": "",
+  "socials": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "mainCategory": "",
+  "assets": [
+    {
+      "for": "",
+      "pricingDataProvider": [
+        {
+          "name": "",
+          "id": ""
+        }
+      ],
+      "symbol": "",
+      "name": ""
+    }
+  ]
+}
