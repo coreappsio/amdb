@@ -53,9 +53,6 @@ This project aims to standardize subnet/L1 metadata on the Avalanche network. It
   "links": {
     "website": "",
     "whitepaper": "",
-    "explorers": [
-      ""
-    ],
     "forum": "",
     "git": "",
     "docs": "",
