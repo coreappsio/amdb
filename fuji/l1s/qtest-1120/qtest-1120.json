@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2Qp2ZaGG6sqbqjxSqUPGhKaC5cKF4zq3QeG6jo7F7Tf1yc1duv",
   "name": "QTest-1120",
   "description": "This is the official explorer for QTest-1120",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2RNgL37LptDdTVe21UhG8zcBgMB8WDeE6qjqi3HzvMhYr8b7NR",
+      "name": "qr1120y1",
+      "vmId": "rxpzSs6tf42Xxzpx94XqPS3dMRM46oHyjLyRDQ1XsHPkwUzWs",
+      "vmName": "EVM"
     }
   ]
 }

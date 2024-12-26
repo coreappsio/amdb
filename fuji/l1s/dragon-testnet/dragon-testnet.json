@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "21xudaHzCDvSMhVgFiTKF7qYZtHviC1amkxe2K8xwL7QpanhCK",
   "name": "Dragon Testnet",
   "description": "Testnet for Dragon",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "CGoeQxyrMUrPowBFTpUYthPLPWgJND86iLLxA95b8ANEeGUUk",
+      "name": "DragonTestnet",
+      "vmId": "X9P8jY1mid851f1bkS5p6Vncz72orD25VQ2b57aydj3zNZWn8",
+      "vmName": "EVM"
     }
   ]
 }

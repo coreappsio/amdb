@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "Y1kej3AQsVGf5DFn1S6eY9JGK2ReJGCxiVrurYvWrEipHtPQE",
   "name": "LT2",
   "description": "Official testnet explorer for the LT2 subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "UomW3qn5vhvH6d1QEd4aPL19gxSvkx3Gbo2A8rkpHV7wehXQW",
+      "name": "LT2",
+      "vmId": "acihiBNq88vjvz6Tfwqwo7Hvfwa4a5RUGRuYjCXJbU3iApkpG",
+      "vmName": "EVM"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "links": {
+    "website": "https://www.intersect.to/"
+  },
+  "id": "2UPuVAx5yFubvDPm6CYywT4mYAdTW3zM1XXD7R7ic8s2zQhF8U",
+  "name": "intersect",
+  "description": "The subnet is used to facilitate gas-less transactions for the zeroone platform. A platform that allows users to create, share and collect without having to worry about fees.",
+  "primaryColor": "#E233FF",
+  "logo": "https://cdn.snowpeer.io/intersect.png",
+  "categories": [
+    "METAVERSE"
+  ],
+  "mainCategory": "METAVERSE",
+  "chains": [
+    {
+      "id": "2Ec9g5vbwwoy7MEyjmjjEjuS6FzaeToBm1KVbvDU6HeKsSNVTF",
+      "name": "intersect",
+      "vmId": "oS771BfpsymUfaGKNyR27cY8SwumaNwq9GTVkQpAQ4WCdughz",
+      "vmName": null
+    }
+  ]
+}

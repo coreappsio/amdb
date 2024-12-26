@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2e1mrHanmwwihLNGS8qGy5zSeg13miQy852EbuEij5WAAQ8u68",
   "name": "QR0408T1TS Testnet",
   "description": "QR0408T1TS Testnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2ZxdBJDy149yiLMYxCm672xcFjE8BnLg5CJmYp5fy7FxbUSgXe",
+      "name": "QR0408T1TSTestnet",
+      "vmId": "cpEkMvuKHRtMbodiZc1GGFKkmKG6gQuQxk5st66LasqNAWsDm",
+      "vmName": "EVM"
     }
   ]
 }

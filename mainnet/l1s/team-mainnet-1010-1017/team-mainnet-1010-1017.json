@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "BU3kp2jPE7joksdp13xPjXuUVTzBSHNKLsU9RfKB7TvEZvf46",
   "name": "Team Mainnet 1010-1017",
   "description": "This is the official subnet explorer for the Team Mainnet 1010-1017 Subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "fwMcpBg4Kv8wbfUDLiRJKrUHh5xY4Uj77PdXAutpb9sH7yLYz",
+      "name": "TeamMainnet10101017",
+      "vmId": "eAnR2cnTx2RpaUS6gKvwAffxXsN7DHK6Ma7t55oRJbbyiT1ky",
+      "vmName": "EVM"
     }
   ]
 }

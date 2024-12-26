@@ -1,34 +1,21 @@
 {
+  "links": {
+    "website": "https://gunzillagames.com"
+  },
   "id": "9ewhue9Lyryt1G4H1icgZotc6wRVwiPgmiVemSN24JXwg91JH",
   "name": "Gunzilla",
-  "description": "",
-  "icon": "https://cdn.snowpeer.io/gunzilla.png",
-  "color": "#afff01",
-  "website": "https://gunzillagames.com",
-  "chains": [],
+  "primaryColor": "#afff01",
+  "logo": "https://cdn.snowpeer.io/gunzilla.png",
   "categories": [
     "GAMING"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "222KARi6VgSZXbewFp1BvZgyuSKVa9JPb7swhbwN9fUHFKgxUD",
+      "name": "gunzilla",
+      "vmId": "YUKPT5yt72CKSu4gD4gaRhkSAEtqcGycn2tfyz1Vq7oVF1sc8",
+      "vmName": "EVM"
     }
   ]
 }

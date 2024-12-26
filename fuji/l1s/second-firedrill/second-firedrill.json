@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2UDoJcLjTeTFvvi3m5gMBatwXDxax75UJ7UVpvjBAYkcGg1hb4",
   "name": "Second Firedrill",
   "description": "This is the official explorer of the Second Firedrill Subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2Pvk9oh8fxUizgUT3zvBJzxkNw1KiXUEHCi9jnu2ep9PTxUZka",
+      "name": "SecondFiredrillTestnet",
+      "vmId": "djEvoE5V9wE6X8kMzFvaDvBvuarJEj4UtqYg5rx98pkWm8sBS",
+      "vmName": "EVM"
     }
   ]
 }

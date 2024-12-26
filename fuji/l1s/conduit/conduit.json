@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "wW7JVmjXp8SKrpacGzM81RBXdfcLDVY6M2DkFyArEXgtkyozK",
   "name": "Conduit",
   "description": "Environment for testing Avalanche Warp Messaging and Teleporter.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "9asUA3QckLh7vGnFQiiUJGPTx8KE4nFtP8c1wTWJuP8XiWW75",
+      "name": "Conduit",
+      "vmId": "WhYXvKt2weGZNvQj5P4m55FXGRyqnKXZkm44LzTbpaLZa2nx7",
+      "vmName": "EVM"
     }
   ]
 }

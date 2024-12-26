@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "21vtEKXW1ikD55aDB96EqQsDhhRNKjkzBjTmKneKvZi1gYxzYy",
   "name": "LT9",
   "description": "Official Subnet explorer for LT9 Subnet.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2hucgYkt2mmRA5Bx1TPZ8mH3dW8pZ3tTWnTjqXQG1Y8uzVyMCe",
+      "name": "LT9",
+      "vmId": "acirtWpRHcVpwgfrk5dCLBk3td7RBtQdRQr49snfKrm1D8kUt",
+      "vmName": "EVM"
     }
   ]
 }

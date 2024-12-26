@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2cCkejfKVcKffPvCTao4kXrxYTCMqbzk3nY2WdoVHd11rQhfnx",
   "name": "QR1129I1",
   "description": "This is the official subnet explorer for the QR1129I1 Subnet.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2jWHQtnuh2rx7RvXwzNfbcKufhiPxK2FV8u3CK2U1ozhJWdovS",
+      "name": "QR1129I1",
+      "vmId": "cpEmf68GiPjZg5YrGvsXCzvQ3LuGxeJoJAx87agRRKnGqnvLB",
+      "vmName": "EVM"
     }
   ]
 }

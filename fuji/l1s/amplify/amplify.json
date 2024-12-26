@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2PsShLjrFFwR51DMcAh8pyuwzLn1Ym3zRhuXLTmLCR1STk2mL6",
   "name": "Amplify",
   "description": "Environment for testing Avalanche Warp Messaging and Teleporter.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2nFUad4Nw4pCgEF6MwYgGuKrzKbHJzM8wF29jeVUL41RWHgNRa",
+      "name": "Amplify",
+      "vmId": "VpFwXvXYuZfMLXcSiy7aKtJGjzw7Uxdmeb98YgcZkyQPJy2FM",
+      "vmName": "EVM"
     }
   ]
 }

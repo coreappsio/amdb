@@ -1,0 +1,22 @@
+{
+  "links": {
+    "website": "https://deboard.gg/"
+  },
+  "id": "2QFrcg2dZbfyQaaSvakAQyXi6bFfSFGSzvi2ELUECbXK5wCAWB",
+  "name": "Deboard",
+  "description": "The AI and casual gaming platform",
+  "primaryColor": "#e84142",
+  "logo": "https://cdn.snowpeer.io/deboard.svg",
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "id": "2poYwjB2XAhYPuqLHy59rdp3ceBanBvx4oNKvxE7EQzqdFZz7v",
+      "name": "Deboard",
+      "vmId": "X85vWanmPMegBSwogwmcFcQb6WSMXYWS7yVz5JZ1Qc6Gqy8At",
+      "vmName": null
+    }
+  ]
+}

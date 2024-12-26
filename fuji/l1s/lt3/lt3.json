@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "Lkvrns1GNQbmDGxTeQLCRSgJ2ZxDonLqQNsx6w4tPQsHujLbb",
   "name": "LT3",
   "description": "Official testnet explorer for the LT3 subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "K2BqAGs563j9S7F7FPukqaFvKupMBNJFApY2czdoJQV63skLN",
+      "name": "LT3",
+      "vmId": "acij2E9v1CsBWEBEPxxQjGDNZU5Q63rD19Bcw1ZVqos3ZkcLh",
+      "vmName": "EVM"
     }
   ]
 }

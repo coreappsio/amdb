@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2pU5GKPkR9YNXiLxkUXgwNQq5RtRF4e7bNZdtMk6jSJ4iqwtuu",
   "name": "QR0103I1",
   "description": "Subnet Description",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "WeQWkNvwGpJ7W5Q9ogJcg2coG3msBFswta6vKgpwbeB8JtpT2",
+      "name": "QR0103I1",
+      "vmId": "cpEkM3DHiFyRMQL8AkLWwfEgksd5ajVd2p8JhAePHnUArd2ao",
+      "vmName": "EVM"
     }
   ]
 }

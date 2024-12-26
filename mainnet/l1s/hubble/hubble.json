@@ -1,34 +1,22 @@
 {
+  "links": {
+    "website": "https://hubble.exchange"
+  },
   "id": "2mxZY7A2t1tuRMALW4BcBUPVGNR3LH1DXhftdbLAHm1QtDkFp8",
   "name": "Hubble",
   "description": "A Layer 1 for a Perps OrderBook DEX \n",
-  "icon": "https://cdn.snowpeer.io/hubble.svg",
-  "color": "#6117ff",
-  "website": "https://hubble.exchange",
-  "chains": [],
+  "primaryColor": "#6117ff",
+  "logo": "https://cdn.snowpeer.io/hubble.svg",
   "categories": [
     "FINANCE"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "FINANCE",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2jfjkB7NkK4v8zoaoWmh5eaABNW6ynjQvemPFZpgPQ7ugrmUXv",
+      "name": "hubblenet",
+      "vmId": "o1Fg94YujMqL75Ebrdkos95MTVjZpPpdeAp5ocEsp2X9c2FSz",
+      "vmName": null
     }
   ]
 }

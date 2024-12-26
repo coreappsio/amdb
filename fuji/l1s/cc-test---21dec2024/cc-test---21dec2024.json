@@ -1,0 +1,17 @@
+{
+  "links": {},
+  "id": "2WD8dXUCt2U8z3esaVPmED8NiHCcXaghzGBkwrgTFFZYGRU5ZC",
+  "name": "CC Test - 21Dec2024",
+  "chains": [
+    {
+      "evmId": "41304",
+      "rpcUrl": "https://subnets.avax.network/test11dec/testnet/rpc",
+      "description": null,
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/test11dec",
+      "id": "Q63p9euGDxgUTXcf83HKJKFX2G3iaeK57ghuZNPQUuiwNgDEN",
+      "name": "CCTest21Dec2024",
+      "vmId": "Wd88YSrGv8ZBrvCiTz1qSu8G6qVuv4gW6FhbhksLG9LiJjTj2"
+    }
+  ]
+}

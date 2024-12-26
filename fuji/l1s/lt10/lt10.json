@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2P6yHDMZhgobeApVvUrNXevp3v4bS3Fg8ZtZWFRxreWw3DPWm1",
   "name": "LT10",
   "description": "Official Subnet explorer for LT10 Subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "4iYdd7Zd2KHuG4dHHue8WCPMQ2JfK4tofgE9c8P9SEEc5pm4D",
+      "name": "LT10",
+      "vmId": "acigePcx2trP9rH5qJh4uro11hfE66hd3Ucs4bvtxSSv4My5z",
+      "vmName": "EVM"
     }
   ]
 }

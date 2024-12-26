@@ -1,35 +1,23 @@
 {
+  "links": {
+    "website": "https://huntingparty.smolapa.com"
+  },
   "id": "CGnV1d5ErH1fqncaggArg1UmSrpmCWvDTr1wU3vuXwDT6PHpD",
   "name": "Hunting Party",
   "description": "A play-to-earn hunting game with teams, memes, and rewards.",
-  "icon": "https://cdn.snowpeer.io/huntingparty.jpg",
-  "color": "#2eb1ff",
-  "website": "https://huntingparty.smolapa.com",
-  "chains": [],
+  "primaryColor": "#2eb1ff",
+  "logo": "https://cdn.snowpeer.io/huntingparty.jpg",
   "categories": [
     "GAMING",
     "NFT"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "RVMTSJQauubhivGsm1zES192nNqh66mP1Cnmb4Jo2n3A7rStE",
+      "name": "huntingparty",
+      "vmId": "o1Fwxyp3gSCjw2egiGTFfYGu2mWaks3do7C83E6CursLFLTeU",
+      "vmName": null
     }
   ]
 }

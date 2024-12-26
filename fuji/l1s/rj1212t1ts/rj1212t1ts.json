@@ -1,0 +1,13 @@
+{
+  "links": {},
+  "id": "2Y4YYkT7B1ZRnkn9J5Ky3G1tNyZSwbR2eENKsHQbRWtgxpsvv2",
+  "name": "rj1212t1ts",
+  "chains": [
+    {
+      "id": "2RoQsGi37q4rYpVdHgYG5T1zSLtf4TFBNTf3fLS7xYUiWKm2bo",
+      "name": "rjtts",
+      "vmId": "sPaE3GJcMofUA1ruE4xUe62HRc4LgUQxSUoed15oss92HCnr3",
+      "vmName": "EVM"
+    }
+  ]
+}

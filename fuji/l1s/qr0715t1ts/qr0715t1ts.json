@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2MWR679hMSntpu8veEwK3cWk5Z1YRsmbAKE48KRMtjvCWmuJxV",
   "name": "QR0715T1TS",
   "description": "QA Regression",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2gQwUZaBTv3iQz8uwQxXsnvi3vfspG5SW92MmmopZm8A3quaho",
+      "name": "QR0715T1TS",
+      "vmId": "cpEkNpf89gLDCEtXMdZDpDDNqJdHUrKYvEncK5LMAEg3EayZo",
+      "vmName": "EVM"
     }
   ]
 }

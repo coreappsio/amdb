@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "TfsHKZ9t35aBN6GkSihTgLYkZvDj635reGFFXpvqyd2H97URU",
   "name": "TESTNet SecondTEST",
   "description": "複数接続ケースに利用するサブネットになります。",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "yqC44Ng8grjpgko6RJ16gpE2R9mJ3vQmrgfoHERnsTpQE98vQ",
+      "name": "TESTNetSecondTEST",
+      "vmId": "e7auSJWyVwroajcTsRpPwSh9CcFXGx8GtmPSXuqGZFdHuqa2e",
+      "vmName": "EVM"
     }
   ]
 }

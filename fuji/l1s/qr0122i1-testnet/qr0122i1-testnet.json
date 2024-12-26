@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "saG6FqANrcgfNjTmWHYGgQBfrUpjp6tDaYo4nJZVct4sCiRVj",
   "name": "QR0122I1 Testnet",
   "description": "QA Testing Subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "SUpiDq9jQgfFD5K8wfiJUXYyYuSy5W2exr1EcyfinU1JdgLc3",
+      "name": "QR0122I1Testnet",
+      "vmId": "cpEkM3M5eFqANqtthr6Dj3E5UszNLEFvCUhZ5xsAhucVt3Aq1",
+      "vmName": "EVM"
     }
   ]
 }

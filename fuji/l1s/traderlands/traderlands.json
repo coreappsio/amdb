@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "rocv8gzCriAaeQmRhpEpt5XT7REZQZX4Gum4LvYHzzo3TxdqT",
   "name": "Traderlands",
   "description": "Testnet of Traderlands Subnet; a social trading platform, powered by algorithms.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "SmPDSeiDaynPNC1GSFCDDYmADTUU7xX6yfcwvqHMAw989DUR9",
+      "name": "TraderlandsTestnet",
+      "vmId": "eC5eZPGZkHtacCETGxz2vyDmK2LpxHGiDwwmy9KsT3GrBTPsD",
+      "vmName": "EVM"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "links": {},
+  "id": "2KNdSNc6TFYPssihx2h8yQjBTDrSrSPXT3WAwcwhJgUvFbMuqw",
+  "name": "Modex Subnet L1",
+  "description": "Modex test subnet",
+  "chains": [
+    {
+      "evmId": "79685",
+      "rpcUrl": "https://subnets.avax.network/modexsubne/testnet/rpc",
+      "description": "Modex test subnet",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/modexsubne",
+      "id": "uBYgadiDfekCTcTNgkDc1JbH3vjuj9TLMAWKKmVuL8uFEDJuK",
+      "name": "ModexSubnet",
+      "vmId": "b6ydTsHBCBfGFPhUximacgTzFoLgCfC3ywqM5zcqBbE1U5NUk"
+    }
+  ]
+}

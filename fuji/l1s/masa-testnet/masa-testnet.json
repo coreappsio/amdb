@@ -1,32 +1,18 @@
 {
+  "links": {},
   "id": "26WrXutvQCZETJ9A6tdchAPUgpyWYRtigh6d2vJRUAVktAkbwf",
   "name": "Masa Testnet",
   "description": "Masa Testnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "103454",
+      "rpcUrl": "https://subnets.avax.network/masatestne/testnet/rpc",
+      "description": "Masa Testnet",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/masatestnet",
+      "id": "2nUwxLBRCdgFfS7MeKTbrzBL7q46vUp3ZAGuQP8pTCGuKPcvub",
+      "name": "MasaTestnet",
+      "vmId": "b5awsgDsSvErn6HeCrt5YgAdUqweFaVeSFwnjC2NxV9FZLJPV"
     }
   ]
 }

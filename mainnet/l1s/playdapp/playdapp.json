@@ -1,0 +1,26 @@
+{
+  "links": {
+    "website": "https://playdapp.io"
+  },
+  "id": "2bSdrPJaGvsDFeJtC7v9ut4m2vLKBgs2dJzRsDpxYKbqTyBmr9",
+  "name": "Playdapp",
+  "description": "We have developed a Web3-based service that everyone can enjoy.",
+  "primaryColor": "#2bcab0",
+  "logo": "https://cdn.snowpeer.io/pda2.png",
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "evmId": "504441",
+      "rpcUrl": "https://subnets.avax.network/playdappne/mainnet/rpc",
+      "description": "We have developed a Web3-based service that everyone can enjoy.\n\n",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/playdappne",
+      "id": "jAvZZkDuokp67yH8QQm4AXv1qUm3fwhxUUo2mmMsmopdgHChp",
+      "name": "PlaydappNetwork",
+      "vmId": "cRJoFPANq1613xoqB9fKgNTaJG3ogR87p4gziEZjyWraPG2u3"
+    }
+  ]
+}

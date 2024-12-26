@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "25e4GyTXTaPeAxp3jHgu5XgQ5xe95aehCPu3Bx9tDZddhXqVns",
   "name": "MUGEN Testnet",
   "description": "mugen testnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "YY8TTyP4tePUPf2TLkBZcR5hW4vYNMmNAshivAdaC9wTBJpzk",
+      "name": "MUGENTestnet",
+      "vmId": "b4NW8CmaCNjJsqvieArCdShZuhoNN5QwMgtdfHvu9mkMhaamE",
+      "vmName": "EVM"
     }
   ]
 }

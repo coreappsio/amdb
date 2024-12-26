@@ -1,34 +1,26 @@
 {
+  "links": {
+    "website": "https://www.onbeam.com"
+  },
   "id": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
   "name": "Beam",
   "description": "An opinionated chain built for gaming.",
-  "icon": "https://cdn.snowpeer.io/beam.png",
-  "color": "#f4ece4",
-  "website": "https://www.onbeam.com",
-  "chains": [],
+  "primaryColor": "#f4ece4",
+  "logo": "https://cdn.snowpeer.io/beam.png",
   "categories": [
     "GAMING"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "4337",
+      "rpcUrl": "https://subnets.avax.network/beam/mainnet/rpc",
+      "description": "An opinionated chain built for gaming.",
+      "vmName": null,
+      "explorerUrl": "https://subnets.avax.network/beam",
+      "id": "2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn",
+      "name": "beam",
+      "vmId": "kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz"
     }
   ]
 }

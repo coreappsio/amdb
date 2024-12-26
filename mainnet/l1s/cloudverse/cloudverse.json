@@ -1,34 +1,22 @@
 {
+  "links": {
+    "website": "https://muadao.build"
+  },
   "id": "4YtJVNm6KnytRaEDeezC3mHK5FnsP75Sjgxa5eiav3sxNUQD9",
   "name": "Cloudverse",
   "description": "The Cloudverse blockchain network is operated and managed by MUA DAO, and it carries all the enterprise metaverse data within the Cloudverse solution. Cloudverse is an enterprise-level metaverse platform that harnesses Alibaba Cloud services and resources from the Avalanche ecosystem, constructed and managed by MUA DAO. It offers a comprehensive metaverse solution for businesses and facilitates continuous expansion with support for various devices under all-encompassing conditions.",
-  "icon": "https://cdn.snowpeer.io/cloudverse.png",
-  "color": "#EA5233",
-  "website": "https://muadao.build",
-  "chains": [],
+  "primaryColor": "#EA5233",
+  "logo": "https://cdn.snowpeer.io/cloudverse.png",
   "categories": [
     "METAVERSE"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "METAVERSE",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "21wWGaE2vXSeJqfYwyiMukJuP866jFfKNYkCLXmhx9SZakh11G",
+      "name": "cloudverse",
+      "vmId": "kneE28g9GLPd1k5admf4EyHhWZGMJRNTQbzy4sS3UiCvBjW2B",
+      "vmName": "EVM"
     }
   ]
 }

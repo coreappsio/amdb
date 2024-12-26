@@ -1,34 +1,34 @@
 {
+  "links": {
+    "website": "https://www.d-teknoloji.com.tr"
+  },
   "id": "TVaAr9i1UzGFtRjykkvqLwKhGfj7h8BSthFTYkmGj8RNCrSc5",
   "name": "D-Chain",
   "description": "D-Chain is a private blockchain with an unique architecture that offers high performance and scalability for corporates. D-Wallet is the first application developed on the D-Chain, for an enterprise-based loyalty program",
-  "icon": "https://cdn.snowpeer.io/dchain.png",
-  "color": "#007bff",
-  "website": "https://www.d-teknoloji.com.tr",
-  "chains": [],
+  "primaryColor": "#007bff",
+  "logo": "https://cdn.snowpeer.io/dchain.png",
   "categories": [
     "loyalty"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "loyalty",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
+      "id": "4DGvhEmW1HwQtoDxgwUy2uNmf8GKtQtD1F8wunfGU6u1hhKiv",
+      "name": "D CHAIN",
+      "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+      "vmName": "EVM"
+    },
     {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2TZcCM5NsiyLyqnAYqmLtaGns2DZTxkpjJp9ma2nUkfbUmfrSZ",
+      "name": "D CHAIN",
+      "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+      "vmName": "EVM"
+    },
+    {
+      "id": "EXNtSavNQDV6mVn7E6eUk2nTQijcGgyBY28xvo4bcmmW3cqqA",
+      "name": "Dlot Subnet Evm Test",
+      "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+      "vmName": "EVM"
     }
   ]
 }

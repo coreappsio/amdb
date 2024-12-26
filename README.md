@@ -1,86 +1,117 @@
-# Avalanche Network JSON Configuration
+# Avalanche Metadata DB
 
-This repository contains JSON configuration files for subnets on the Avalanche network. Each JSON file includes detailed information about a specific subnet, such as its ID, name, description, icon, color, website, chains, categories, documentation, explorer, social media links, main category, and assets.
+This project aims to standardize subnet/L1 metadata on the Avalanche network. It includes information like name, website, and price data from APIs (e.g., CoinGecko). This data is accessible via the Snowpeer API for explorers and researchers.
 
-## JSON File Structure
+## Project Structure
 
-Each JSON file should follow the structure shown below:
+- **fuji/l1s**: JSON files for the Fuji testnet.
+- **mainnet/l1s**: JSON files for the Mainnet.
+
+## L1 Model Sample
 
 ```json
 {
-  "id": "11111111111111111111111111111111LpoYY",
-  "name": "Avalanche Primary Network",
-  "description": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality. Avalanche is blazingly fast, low cost, and eco-friendly",
-  "icon": "https://cdn.snowpeer.io/avax.svg",
-  "color": "#f34333",
-  "website": "https://avax.network",
+  "id": "",
+  "name": "",
+  "description": "",
+  "logo": "",
+  "primaryColor": "",
+  "permissionless": true,
+  "private": false,
   "chains": [
     {
-      "name": "C-Chain",
-      "id": "2"
-    },
-    {
-      "name": "X-Chain",
-      "id": "3"
-    }
-  ],
-  "categories": [
-    "L1",
-    "Smart Contracts"
-  ],
-  "docs": "https://docs.avax.network",
-  "explorer": "https://explorer.avax.network",
-  "socials": [
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/avalancheavax"
-    },
-    {
-      "name": "Reddit",
-      "url": "https://reddit.com/r/avax"
-    }
-  ],
-  "mainCategory": "Blockchain",
-  "assets": [
-    {
-      "for": "AVAX",
-      "pricingDataProvider": [
+      "id": "",
+      "name": "",
+      "description": "",
+      "evmId": "",
+      "vmName": "",
+      "explorerUrl": "",
+      "rpcUrl": "",
+      "assets": [
         {
-          "name": "CoinGecko",
-          "id": "avalanche-2"
-        },
-        {
-          "name": "CoinMarketCap",
-          "id": "avax"
+          "name": "",
+          "symbol": "",
+          "type": "",
+          "denomination": "",
+          "cap":  "",
+          "description": "",
+          "logo": "",
+          "pricingDataProvider": [
+            {
+              "name": "CoinGecko",
+              "id": ""
+            },
+            {
+              "name": "CoinMarketCap",
+              "id": ""
+            }
+          ]
         }
-      ],
-      "symbol": "AVAX",
-      "name": "Avalanche"
+      ]
     }
+  ],
+  "links": {
+    "website": "",
+    "whitepaper": "",
+    "explorers": [
+      ""
+    ],
+    "forum": "",
+    "git": "",
+    "docs": "",
+    "socials": [
+      {
+        "name": "",
+        "url": ""
+      }
+    ]
+  },
+  "team": [
+    {
+      "name": "",
+      "role": "",
+      "socials": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "mainCategory": "",
+  "categories": [
+    ""
   ]
 }
+```
 
+## Contributing
 
-Adding New Subnets
-To add a new subnet to the system, follow these steps:
+1. Fork the repository.
+2. Clone your fork:
+  ```sh
+  git clone https://github.com/your-username/amdb.git
+  ```
+3. Create a new branch:
+  ```sh
+  git checkout -b your-branch-name
+  ```
+4. Make your changes.
+5. Commit your changes:
+  ```sh
+  git add .
+  git commit -m "Description of your changes"
+  ```
+6. Push to your fork:
+  ```sh
+  git push origin your-branch-name
+  ```
+7. Create a Pull Request.
 
-1-Fork the Repository: Create a fork of this repository on GitHub.
-2-Create a JSON File: Create a new JSON file with the structure shown above and fill in the necessary details for your subnet.
-3-Place the JSON File: Place the JSON file in the appropriate directory (fuji/l1s or mainnet/l1s).
-4-Commit and Push: Commit your changes and push them to your forked repository.
-5-Create a Pull Request: Open a pull request to the original repository to integrate your subnet into the system.
+## Code of Conduct
 
-Updating an Existing Subnet
+This project follows a [Code of Conduct](CODE_OF_CONDUCT.md).
 
-To update an existing subnet, follow these steps:
+## License
 
-1-Fork the Repository: Create a fork of this repository on GitHub.
-2-Find the JSON File: Locate the JSON file you want to update and make the necessary changes.
-3-Commit and Push: Commit your changes and push them to your forked repository.
-4-Create a Pull Request: Open a pull request to the original repository to integrate your changes.
-
-Contributing
-We welcome contributions! Whether you are adding new subnets or updating existing ones, please follow the steps outlined above. If you have any questions or suggestions, feel free to open an issue.
-
-License
-This project is licensed under the MIT License. For more information, see the LICENSE file.
+Licensed under the MIT License. See the [LICENSE](LICENSE) file.

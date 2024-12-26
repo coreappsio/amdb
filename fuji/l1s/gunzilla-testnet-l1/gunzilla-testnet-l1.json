@@ -1,0 +1,17 @@
+{
+  "links": {},
+  "id": "fdTD1qW3wyENaZjk19LSyquQV2t9V3efShf6q1fzvVCwdjxrg",
+  "name": "Gunzilla Testnet L1",
+  "chains": [
+    {
+      "evmId": "49321",
+      "rpcUrl": "https://subnets.avax.network/gunzilla/testnet/rpc",
+      "description": null,
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/gunzilla",
+      "id": "ryk9vkvNuKtewME2PeCgybo9sdWXGmCkBrrx4VPuZPdVdAak8",
+      "name": "gunzillaevm",
+      "vmId": "nZiR8bDJwRc6Avpf683UaQWHknVA7vWAxX8qh62ZXbSwPDaTZ"
+    }
+  ]
+}

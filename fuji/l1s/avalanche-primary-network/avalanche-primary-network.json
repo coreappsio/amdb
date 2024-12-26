@@ -1,34 +1,40 @@
 {
+  "links": {
+    "website": "https://avax.network"
+  },
   "id": "11111111111111111111111111111111LpoYY",
   "name": "Avalanche Primary Network",
   "description": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by\ntime-to-finality. Avalanche is blazingly fast, low cost, and eco-friendly",
-  "icon": "https://cdn.snowpeer.io/avax.svg",
-  "color": "#f34333",
-  "website": "https://avax.network",
-  "chains": [],
+  "primaryColor": "#f34333",
+  "logo": "https://cdn.snowpeer.io/avax.svg",
   "categories": [
     "l1"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "l1",
+  "chains": [
     {
-      "name": "",
-      "url": ""
+      "evmId": "43113",
+      "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+      "description": "The Contract Chain on Avalanche's test subnet.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/c-chain",
+      "id": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
+      "name": "C-Chain",
+      "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6"
+    },
+    {
+      "id": "2JVSBoinj9C2J33VntvzYtVJNZdN2NKiwwKjcumHUWEb5DbBrm",
+      "name": "X-Chain",
+      "vmId": "jvYyfQTxGMJLuGWa55kdP2p2zSUYsQ5Raupu4TW34ZAUBAbtq",
+      "vmName": "AVM"
+    },
+    {
+      "id": "11111111111111111111111111111111LpoYY",
+      "name": "P-Chain",
+      "vmId": "11111111111111111111111111111111LpoYY",
+      "vmName": "PVM"
     }
   ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
-    }
-  ]
+  "permissionless": true,
+  "private": false
 }

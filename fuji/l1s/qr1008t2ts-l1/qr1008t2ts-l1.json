@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2N78znhdb5PxSHjqagcMboNZqPh43JVBpZU7BJPgNrWhwVsxkV",
   "name": "QR1008T2TS L1",
   "description": "QR1008T2TS",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "gMv4APHZc74EYYg95PW9GF4tzVUSuKAgxM1ornmviMfSbWgi5",
+      "name": "QR1008T2TS",
+      "vmId": "cpEmenm8gWiRVMewkeHuAYCTugW4mSxxMiopfGrPJ3eCQCX71",
+      "vmName": "EVM"
     }
   ]
 }

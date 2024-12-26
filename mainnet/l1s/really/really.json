@@ -1,34 +1,26 @@
 {
+  "links": {
+    "website": "https://really.ar"
+  },
   "id": "nzn8Jhci2yYVnKSTzEjADD5UUx9pEa3kPizEoyrv14e6iaZ7f",
   "name": "REALLY",
   "description": "Build your status with Really’s unique Fandime. Really collectors enjoy access to exclusive content and unforgettable special events in the metaverse.  Download the ReallyAR App to get started.",
-  "icon": "https://cdn.snowpeer.io/really.png",
-  "color": "#3C00C3",
-  "website": "https://really.ar",
-  "chains": [],
+  "primaryColor": "#3C00C3",
+  "logo": "https://cdn.snowpeer.io/really.png",
   "categories": [
     "AR"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "AR",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "64273",
+      "rpcUrl": "https://subnets.avax.network/really/mainnet/rpc",
+      "description": "Build your status with Really’s unique Fandime. Really collectors enjoy access to exclusive content and unforgettable special events in the metaverse.  Download the ReallyAR App to get started.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/really",
+      "id": "2gPHVXPoDvbt6MFUrGBYV5mApC9Y1Xckhdpr31cHzjcJyTAgrZ",
+      "name": "REALLY",
+      "vmId": "dEVS4ibiRsTdKC8zSCjjDqnEF3NC5CxrbcUtQEDXD26d5UevE"
     }
   ]
 }

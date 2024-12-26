@@ -1,36 +1,23 @@
 {
+  "links": {
+    "website": "https://www.numbersprotocol.io"
+  },
   "id": "2gHgAgyDHQv7jzFg6MxU2yyKq5NZBpwFLFeP8xX2E3gyK1SzSQ",
   "name": "Numbers",
   "description": "Number is and open and decentralized network\ndesigned to ensure provenance for all types of creative works created\nby humans & AI",
-  "icon": "https://cdn.snowpeer.io/numbers.jpg",
-  "color": "",
-  "website": "https://www.numbersprotocol.io",
-  "chains": [],
+  "logo": "https://cdn.snowpeer.io/numbers.jpg",
   "categories": [
     "IP",
     "AI",
     "ART"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "IP",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2PDRxzc6jMbZSTLb3sufkVszgQc2jtDnYZGtDTAAfom1CTwPsE",
+      "name": "numbersevm",
+      "vmId": "qeX7kcVMMkVLB9ZJKTpvtSjpLbtYooNEdpFzFShwRTFu76qdx",
+      "vmName": "EVM"
     }
   ]
 }

@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "sTQXuLqDWSMZtNmJMSwBZFPprMvt3A4iR9qkThXATjCGUMxYc",
   "name": "Project Orc1",
   "description": "Project Orc Explorer",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "bS4m1GvmRyzBF6gUzdJo4HHfDwH9FyCF7wnnbgLb7kUqezzWy",
+      "name": "ProjOrcTestnetAlpha",
+      "vmId": "cRuqV4yLNvcw316Y1bkuCk4T1XvCLjLksDZb2hTkGYNoCXjbx",
+      "vmName": "EVM"
     }
   ]
 }

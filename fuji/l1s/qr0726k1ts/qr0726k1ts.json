@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2mNRxTphb36DQvpC1DT5jPvneMbPJ1diyoi3qvBoEyadEF3JJR",
   "name": "QR0726K1TS",
   "description": "QA AvaCloud QR0726K1TS",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "M32JpVMAjr3YnDCmwSBSZPAkiApnd6A8UfdUAoSAbzAxvadic",
+      "name": "QR0726K1TS",
+      "vmId": "cpEkNpj3QpNV5QEATsbRUM2WjBgdXiUbvGHK4YxNqnQea4sAU",
+      "vmName": "EVM"
     }
   ]
 }

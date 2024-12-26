@@ -1,0 +1,26 @@
+{
+  "links": {
+    "website": "https://zeroone.art"
+  },
+  "id": "nKJuE11HePLrmp391sfoFVqZR7Fw5VJ1XjyznsogsjebxwiAg",
+  "name": "zeroone",
+  "description": "The subnet is used to facilitate gas-less transactions for the zeroone platform. A platform that allows users to create, share and collect without having to worry about fees.",
+  "primaryColor": "#ec1c24",
+  "logo": "https://cdn.snowpeer.io/zero.jpg",
+  "categories": [
+    "ART"
+  ],
+  "mainCategory": "ART",
+  "chains": [
+    {
+      "evmId": "27827",
+      "rpcUrl": "https://subnets.avax.network/zeroonemai/mainnet/rpc",
+      "description": "The subnet is used to facilitate gas-less transactions for the zeroone platform. A platform that allows users to create, share and collect without having to worry about fees.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/zeroonemai",
+      "id": "2Xj6iZeySuuUTZR5jYjhQ7yQ84q8AtDWnAJ2vS9BmmXBNJhYD1",
+      "name": "zerooneMainnet",
+      "vmId": "vuT2CesVBU7Jm6VtFnEVF8uX1Y7iMzLPWJgLstqU9vtd1x3Mz"
+    }
+  ]
+}

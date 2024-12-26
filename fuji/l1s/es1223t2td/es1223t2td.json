@@ -1,0 +1,17 @@
+{
+  "links": {},
+  "id": "PQ9wL7zo312puXLJ1fq2ZexZmi7PD8R2zuEuh4AA8wvKDYK94",
+  "name": "ES1223T2TD",
+  "chains": [
+    {
+      "evmId": "80539",
+      "rpcUrl": "https://subnets.avax.network/es1223t2td/testnet/rpc",
+      "description": null,
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/es1223t2td",
+      "id": "28Zs8G9Wp6UoVo8wqhd85TS65Zr3j5K7sDVczxVHMGDcJ6CYJL",
+      "name": "ESTTD",
+      "vmId": "XXpAwadkf47GaMgf6JUh573HVX8VAQXauEbnGhhL3gGFm4Jk2"
+    }
+  ]
+}

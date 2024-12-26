@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "18YjyGzFoosdLngQaktsynP8Xkwps8bLwFsch2q3WCAwmgZej",
   "name": "QR0523S1T",
   "description": "Offical explorer of QR0523S1T Testnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "uGvdT379rPxXAKy1NWVbkkP3XFXYcWxpCa5fSa4exGwaYijRQ",
+      "name": "QR0523S1T",
+      "vmId": "cpEkNEGN3YMHqvioJHB1m5N7ivayP2Tys8rYAR4WGszuUUpCb",
+      "vmName": "EVM"
     }
   ]
 }

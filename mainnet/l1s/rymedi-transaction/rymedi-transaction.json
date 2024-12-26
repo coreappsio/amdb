@@ -1,34 +1,22 @@
 {
+  "links": {
+    "website": "https://rymedi.com"
+  },
   "id": "LThVFg2aFviak8Ranf8nNX4UAEtLyzhyCNY2AQdXbgYkJdQTM",
   "name": "Rymedi Transaction",
   "description": "Rymedi's Connected Health Platform employs a unique double-helix blockchain design for enhanced data privacy and integrity in healthcare. It simplifies complex data integration across systems, ensuring compliance and offering adaptable workflows for seamless health record transfers. The platform emphasizes automated privacy, security, and efficient state reporting. Developed in partnership with regulatory bodies, Rymedi sets the standard for trustworthy, interoperable healthcare data solutions",
-  "icon": "https://cdn.snowpeer.io/rymedi.svg",
-  "color": "#524493",
-  "website": "https://rymedi.com",
-  "chains": [],
+  "primaryColor": "#524493",
+  "logo": "https://cdn.snowpeer.io/rymedi.svg",
   "categories": [
     "HEALTH"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "HEALTH",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2PKgDmUGYJEV3gSBkvM7ztJuSk3g7omGjDjHdQR28Tv8JSxFBK",
+      "name": "Rymedi Transaction Subnet",
+      "vmId": "dKhNBikRSySVNfS9n62hczWMVgXkKBYpKEKqb6Vjok1jf2VAj",
+      "vmName": null
     }
   ]
 }

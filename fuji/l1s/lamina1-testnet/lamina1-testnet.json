@@ -1,32 +1,18 @@
 {
+  "links": {},
   "id": "2ERCYPP3LWxzpb25jQAtR1FrXir8M723FKv76HNcixyYxHGuGu",
   "name": "Lamina1 Testnet",
   "description": "Testnet for the LAMINA1 Mainnet — a platform and protocol for a new era of digital content and co-creation founded by legendary author/futurist Neal Stephenson, crypto pioneer Peter Vessenes, and entertainment executive Rebecca Barkin.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "764984",
+      "rpcUrl": "https://subnets.avax.network/lamina1tes/testnet/rpc",
+      "description": "Testnet for the LAMINA1 Mainnet — a platform and protocol for a new era of digital content and co-creation founded by legendary author/futurist Neal Stephenson, crypto pioneer Peter Vessenes, and entertainment executive Rebecca Barkin.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/lamina1tes",
+      "id": "2sNcXb5rmA1nCaabpoeVCvUHsCfLMMn3no1HjRy97BpHWiu3Kp",
+      "name": "Lamina1Testnet",
+      "vmId": "ae3HBgfy2smkJst5bKyPeWnXhNnyPJPU72FDP9hwj6cUq6jPZ"
     }
   ]
 }

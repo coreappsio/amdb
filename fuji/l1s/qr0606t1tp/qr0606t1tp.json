@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2PEed5Hmpb2u3EUXkYxrsbuMdoRYAf5JPoNxHKz7a5sYDvw16Y",
   "name": "QR0606T1TP",
   "description": "QR0606T1TP",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "RBfbNRM1jk2anm3n3pihc3HEd64sRmDxXiHiTzh2FdyJcC2G5",
+      "name": "QR0606T1TP",
+      "vmId": "cpEkNXMvFqBmw64ob98QVk2WURQkrFHJ3aWoLtSnSZzacNbwB",
+      "vmName": "EVM"
     }
   ]
 }

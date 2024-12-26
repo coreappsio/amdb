@@ -1,32 +1,18 @@
 {
+  "links": {},
   "id": "2Bid39wZEqqX1QtrWAV8uUCnwTVdiKYZN3vjb5tVhj3uiP9xXu",
   "name": "Spruce",
   "description": "Spruce is a Testnet version of the Evergreen Institutional Subnet configuration.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "424242",
+      "rpcUrl": "https://subnets.avax.network/insti-1/testnet/rpc",
+      "description": "Spruce is a Testnet version of the Evergreen Institutional Subnet configuration.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/spruce",
+      "id": "Ue98aQ3AoP1EqH8LwX496W6h1d8hUHNHG7AFGvRe4PSJVkQw1",
+      "name": "insti 1",
+      "vmId": "eaX7nMQeufEFwQCvN552fcRVh7TDL8FbVauoaeCGoxbBkdFtQ"
     }
   ]
 }

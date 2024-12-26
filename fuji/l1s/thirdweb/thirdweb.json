@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "YMqWcs5n5izvb2qQt7dwjpifCyWhCYn4ouupAX1BwBVJdj4Fg",
   "name": "Thirdweb",
   "description": "A test subnet used for thirdweb internal development.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "XFe9AZds5mv4dtLhLW4PH2f77oJ5eJN7FHi1TpyikxZ6pjvBR",
+      "name": "thirdwebtestnet",
+      "vmId": "tGUzCqwrmmpQcZgCT5SCDcDefzxgr5j6sBELqPmouqcBm4Aho",
+      "vmName": "EVM"
     }
   ]
 }

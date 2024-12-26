@@ -1,32 +1,26 @@
 {
+  "links": {
+    "website": "https://plyr.network/"
+  },
   "id": "axp7DUSPvFghTM883ug2B8btAReBAACxD1VyENmRDStH4Lfed",
   "name": "PLYR PHI",
   "description": "The PLYR gaming chain offers low-cost, fast, and secure transactions for gaming. It enables seamless in-game purchases, asset transfers, and integrates with over 200 networks, providing a robust foundation for innovative and cross-chain gaming experiences.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
-    {
-      "name": "",
-      "url": ""
-    }
+  "primaryColor": "#f60000",
+  "logo": "https://cdn.snowpeer.io/plyr.png",
+  "categories": [
+    "GAMING"
   ],
-  "mainCategory": "",
-  "assets": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "16180",
+      "rpcUrl": "https://subnets.avax.network/plyr/mainnet/rpc",
+      "description": "The PLYR gaming chain offers low-cost, fast, and secure transactions for gaming. It enables seamless in-game purchases, asset transfers, and integrates with over 200 networks, providing a robust foundation for innovative and cross-chain gaming experiences.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/plyr",
+      "id": "HUwWdyoExrb1HgVp5X5sh3AWqhYFnKkfXBfGmGL3qjDsnMoR4",
+      "name": "PLYRPHI",
+      "vmId": "cN7RT4fKXmpuL9xLVXbc8CK7pYzT3YDkVX9uVAAK9T4QH6bTa"
     }
   ]
 }

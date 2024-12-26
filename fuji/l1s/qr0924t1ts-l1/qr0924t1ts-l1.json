@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "qfCp6vG89nEKc1LxbXkdabn968HXKUyTzy5aJ5HFNTFS87CjW",
   "name": "QR0924T1TS L1",
   "description": "QR0924T1TS",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2rg6JFaKtornMtgzRUd5JyXZC16UdoYV3PtkdRiWnYB2v9jB6j",
+      "name": "QR0924T1TS",
+      "vmId": "cpEkPRBeR2GQ3nEzwxQXPp7NnjB5BhvX1EDGB46Mr6XV41gt6",
+      "vmName": "EVM"
     }
   ]
 }

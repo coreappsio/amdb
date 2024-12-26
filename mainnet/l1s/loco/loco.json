@@ -1,35 +1,23 @@
 {
+  "links": {
+    "website": "https://locolegends.com"
+  },
   "id": "KfZ2YSPbKDGqJW2yiiYFYLwAu39MAt8JKQKyRzcurrKAJfff9",
   "name": "Loco",
   "description": "Loco Legends is India's first NFT marketplace for eSports that will mint streamer collectibles with online and offline perks",
-  "icon": "https://cdn.snowpeer.io/locop.png",
-  "color": "#F9750E",
-  "website": "https://locolegends.com",
-  "chains": [],
+  "primaryColor": "#F9750E",
+  "logo": "https://cdn.snowpeer.io/locop.png",
   "categories": [
     "GAMING",
     "NFT"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "remqeL56TsyKjVLdNx7waAwMv9R63uJ9ePR7cBvxzTDmMcHAp",
+      "name": "Loco Legends",
+      "vmId": "afS5LWuouQCb8yhR1ZhymdB9tKik4eYyGdDGk98A8weDcQW9b",
+      "vmName": "EVM"
     }
   ]
 }

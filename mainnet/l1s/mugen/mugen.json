@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "LbvSkGmUJSpUby1gUrk4g9mmdeZQWcVGiFCXv57CJHBrxxEos",
+  "name": "MUGEN",
+  "description": "MUGEN mainnet",
+  "chains": [
+    {
+      "id": "2GiVhBPR19ZaHYQivmheYv8RkEBjfdu7AyDvSocbWWjR4gz1qf",
+      "name": "MUGEN",
+      "vmId": "b4NW8Cm5c1UEjiP7pLfCKjhfpGQMp3KEvKvFzG9XsHhuUrQGa",
+      "vmName": "EVM"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "links": {
+    "website": "https://numine.io"
+  },
+  "id": "4iDWVgCCSu4Tafpg4bdhxu8q1ap8Rp2hMzG4UPxUhL9UVX6iU",
+  "name": "Numine",
+  "description": "NUMINE is an All-in-One Content Platform. Easy to Develop, Publish, and Play",
+  "primaryColor": "#ffc83c",
+  "logo": "https://cdn.snowpeer.io/numine.png",
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "id": "2vEit8MMxLNNfbMdoiBjvFP7MFwPwo1YmiLaBBxQU2YRGvdjJx",
+      "name": "numine",
+      "vmId": "qeX7nhhVj5a7mc4JDvVchdgcTDkENwbRSAaFBBXRZeofTGaXa",
+      "vmName": null
+    }
+  ]
+}

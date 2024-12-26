@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "1M439meCk9SDQYJSrDBJJeRntk1FtmSaaZakSeLFvcJonxGUM",
   "name": "Firedrill Testnet One",
   "description": "This is the official explorer for Firedrill Testnet One.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "SS2QihoK8NDVnDi2subj2VvaqFRkEX8wgvKSFrECcgdQhCnA7",
+      "name": "FiredrillTestnet1",
+      "vmId": "Y1aVom433pRSLcKpDLNbUXDcGJFwU8XjiyhPidNk6Tfyr7uQc",
+      "vmName": "EVM"
     }
   ]
 }

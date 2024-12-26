@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "skXuaTGMSyxSdfdw1mLse1daLh8JVvgGaatGZSJk2K22LiHx5",
+  "name": "quartz L1",
+  "description": "Quartz chain",
+  "chains": [
+    {
+      "id": "V9tFHt2BdkTAhx8an3XCFLV3Qpio1aVWmG6csP1FcmuxN5R4B",
+      "name": "quartz",
+      "vmId": "ry9ShKmu9yjX2uiiqb5VBUSmFR6VzC1vpkxUmq5jxb3fsDuod",
+      "vmName": "EVM"
+    }
+  ]
+}

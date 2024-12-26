@@ -1,0 +1,13 @@
+{
+  "links": {},
+  "id": "2bRkpDhhSSUuBPPKmkURNULPuPandVkpcvG9FWTJ9wp8cQMDyn",
+  "name": "QR1216T2TS",
+  "chains": [
+    {
+      "id": "2KTTbMRq9ruzFnaDYwqv5XH268KBjtpkzyUm4pMr6KSKRwJdr4",
+      "name": "QRTTS",
+      "vmId": "cpEmfPHe4ZWZuxRvgk8pWn8qnFEHuQB37WHtHgQC8YK2RwWeT",
+      "vmName": "EVM"
+    }
+  ]
+}

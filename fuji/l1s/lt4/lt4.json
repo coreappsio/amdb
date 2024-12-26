@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "zBfCqyPczevnQPhV8gTSxQvSFjf2q5yateQc4cm9UwkRFsRNk",
   "name": "LT4",
   "description": "Official testnet explorer for the LT4 subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "atTU6oYsVCQAFa6i8TPdDqWu5k4uAX1pnCjRgEwt36ax3vXzu",
+      "name": "LT4",
+      "vmId": "acikLGvztGod5UG17z4sfR8pSzajc2GwjrTh8pbh69gPkFZjb",
+      "vmName": "EVM"
     }
   ]
 }

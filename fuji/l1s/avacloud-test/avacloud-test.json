@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "uUS9G8CqHrw63oyafE9Dqcu4ZqmBkD4W3YWqC4bDbcTtYxwjS",
   "name": "AvaCloud Test",
   "description": "This is the official explorer for AvaCloud Test Subnet.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2XJTxvKWcAW2AvwrXnzRBN4wPdznSSojqUq37K3c3YzpSsrqJG",
+      "name": "AvaCloudTestSubnet",
+      "vmId": "Vq9gbMb2JXekvcSAy5bEXvHws5nzsuEAT89WCMt1WEEppmNrn",
+      "vmName": "EVM"
     }
   ]
 }

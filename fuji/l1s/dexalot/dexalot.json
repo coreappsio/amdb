@@ -1,34 +1,26 @@
 {
+  "links": {
+    "website": "https://dexalot.com"
+  },
   "id": "9m6a3Qte8FaRbLZixLhh8Ptdkemm4csNaLwQeKkENx5wskbWP",
   "name": "Dexalot",
   "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry",
-  "icon": "https://cdn.snowpeer.io/dexalot.png",
-  "color": "#EB1357",
-  "website": "https://dexalot.com",
-  "chains": [],
+  "primaryColor": "#EB1357",
+  "logo": "https://cdn.snowpeer.io/dexalot.png",
   "categories": [
     "finance"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "finance",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "432201",
+      "rpcUrl": "https://subnets.avax.network/dexalot/testnet/rpc",
+      "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/dexalot",
+      "id": "XuEPnCE59rtutASDPCDeYw8geQaGWwteWjkDXYLWvssfuirde",
+      "name": "main",
+      "vmId": "mDVSxzeWHpEU3eSqMwwGQsD787xGp7hv9Qgoe3R9SdjPapte8"
     }
   ]
 }

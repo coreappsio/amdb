@@ -1,34 +1,26 @@
 {
+  "links": {
+    "website": "https://pulsar.game"
+  },
   "id": "DxanjptkyaeM1eUew2gzUMngHM3n5ttUyMj7BuHw9riXh9pJC",
   "name": "Pulsar",
   "description": "An MMO real-time strategy game with a 4x economy",
-  "icon": "https://cdn.snowpeer.io/pulsar.jpg",
-  "color": "#2C2C2C",
-  "website": "https://pulsar.game",
-  "chains": [],
+  "primaryColor": "#2C2C2C",
+  "logo": "https://cdn.snowpeer.io/pulsar.jpg",
   "categories": [
     "GAMING"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "357",
+      "rpcUrl": "https://subnets.avax.network/pulsar/mainnet/rpc",
+      "description": "Pulsar combines game elements of the Real Time Strategy (RTS) genre with a persistent, massively multiplayer online (MMO) world. From the former Tech Director of the whole technology and the New IPs Director of King (Candy Crush Franchise) arrives Pulsar.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/pulsar",
+      "id": "QVbrD172sAF1TgCvN9DZG93nAd2YBGCJVZP4cngdEKCTy2F9v",
+      "name": "Pulsar",
+      "vmId": "rXcAFxJFTumjKQSJPe2VNdvR6FveM9r6Zyb2axDddAvVZifXt"
     }
   ]
 }

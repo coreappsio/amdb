@@ -1,32 +1,26 @@
 {
+  "links": {
+    "website": "https://www.masa.ai/"
+  },
   "id": "yEQe3LdJgjxBqG28gRjLUu86qFCcNbWnkPtPr7ZHg8pLx1SUJ",
   "name": "Masa Network",
-  "description": "The World's Personal Data Network\n\nMasa is architecting the “decentralized Google” for the AI era. We are building an open, incentivized, and privacy-by-default economy for the world's personal data.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
-    {
-      "name": "",
-      "url": ""
-    }
+  "description": "The World's Personal Data Network Masa is architecting the “decentralized Google” for the AI era. We are building an open, incentivized, and privacy-by-default economy for the world's personal data.\nMasa is architecting the “decentralized Google” for the AI era. We are building an open, incentivized, and privacy-by-default economy for the world's personal data.",
+  "primaryColor": "#e9bf78",
+  "logo": "https://cdn.snowpeer.io/masa.png",
+  "categories": [
+    "AI"
   ],
-  "mainCategory": "",
-  "assets": [
+  "mainCategory": "AI",
+  "chains": [
     {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "13396",
+      "rpcUrl": "https://subnets.avax.network/masanetwork/mainnet/rpc",
+      "description": "The World's Personal Data Network\n\nMasa is architecting the “decentralized Google” for the AI era. We are building an open, incentivized, and privacy-by-default economy for the world's personal data.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/masa",
+      "id": "2EpCcmHLNqFqbE6Ch1fX6VbgqFETtuKdn9dcBS375pXLN48NKC",
+      "name": "MasaNetwork",
+      "vmId": "b5awsgDn99TGhtWXVU8YrXEyBBtuNkGb5NFjfw6LFPHYZSzvW"
     }
   ]
 }

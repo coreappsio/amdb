@@ -1,32 +1,18 @@
 {
+  "links": {},
   "id": "EXZyjc2kgNYNMy3UoAqrFcjbHYK9dM2EeGYDjLyoyjHEmDtMh",
   "name": "REALLY",
   "description": "Immerse yourself in exclusive AR experiences and collectibles from blockbuster movies and streaming entertainment.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "41077",
+      "rpcUrl": "https://subnets.avax.network/really/testnet/rpc",
+      "description": "Immerse yourself in exclusive AR experiences and collectibles from blockbuster movies and streaming entertainment.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/really",
+      "id": "yNJAj1w3v5Sen1vKMrL125NTVWHkzquGttaMDRqzLV6aPDRAa",
+      "name": "REALLY",
+      "vmId": "dEVS4ibiRsTdKC8zSCjjDqnEF3NC5CxrbcUtQEDXD26d5UevE"
     }
   ]
 }

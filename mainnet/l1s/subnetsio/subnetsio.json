@@ -1,32 +1,17 @@
 {
+  "links": {
+    "website": "https://www.subnets.io"
+  },
   "id": "dwWfVQ5dgYMeWTuP6JB4xevQmVw4MmHKLFUeHAUoMNV9v5cHp",
   "name": "SubnetsIO",
-  "description": "",
-  "icon": "https://cdn.snowpeer.io/subnetsio.jpg",
-  "color": "#ff3c74",
-  "website": "https://www.subnets.io",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "primaryColor": "#ff3c74",
+  "logo": "https://cdn.snowpeer.io/subnetsio.jpg",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2B8Q1rbfrDTAFtizaZC9Wzqt1GGV9yHL5AtYQ5H7joo4Jw8YMc",
+      "name": "subnetsio",
+      "vmId": "srEXiWaHxVVXht5yphBuxuGKZGSsJwkQrwFcyCiKtMTRFWmJR",
+      "vmName": null
     }
   ]
 }

@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2RWgiLacMhxm7UndJ4RVLoDXibc9SCzzodq8EndBVqz8tmsTdy",
   "name": "LT5",
   "description": "This is the official explorer for the LT5 subnet.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2dgMDPoSB1L4DckzDsX9CuMN5vyrB4tzLg8SF4AJHuujUyx6U1",
+      "name": "LT5",
+      "vmId": "acimeKi5mLk4eiLmr1BLba4GLX657zhgUZjmLddtLVVehXUux",
+      "vmName": "EVM"
     }
   ]
 }

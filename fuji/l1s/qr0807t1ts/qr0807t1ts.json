@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "VWKtAXBnU8GHRwgFx6fPB8wKbmWXWsieA6ZCYhV5qc57xPmQ",
   "name": "QR0807T1TS",
   "description": "Offical explorer for QR0807T1TS",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "6CS8mrHgW8oMdfsktz5eZoXED5Zr3qrTV2LLpbMSQvbWLruk3",
+      "name": "QR0807T1TS",
+      "vmId": "cpEkP7pZt7uKa2FkjExeieoXrKZTuebQ8gvky7wQJKmSP4DcN",
+      "vmName": "EVM"
     }
   ]
 }

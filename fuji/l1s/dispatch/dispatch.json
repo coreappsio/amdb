@@ -1,32 +1,18 @@
 {
+  "links": {},
   "id": "7WtoAMPhrmh5KosDUsFL9yTcvw7YSxiKHPpdfs4JsgW47oZT5",
   "name": "Dispatch",
   "description": "Environment for testing Avalanche Warp Messaging and Teleporter.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "779672",
+      "rpcUrl": "https://subnets.avax.network/dispatch/testnet/rpc",
+      "description": "Environment for testing Avalanche Warp Messaging and Teleporter.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/dispatch",
+      "id": "2D8RG4UpSXbPbvPCAWppNJyqTG2i2CAXSkTgmTBBvs7GKNZjsY",
+      "name": "dispatch",
+      "vmId": "mDtV8ES8wRL1j2m6Kvc1qRFAvnpq4kufhueAY1bwbzVhk336o"
     }
   ]
 }

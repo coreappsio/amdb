@@ -1,32 +1,25 @@
 {
+  "links": {
+    "website": "https://lamina1.com"
+  },
   "id": "2hoHzxcZktxrTNoqCZhR9bEctc5oCuBqSp6SpRn6uvwxzLkvnD",
   "name": "Lamina1",
   "description": "The LAMINA1 Mainnet — a platform and protocol for a new era of digital content and co-creation founded by legendary author/futurist Neal Stephenson, crypto pioneer Peter Vessenes, and entertainment executive Rebecca Barkin.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
-    {
-      "name": "",
-      "url": ""
-    }
+  "logo": "https://cdn.snowpeer.io/lamina.png",
+  "categories": [
+    "METAVERSE"
   ],
-  "mainCategory": "",
-  "assets": [
+  "mainCategory": "METAVERSE",
+  "chains": [
     {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "10849",
+      "rpcUrl": "https://subnets.avax.network/lamina1/mainnet/rpc",
+      "description": "The LAMINA1 Mainnet — a platform and protocol for a new era of digital content and co-creation founded by legendary author/futurist Neal Stephenson, crypto pioneer Peter Vessenes, and entertainment executive Rebecca Barkin.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/lamina1",
+      "id": "UhReZTXT8Cqsjat9ghRtCe5kBQPQexQB5zG5Fvf3egrdYfyoJ",
+      "name": "Lamina1",
+      "vmId": "ae3HBgfy2rJd4jWV9fYqDQKKSFLuDarRKYxj3XX61nk56qdPT"
     }
   ]
 }

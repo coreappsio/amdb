@@ -1,0 +1,22 @@
+{
+  "links": {
+    "website": "https://lamina1.com"
+  },
+  "id": "2T4gpnissLkoezQ36XKxhrFAH5yynqKGa1u47XxCYTdfvePuNz",
+  "name": "Lamina1 Identity",
+  "description": "The Lamina1 Identity subnet provides decentralized identity services to the Lamina1 platform and wider Avalanche ecosystem.",
+  "primaryColor": "#000000",
+  "logo": "https://cdn.snowpeer.io/lamina.png",
+  "categories": [
+    "ID"
+  ],
+  "mainCategory": "ID",
+  "chains": [
+    {
+      "id": "hR6djBP7uMGJnXrjdUic2rzvvuuMpqMWNb5us7j8xgmj6Ck2N",
+      "name": "Lamina1Identity",
+      "vmId": "ae3HBgfy2smdk94GurMennLqotTvKwQeM8PRkALo7HKQRxZUc",
+      "vmName": null
+    }
+  ]
+}

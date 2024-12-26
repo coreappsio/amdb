@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "CTKnVytgw7EyxtAQwKqaSFndNQZx5K35YpPr2nLbvbLkaHGT7",
   "name": "jonoperf",
   "description": "testnet for develop",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "275jYNotLXeRE9x9KHLwE1ThqBMmXsXxTJ3jnGRY5TzJ3ifz3n",
+      "name": "jonoperf",
+      "vmId": "oskHiJ8cmV4W8wFbcXuLCR7Y2WcJevXKFJa3GX8KJY79SzpMo",
+      "vmName": "EVM"
     }
   ]
 }

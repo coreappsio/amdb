@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "vJZV9YtkWWMbCcGTHi4oiPmeT53U85RxK6qVqyU3y6nqiFMgf",
   "name": "Jono11",
   "description": "Official subnet explorer for jono11 subnet",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2osuMW47sTV3DkvUh4QchzKd4tX5JFCthEb4XF17mGmUXyE8fo",
+      "name": "Jono10",
+      "vmId": "ZnMG2ieSymd2AtVM4ugMTgmLgcrQHcMtYpBNRFYps8wNiiYH3",
+      "vmName": "EVM"
     }
   ]
 }

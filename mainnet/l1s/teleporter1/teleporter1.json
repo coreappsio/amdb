@@ -1,32 +1,13 @@
 {
+  "links": {},
   "id": "V9cD5JH4TYcw9241zgxrXXEj3k3rZJJLNL2UEPv5ujDip1m3m",
   "name": "Teleporter1",
-  "description": "",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "ABZSWmFRFR6bujjQCvaoe8duUJhPcLCccDx76ssY8f65PTtqh",
+      "name": "teleportersubnet1",
+      "vmId": "tGBh6N86FPEfFFTVjkJFZCGYEZwX8CrqPAgJJYLpotCmtbPMb",
+      "vmName": "EVM"
     }
   ]
 }

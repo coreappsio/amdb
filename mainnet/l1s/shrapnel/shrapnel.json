@@ -1,35 +1,27 @@
 {
+  "links": {
+    "website": "https://www.shrapnel.com"
+  },
   "id": "Cv1gyKNUtPNAtFw8YcjbsD4a3HNRbNvinY7t2gnGK4J54rQK3",
   "name": "SHRAPNEL",
   "description": "The world’s first blockchain-enabled first-person shooter (FPS) game, developed by a BAFTA and Emmy award–winning team of game industry veterans at NEON",
-  "icon": "https://cdn.snowpeer.io/shrapnel.png",
-  "color": "#ffb124",
-  "website": "https://www.shrapnel.com",
-  "chains": [],
+  "primaryColor": "#ffb124",
+  "logo": "https://cdn.snowpeer.io/shrapnel.png",
   "categories": [
     "GAMING",
     "NFT"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "2044",
+      "rpcUrl": "https://subnets.avax.network/shrapnel/mainnet/rpc",
+      "description": "The Shrapnel Subnet is the default blockchain on Avalanche used for trustworthy, transparent, and interoperable content, commerce, and community for Shrapnel, a AAA FPS extraction shooter.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/shrapnel",
+      "id": "2tdRBvNEUhoD6ZWYF9b5NBdj5hHwWPfvSq1EnzvV8QU2XjLNy9",
+      "name": "shrapnelnetwork",
+      "vmId": "spwf44sL7fXJDwxthqSH9S255fgLRZP9eTFpuAGaE8Q7PyZjL"
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "links": {},
+  "id": "4FctNvYPbWqXyC1TiMoYBR7CNtrvgCdSUPtG8gNBdHSUVG3Gh",
+  "name": "ES1216T1TD",
+  "chains": [
+    {
+      "id": "2dQc8MuKkb9nrXXhVoqBdhyLALm2Ecdrjh3LHH6hgiwLHLA7yW",
+      "name": "ESTTD",
+      "vmId": "XXpAwaZtuHz34nTpZqw4AVVbqgHJgwCbP59V4CPRDNNoLVD6L",
+      "vmName": "EVM"
+    }
+  ]
+}

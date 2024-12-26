@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "QSmxVmeZ1t2fBQzMAgkuMLMSfVSjasKc2WyiFNMJ9db3FcQtJ",
   "name": "Intain Markets L1",
   "description": "Intain is a debt capital markets platform built on blockchain that ensures trust, transparency and efficiency in structured finance.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2ALtzRYgRpRWnTgjdrMArkMvU6RTpcjs7VWmupqYaPrHDrHLSd",
+      "name": "IntainMarketsTest",
+      "vmId": "ZLi5JUuvPV4QS326oP38KmUFbMtgtiaCEpSyBK7bGRvFsTdDV",
+      "vmName": "EVM"
     }
   ]
 }

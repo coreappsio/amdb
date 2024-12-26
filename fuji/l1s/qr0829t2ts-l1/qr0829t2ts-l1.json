@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "mzYLBFSnpxh1HvnVo6BNQ1spkrCHd8t5ziVh9LmvkHTpHufvJ",
   "name": "QR0829T2TS L1",
   "description": "QR0829T2TS L1 explorer",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2hEvXStaqp1g1rWmQpKCPzDjr88ZFqaVftwq2nSpr9wifsKS6x",
+      "name": "QR0829T2TS",
+      "vmId": "cpEkP7xQU1DVKCCZGEEKkaebNMSCStuP5b37G5AeGxmZo1qMj",
+      "vmName": "EVM"
     }
   ]
 }

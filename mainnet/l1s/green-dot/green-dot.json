@@ -1,34 +1,26 @@
 {
+  "links": {
+    "website": "https://cayg.app"
+  },
   "id": "VzsCkPm6MjStgT2v5Qmcn5ycgMhj68rxPN4gX9eMgBbBXHYEu",
   "name": "Green Dot",
   "description": "The Green Dot Subnet is an EVM-compatible blockchain which supports Deloitte assets, including Close As You Go (CAYG), a secure cloud-based software platform built to help agencies manage recovery documentation for procurement and contracting, model policies and procedures, and plan for disaster.",
-  "icon": "https://cdn.snowpeer.io/greendot.png",
-  "color": "#68B04D",
-  "website": "https://cayg.app",
-  "chains": [],
+  "primaryColor": "#68B04D",
+  "logo": "https://cdn.snowpeer.io/greendot.png",
   "categories": [
     "STORAGE"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "STORAGE",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "6765897101",
+      "rpcUrl": "https://subnets.avax.network/greendot/mainnet/rpc",
+      "description": "The Green Dot L1 is an EVM-compatible blockchain which supports Deloitte assets, including Close As You Go (CAYG), a secure cloud-based software platform built to help agencies manage recovery documentation for procurement and contracting, model policies and procedures, and plan for disaster.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/greendot",
+      "id": "8bvSiqVvhsyRLMo3osGgAwbjd8U7G4XUoTKAEJAWvowH1BHrB",
+      "name": "greendot",
+      "vmId": "nZQrF9kfzio9q5B54Njbpa3CCpRVpk4tNH3wh3ekA7NEX1LK1"
     }
   ]
 }

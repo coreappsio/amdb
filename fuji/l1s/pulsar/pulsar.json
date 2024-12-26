@@ -1,32 +1,15 @@
 {
+  "links": {},
   "id": "2ZAabCXTQooJc7FLXtTerwmNZ4PyfuHq7LkBSeCf9VFNcKzkoP",
   "name": "Pulsar",
   "description": "Pulsar is an MMO real-time strategy game with a 4x economy to maximize monetization. It’s available for PC and macOS and will be available on mobile, and tablets. The game is inspired by the battle system like in StarCraft and unit progression and dungeon replayability like in the Diablo series. (WEB3 MMO RTS, 4X, Cross Platform)",
-  "icon": "https://cdn.snowpeer.io/pulsar.png",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "logo": "https://cdn.snowpeer.io/pulsar.png",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2JwK1Rk7XJRu8UnFqgGLDU4jzYfGCDQioRMF7yAdNDWRqicbZu",
+      "name": "pulsarevm",
+      "vmId": "rXcAFxJFXX1TbvsDMQukHp8ucoPPrSfq69Uvnf4vHp5NgBGXY",
+      "vmName": "EVM"
     }
   ]
 }

@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "aAAqv4xkuzWtuZhY9CM3mWAKchLBJBwbdxK91saSHsfXmujo4",
   "name": "LT8",
   "description": "Offical subnet explorer for LT8.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2qYQSabYYwH866gjhmpCa1wHmviw3b52qNvxqp6vHCUT2mwPow",
+      "name": "LT8Testnet",
+      "vmId": "aciqk54vEiBVoatZb9hgwDkxRdnCLmRDXZvuypJ9GoHUcuH4U",
+      "vmName": "EVM"
     }
   ]
 }

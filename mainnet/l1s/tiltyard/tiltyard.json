@@ -1,34 +1,26 @@
 {
+  "links": {
+    "website": "https://tiltyard.gg"
+  },
   "id": "23LsHpx3wTPtNC4PUaTdtNQkaGbLxwiGimnZjHaUc28qLHs7Dn",
   "name": "Tiltyard",
   "description": "Welcome to Tiltyard, a blockchain game studio forging futuristic landscapes and decentralized adventures.",
-  "icon": "https://cdn.snowpeer.io/tiltyard.png",
-  "color": "#6a49d2",
-  "website": "https://tiltyard.gg",
-  "chains": [],
+  "primaryColor": "#6a49d2",
+  "logo": "https://cdn.snowpeer.io/tiltyard.png",
   "categories": [
     "GAMING"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "710420",
+      "rpcUrl": "https://subnets.avax.network/tiltyard/mainnet/rpc",
+      "description": "Welcome to Tiltyard, a blockchain game studio forging futuristic landscapes and decentralized adventures.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/tiltyard",
+      "id": "2cJ7FyNoqigEGoM7m8p4PY7a33B2SQxV8P7VuUVJZ9y5otyqNS",
+      "name": "Tiltyard",
+      "vmId": "eBBp8MuVsdcUj8MioApg74QTiBJdGfNPyVAVHKYJVvfxMAFQj"
     }
   ]
 }

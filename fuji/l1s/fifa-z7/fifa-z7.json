@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "2DoBJVvUryRfAyLoBeNe1pB8FUJVnPfzAceLuihWmsm3vbzRjq",
   "name": "FIFA Z7",
   "description": "The FIFA-Z7 Subnet is the a blockchain on Avalanche used for experimenting with blockchain applications at FIFA.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "bJgSbj1xcirStEBbNGPZ7ftkEUe75JdizrFurC5tQfwYWDpvH",
+      "name": "FIFAZ7test",
+      "vmId": "XxNJpd8YEwuY69xeoR9qeVMMqmfnMRAMR2CbWe3zRbjtfSkoV",
+      "vmName": "EVM"
     }
   ]
 }

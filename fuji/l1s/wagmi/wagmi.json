@@ -1,34 +1,22 @@
 {
+  "links": {
+    "website": "https://trywagmi.xyz"
+  },
   "id": "28nrH5T2BMvNrWecFcV3mfccjs6axM1TVyqe79MCv2Mhs8kxiY",
   "name": "WAGMI",
   "description": "High throughput testbed for EVM (Ethereum Virtual Machine) optimizations. It is parameterized to run at a factor more capacity than Fuji/Mainnet C-Chain and will be used to experiment with release candidates before they make it into an official coreth release.",
-  "icon": "https://cdn.snowpeer.io/wagmi.png",
-  "color": "#f9f584",
-  "website": "https://trywagmi.xyz",
-  "chains": [],
+  "primaryColor": "#f9f584",
+  "logo": "https://cdn.snowpeer.io/wagmi.png",
   "categories": [
     "l1"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "l1",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2ebCneCbwthjQ1rYT41nhd7M76Hc6YmosMAQrTFhBq8qeqh6tt",
+      "name": "wagmi",
+      "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+      "vmName": "EVM"
     }
   ]
 }

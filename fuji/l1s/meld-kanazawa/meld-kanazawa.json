@@ -1,32 +1,19 @@
 {
+  "links": {},
   "id": "2eQhLLJq1XgV9HtFSsakRgHnf4bWcpxayFDvxJjjJKBLdNkQRk",
   "name": "MELD Kanazawa",
   "description": "The Meld Network is one of the key pieces of the MELD protocol. It supports the smart contracts and operations of the financial products developed by MELD in a composable, interoperable way.",
-  "icon": "https://cdn.snowpeer.io/meld.png",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "logo": "https://cdn.snowpeer.io/meld.png",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "222000222",
+      "rpcUrl": "https://subnets.avax.network/meld/testnet/rpc",
+      "description": "The Meld Subnet is one of the key pieces of the MELD protocol. It supports the smart contracts and operations of the financial products developed by MELD in a composable, interoperable way.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/meld",
+      "id": "2Ci7VYrUd4fTBqGA5D2HA6UPHzQ4LQyr8rZQww9MGSv9rNkRzn",
+      "name": "Kanazawa",
+      "vmId": "aCVmbCSksRK6tQzbWfmKrw9iq8E92BRr5cenKA59uWnsWaXH4"
     }
   ]
 }

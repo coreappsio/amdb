@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "GN6LBFVYjFdSuTygwqUdb3bUarkWYPkhwzhHWyyDkwXRaxJ5x",
   "name": "Dexalot Spruce",
   "description": "The Dexalot Spruce Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "nq6J79TpvXjNHxa9jAFF6QzJ71rnJeBpDs7SXL4BMD1fEsR4X",
+      "name": "dexalotinstitutional",
+      "vmId": "mDVSxzeWHpQv9jHwe8FKgKsdRbgaCokg5KjThwsxurJHk8r5T",
+      "vmName": "EVM"
     }
   ]
 }

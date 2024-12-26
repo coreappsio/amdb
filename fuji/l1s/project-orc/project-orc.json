@@ -1,32 +1,18 @@
 {
+  "links": {},
   "id": "2MVzqq59sJKmrZe1MyiU2BDg6aec1Mam7XzKbjRBnT9abrYdH8",
   "name": "Project Orc",
   "description": "Test subnets for project orc",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "234560",
+      "rpcUrl": "https://subnets.avax.network/projectorc/testnet/rpc",
+      "description": "Test subnets for project orc",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/projectorc",
+      "id": "2rQ91J8zqUX7X62eJNj7MH1pxjiLZmhiYaoVwFyAHiPbAtcwFw",
+      "name": "ProjectOrc",
+      "vmId": "cRuqV9czCnn1z8Lz9JFsygX6wo2okHPWp9VBKDDKwRPKJbWrG"
     }
   ]
 }

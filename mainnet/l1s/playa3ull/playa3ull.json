@@ -1,34 +1,26 @@
 {
+  "links": {
+    "website": "https://playa3ull.games"
+  },
   "id": "2wLe8Ma7YcUmxMJ57JVWETMSHz1mjXmJc5gmssvKm3Pw8GkcFq",
   "name": "PLAYA3ULL",
   "description": " PLAYA3ULL GAMES ecosystem is a robust and advanced network designed to support the unique requirements of decentralized gaming, combining high-speed transactions, secure operations, and scalable solutions",
-  "icon": "https://cdn.snowpeer.io/playa3ull.jpeg",
-  "color": "#00ac2e",
-  "website": "https://playa3ull.games",
-  "chains": [],
+  "primaryColor": "#00ac2e",
+  "logo": "https://cdn.snowpeer.io/playa3ull.jpeg",
   "categories": [
     "GAMING"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "GAMING",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "3011",
+      "rpcUrl": "https://subnets.avax.network/playa3ull/mainnet/rpc",
+      "description": "PLAYA3ULL GAMES is inspired by gamers and funded by our community. Gaming is changing from being an all consuming time-sink into a brand new asset class! It's time to lock and load!",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/playa3ull",
+      "id": "k2SFEZ2MZr9UGXiycnA1DdaLqZTKDaHK7WUXVLhJk5F9DD8r1",
+      "name": "PLAYA3ULL",
+      "vmId": "cN6t22ptqzNhvvB66z25f2eZXK92PR62fxoVYRzDw1hWsMZt2"
     }
   ]
 }

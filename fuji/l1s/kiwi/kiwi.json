@@ -1,32 +1,18 @@
 {
+  "links": {},
   "id": "wAt2FdEjkVXpkpKQFqaYXrtdtzYoK3cKwmWRFH4M1ywrpJFjQ",
   "name": "Kiwi",
   "description": "The testnet for the Kiwi Avalanche Subnet Project.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "2037",
+      "rpcUrl": "https://subnets.avax.network/kiwi/testnet/rpc",
+      "description": "The testnet for the Kiwi Avalanche Subnet Project.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets-test.avax.network/kiwi",
+      "id": "NtXJr5eUxGHef9f8SNZoy6iHXCcqfrrqHR2opNcyfsYWuVAck",
+      "name": "Kiwi Network",
+      "vmId": "aDJGhy9mRgtFUVdcghhfpbzoHYmjz5oCrK4KZ4Sen7qhQBHEL"
     }
   ]
 }

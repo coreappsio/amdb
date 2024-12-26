@@ -1,0 +1,22 @@
+{
+  "links": {
+    "website": "https://www.feature.io/"
+  },
+  "id": "29p4FdSKaXQPyw8sqhzJSK37FXuPHdyECau186qZSUNRhk3QuB",
+  "name": "Feature",
+  "description": "Feature is an entertainment studio and technology company that’s pioneering the evolution of storytelling. We’re reimagining the way fans experience content - turning passive consumption into active participation with our Smart Content technology. Now, every episode, scene, or song becomes a conduit - authentically linking audiences with creators, brands, studios, and the content they love.",
+  "primaryColor": "#ffffff",
+  "logo": "https://cdn.snowpeer.io/feature.svg",
+  "categories": [
+    "IP"
+  ],
+  "mainCategory": "IP",
+  "chains": [
+    {
+      "id": "txbozTNfyRgJJxtHmsbpvwTTWTHU739z7pX7qKdhJVxHC2MAk",
+      "name": "feature",
+      "vmId": "n6Zzdtgyn5Y5ozrkcFd2Me8oLKbH1rHjv3qS7CvemLgqBSmSp",
+      "vmName": null
+    }
+  ]
+}

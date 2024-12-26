@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "ezDDeh6DL4AQkDd471cseH2w6D55kgzmSnHQiLbfAtckMYBJe",
   "name": "TESTNet ThirdTEST L1",
   "description": "複数接続用や他のテストに用いるサブネットになります。",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "d7Ztg65mE991YMXDmE3qtSJr1zq9YwAvWb1rQiABhxJghhaCk",
+      "name": "TESTNetThirdTEST",
+      "vmId": "e7auSJWyVwrpBk6EbAuxFYdJH8rUczEHsDNSDSHouEbJX9YU2",
+      "vmName": "EVM"
     }
   ]
 }

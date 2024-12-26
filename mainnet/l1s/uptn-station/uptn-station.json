@@ -1,35 +1,27 @@
 {
+  "links": {
+    "website": "https://www.uptn.io"
+  },
   "id": "yDxaSh2hoVxQKRHmacV1xFpuSgHf6Q6cCMu4v3GoLQnqQWk6L",
   "name": "UPTN Station",
   "description": "UPTN is a Web3.0 Platform where various real world business and lifestyle services can integrate into. We envision UPTN as a tool to enable mass adoption, a gateway platform into Web3.0, and also support various Web2.0 services that want to migrate to Web3.0.",
-  "icon": "https://cdn.snowpeer.io/uptn-station.png",
-  "color": "#5f46ff",
-  "website": "https://www.uptn.io",
-  "chains": [],
+  "primaryColor": "#5f46ff",
+  "logo": "https://cdn.snowpeer.io/uptn-station.png",
   "categories": [
     "SOCIAL",
     "LOYALTY"
   ],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "mainCategory": "SOCIAL",
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "6119",
+      "rpcUrl": "https://node-api.uptn.io/v1/ext/rpc",
+      "description": "UPTN is a Web3.0 Platform where various real world business and lifestyle services can integrate into. We envision UPTN as a tool to enable mass adoption, a gateway platform into Web3.0, and also support various Web2.0 services that want to migrate to Web3.0.",
+      "vmName": "EVM",
+      "explorerUrl": "http://explorer.uptn.io/",
+      "id": "2tsFdSeemtqK9vaPgjPrcwvKFKPw1T6PHufaZ26tKbAFSkXPTE",
+      "name": "UPTN",
+      "vmId": "eaE7qVXhH7XwvPafCGcAkYvdMPzy8sxweauh1XqUsAKZQFS7s"
     }
   ]
 }

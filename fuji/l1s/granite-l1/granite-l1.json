@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "vn4SXSLfL8T2f7Y75EFQmJ48ZvS4rwabjoTUgoYFm1KrH5PEG",
+  "name": "granite L1",
+  "description": "Granite L1",
+  "chains": [
+    {
+      "id": "2jWNi3zhrWFuHLkBCFwHs1uouYtSmVyqZTmNK6KHMaCdaVjDFa",
+      "name": "granite",
+      "vmId": "nZQm3dNutKQDaQVCY24J1UMKfzK7NpJFQG5zSwVdrRCs6ngCK",
+      "vmName": "EVM"
+    }
+  ]
+}

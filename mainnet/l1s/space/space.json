@@ -1,32 +1,26 @@
 {
+  "links": {
+    "website": "https://otherworld.network"
+  },
   "id": "hkugVjqegihrQcggCnScNW8yQctyY7Z7oj2Mj5tGxWGXNa5iQ",
   "name": "Space",
   "description": "Space is Otherworld's subnets, offering distinctive services for the needs of users. Fuel is a specialized token that functions as a lubricant for data transactions and enhances user interaction within Space, enabling seamless transaction.",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
-    {
-      "name": "",
-      "url": ""
-    }
+  "primaryColor": "#000000",
+  "logo": "https://cdn.snowpeer.io/space.png",
+  "categories": [
+    "METAVERSE"
   ],
-  "mainCategory": "",
-  "assets": [
+  "mainCategory": "METAVERSE",
+  "chains": [
     {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "8227",
+      "rpcUrl": "https://subnets.avax.network/space/mainnet/rpc",
+      "description": "Space is Otherworld's subnets, offering distinctive services for the needs of users. Fuel is a specialized token that functions as a lubricant for data transactions and enhances user interaction within Space, enabling seamless transaction.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/space",
+      "id": "22CN6x5LAPEkvLDdz4UwG3XXtZV69Su3bcspiYtkF9k5f9rcCt",
+      "name": "Space",
+      "vmId": "dkLYNQ3pAEfwcWuzC16XfT1QFVtpkZts2FMVBtvV5GXXQxseg"
     }
   ]
 }

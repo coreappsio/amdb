@@ -1,32 +1,26 @@
 {
+  "links": {
+    "website": "https://www.straitsx.com"
+  },
   "id": "2W9sERL7Zf7NrWpz7Bzg3fKSEt46gSQaKAU7ntTMSShLy64yMz",
   "name": "StraitsX",
-  "description": "Please refer to the website for more details!",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
-    {
-      "name": "",
-      "url": ""
-    }
+  "description": "Payments infrastructure for Digital Assets",
+  "primaryColor": "#00a965",
+  "logo": "https://cdn.snowpeer.io/straits.png",
+  "categories": [
+    "FINANCE"
   ],
-  "mainCategory": "",
-  "assets": [
+  "mainCategory": "FINANCE",
+  "chains": [
     {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "evmId": "5566",
+      "rpcUrl": "https://subnets.avax.network/straitsx/mainnet/rpc",
+      "description": "Please refer to the website for more details!",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/straitsx",
+      "id": "EJ4DyXHe4ydhsLLMiDPsHtoq5RDqgyao6Lwb9znKhs59q4NQx",
+      "name": "StraitsX",
+      "vmId": "dkk5Hf5AcumD7JsjLRgtyp8QL85LbQL3uCu5AmCJarKub4B3a"
     }
   ]
 }

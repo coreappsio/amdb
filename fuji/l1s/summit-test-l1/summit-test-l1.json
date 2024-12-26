@@ -1,32 +1,14 @@
 {
+  "links": {},
   "id": "AnSZsjCnbkEtgZ2oM2AqWFkruuJhYqUR87nCKjj1GsTdghFKh",
   "name": "Summit Test L1",
   "description": "AvaCloud Summit Chain",
-  "icon": "",
-  "color": "",
-  "website": "",
-  "chains": [],
-  "categories": [],
-  "docs": "",
-  "explorer": "",
-  "socials": [
+  "chains": [
     {
-      "name": "",
-      "url": ""
-    }
-  ],
-  "mainCategory": "",
-  "assets": [
-    {
-      "for": "",
-      "pricingDataProvider": [
-        {
-          "name": "",
-          "id": ""
-        }
-      ],
-      "symbol": "",
-      "name": ""
+      "id": "2LHB37XKJEzmwP1gmnbTWTJyx9T9JNAWTc5fCCfVDACmMNFXPX",
+      "name": "summittest",
+      "vmId": "srEn8kAWfJzZE7Ugxoh6UfyuubuiipvAivfbS1XLUGgycDHwV",
+      "vmName": "EVM"
     }
   ]
 }

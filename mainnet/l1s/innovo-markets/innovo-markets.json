@@ -1,0 +1,22 @@
+{
+  "links": {
+    "website": "https://www.innovomarkets.com/"
+  },
+  "id": "oerPWBbtbe13eWbo3AegYUrHuSETeTwyNy7szoHJJ1QQBL9nu",
+  "name": "Innovo Markets",
+  "description": "Innovo is on a mission to transform the environmental commodity market",
+  "primaryColor": "#f25602",
+  "logo": "https://cdn.snowpeer.io/innova.png",
+  "categories": [
+    "RWA"
+  ],
+  "mainCategory": "RWA",
+  "chains": [
+    {
+      "id": "vFHT9J4F6PhqCTMmqkKKUKW3yfsjd6tNvhmcK4MkFa3Pmnnqe",
+      "name": "InnovoMarketsMainnet",
+      "vmId": "ZLhwWNLcKhATKbjmGHpSKv9YJ6B462yLyq6eb4CkkD78zCoJZ",
+      "vmName": null
+    }
+  ]
+}

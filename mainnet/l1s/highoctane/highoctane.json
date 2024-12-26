@@ -1,0 +1,19 @@
+{
+  "links": {},
+  "id": "27mZh9HyNwGdqfkQDWabzo9BonhPSzh1qwdzaDsmPJDn1woCVV",
+  "name": "HighOctane",
+  "description": "HighOctane is the mainnet subnet for Gold Fever, a thrilling survival MMORPG where you can mine and fight for $NGL in a decentralized blockchain economy driven by #CommercialNFTs owners.",
+  "primaryColor": "#f1c40f",
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "id": "25friWasfe2pMdVHQAh5inDBz5XQq42a1V8DYqAGnxeKks5Bkp",
+      "name": "HighOctane",
+      "vmId": "YtfK8Sj57XHSE5GvaTJPzudH3Q9x1bfcK27jvJQjMgdoqB9JW",
+      "vmName": null
+    }
+  ]
+}
