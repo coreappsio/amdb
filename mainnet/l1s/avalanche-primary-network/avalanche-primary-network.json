@@ -1,6 +1,7 @@
 {
   "links": {
-    "website": "https://avax.network"
+    "website": "https://avax.network",
+    "whitepaper":"https://www.avalabs.org/whitepapers"
   },
   "id": "11111111111111111111111111111111LpoYY",
   "name": "Avalanche Primary Network",
