@@ -1,6 +1,17 @@
 {
   "links": {
-    "website": "https://tiltyard.gg"
+    "website": "https://tiltyard.gg",
+    "git": "https://tiltyard.gitbook.io/midnight-heist",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/tiltyard_gg"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/tiltyard"
+      }
+    ]
   },
   "id": "23LsHpx3wTPtNC4PUaTdtNQkaGbLxwiGimnZjHaUc28qLHs7Dn",
   "name": "Tiltyard",
