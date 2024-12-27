@@ -2,6 +2,24 @@
   "links": {
     "website": "https://dexalot.com"
   },
+    "whitepaper": "https://dexalot.com/docs/DEXALOT-Litepaper.pdf",
+    "forum": "",
+    "git": "https://github.com/dexalot",
+    "docs": "https://docs.dexalot.com/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/dexalot"
+      }
+      {
+        "name": "Telegram",
+        "url": "https://t.me/dexalot_com"
+      }
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/S4NP9w7Xwn"
+      }
+    ]
   "id": "wenKDikJWAYQs3f2v9JhV86fC6kHZwkFZsuUBftnmgZ4QXPnu",
   "name": "Dexalot",
   "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry",
