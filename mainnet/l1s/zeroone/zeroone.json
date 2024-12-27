@@ -1,6 +1,21 @@
 {
   "links": {
-    "website": "https://zeroone.art"
+    "website": "https://zeroone.art",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/zero________one"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/aJjpqXWJBX"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/zeroone-art/"
+      }
+    ]
+
   },
   "id": "nKJuE11HePLrmp391sfoFVqZR7Fw5VJ1XjyznsogsjebxwiAg",
   "name": "zeroone",
