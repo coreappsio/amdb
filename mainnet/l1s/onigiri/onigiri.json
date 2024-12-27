@@ -1,6 +1,13 @@
 {
   "links": {
-    "website": "https://www.ongr.org"
+    "website": "https://www.ongr.org",
+    "whitepaper": "https://lightpaper.ongr.org/onigiri-chain-light-paper-en",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/OnigiriChain"
+      }
+    ]
   },
   "id": "2QiTdY87qfDRav1pSdxkGMqjRD6YXFscVd64W3L3V8v4re9CCo",
   "name": "ONIGIRI",
