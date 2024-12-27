@@ -1,6 +1,16 @@
 {
   "links": {
-    "website": "https://rymedi.com"
+    "website": "https://rymedi.com",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/teamrymedi"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/rymedi/"
+      }
+    ]
   },
   "id": "qWeo55RT2F7SNoWtVUuAGptPoz23hViLthjHHaj3BsV2pv7TM",
   "name": "Rymedi Identity",
