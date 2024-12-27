@@ -1,3 +1,34 @@
 {
-    "id":"26wQKuvA5kjwrKDaje7nmuJAx6Ke2bGvDDr3EiypNr53rH1pMc"
-}
+  "links": {
+    "website": "https://qubo.id/",
+    "whitepaper": "https://quboid.gitbook.io/studio",
+    "docs": "https://quboid.gitbook.io/studio",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/Quboid_HQ"
+      },
+        {
+        "name": "Telegram",
+        "url": "https://t.me/+J2hTcNKBrDY0YWRl"
+      },
+        {
+        "name": "Discord",
+        "url": "https://discord.com/invite/BHcACX5ajb"
+      },
+        {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/quboid-hq/"
+      }
+    ]
+  },
+  "id": "26wQKuvA5kjwrKDaje7nmuJAx6Ke2bGvDDr3EiypNr53rH1pMc",
+  "name": "Q-chain",
+  "description": "World's first decentralised loyalty tokens liquidity and settlement network",
+  "primaryColor": "#E22553",
+  "logo": "",
+  "categories": [
+    "LOYALTY",
+  ],
+  "mainCategory": "LOYALTY",
+ 
