@@ -1,6 +1,23 @@
 {
   "links": {
-    "website": "https://lamina1.com"
+    "website": "https://lamina1.com",
+    "whitepaper": "https://uploads-ssl.webflow.com/63fe332d7b9ae4159d741e55/6435ef54d6c2e389be334d99_L1_Whitepaper_2023.pdf",
+    "git": "https://github.com/lamina1",
+    "docs": "https://docs.lamina1.com/docs/introduction",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/Lamina1official"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/lamina1"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/Lamina1Official"
+      }
+    ]
   },
   "id": "2T4gpnissLkoezQ36XKxhrFAH5yynqKGa1u47XxCYTdfvePuNz",
   "name": "Lamina1 Identity",
