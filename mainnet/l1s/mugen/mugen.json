@@ -1,5 +1,12 @@
 {
-  "links": {},
+  "links": {
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/buildonmugen"
+      }
+    ]
+  },
   "id": "LbvSkGmUJSpUby1gUrk4g9mmdeZQWcVGiFCXv57CJHBrxxEos",
   "name": "MUGEN",
   "description": "MUGEN mainnet",
