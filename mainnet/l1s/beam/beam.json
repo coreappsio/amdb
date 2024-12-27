@@ -1,6 +1,27 @@
 {
   "links": {
     "website": "https://www.onbeam.com"
+    "forum": "https://gov.onbeam.com/",
+    "git": "https://github.com/BuildOnBeam",
+    "docs": "https://docs.onbeam.com/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/BuildOnBeam"
+      },
+      {
+        "name": "Discord",
+        "url": "http://discord.gg/beamgamers"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/buildonbeam_news"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@onbeam"
+      }
+    ]
   },
   "id": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
   "name": "Beam",
