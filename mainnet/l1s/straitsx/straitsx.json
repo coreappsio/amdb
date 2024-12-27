@@ -1,6 +1,24 @@
 {
   "links": {
-    "website": "https://www.straitsx.com"
+    "website": "https://www.straitsx.com",
+    "whitepaper": "https://uploads-ssl.webflow.com/6119d1f2b05f8e85e873971a/61973965253a4871b5c75f05_StraitsX%20Whitepaper%20V1.2.pdf",
+    "forum": "",
+    "git": "https://github.com/StraitsX",
+    "docs": "https://docs.straitsx.com/docs/introduction",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/straitsx"
+      }
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/straitsx/?hl=en"
+      }
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/straitsx/"
+      }
+    ]
   },
   "id": "2W9sERL7Zf7NrWpz7Bzg3fKSEt46gSQaKAU7ntTMSShLy64yMz",
   "name": "StraitsX",
