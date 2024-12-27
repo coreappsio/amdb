@@ -1,6 +1,22 @@
 {
   "links": {
-    "website": "https://pulsar.game"
+    "website": "https://pulsar.game",
+    "whitepaper": "https://whitepaper.pulsar.game/",
+    "docs": "https://wiki.pulsar.game/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/PulsarGame"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/sWk2ZYHsvg"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCG0LjOPFxiUMzq-KMadp10g"
+      }
+    ]
   },
   "id": "DxanjptkyaeM1eUew2gzUMngHM3n5ttUyMj7BuHw9riXh9pJC",
   "name": "Pulsar",
