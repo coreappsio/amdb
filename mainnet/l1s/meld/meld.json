@@ -1,6 +1,27 @@
 {
   "links": {
-    "website": "https://www.meld.com"
+    "website": "https://www.meld.com",
+    "whitepaper": "https://docs.meld.com/information/whitepaper",
+    "git": "https://github.com/MELD-labs",
+    "docs": "https://docs.meld.com/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/onMELD"
+      }
+      {
+        "name": "Medium",
+        "url": "https://medium.com/onmeld"
+      }
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/onmeld/"
+      }
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/onmeld"
+      }
+    ]
   },
   "id": "2ibTg9ruyJRQf4NpRbkd1Utcfayo3gRRpkoWGCWNC3oXTZoYCe",
   "name": "MELD",
