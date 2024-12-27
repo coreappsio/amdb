@@ -1,6 +1,25 @@
 {
   "links": {
-    "website": "https://blitz.gg"
+    "website": "https://blitz.gg",
+    "git": "https://github.com/theblitzapp",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/theblitzapp"
+      },
+      {
+        "name": "Discord",
+        "url": "https://blitz.gg/discord"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/theblitzapp/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/theblitzapp/"
+      }
+    ]
   },
   "id": "yPUx56ffTBML1QfomcBvwfBxfE3LSgqkBNfxTCpx5dr4NNFGB",
   "name": "Blitz",
