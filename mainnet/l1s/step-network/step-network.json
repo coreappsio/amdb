@@ -1,6 +1,23 @@
 {
   "links": {
-    "website": "https://step.network"
+    "website": "https://step.network",
+    "whitepaper": "https://whitepaper.stepn.com/",
+    "git": "https://github.com/step-app-fi",
+    "docs": "https://whitepaper.stepn.com/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/stepapp_"
+      },
+       {
+        "name": "Discord",
+        "url": "https://discord.com/invite/stepappdc"
+      },
+       {
+        "name": "Telegram",
+        "url": "https://t.me/stepappchat"
+      }
+    ]
   },
   "id": "7f9jciLEX25NPJEaAz1X7XF44B1Q9UBwq6PdnCHm5mnUq1e1C",
   "name": "Step Network",
