@@ -1,6 +1,27 @@
 {
   "links": {
-    "website": "https://plyr.network/"
+    "website": "https://plyr.network/",
+    "whitepaper": "https://whitepaper.plyr.network/",
+    "git": "https://github.com/onPlyr",
+    "docs": "https://whitepaper.plyr.network/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/OnPlyr"
+      },
+       {
+        "name": "Discord",
+        "url": "https://discord.com/invite/plyr"
+      },
+       {
+        "name": "Telegram",
+        "url": "https://t.me/plyrchain"
+      },
+       {
+        "name": "Medium",
+        "url": "https://onplyr.medium.com/"
+      }
+    ]
   },
   "id": "axp7DUSPvFghTM883ug2B8btAReBAACxD1VyENmRDStH4Lfed",
   "name": "PLYR PHI",
