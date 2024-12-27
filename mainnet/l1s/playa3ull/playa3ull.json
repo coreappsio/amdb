@@ -1,6 +1,22 @@
 {
   "links": {
-    "website": "https://playa3ull.games"
+    "website": "https://playa3ull.games",
+    "whitepaper": "https://playa3ull.games/WHITEPAPER_PLAYA3ULL_GAMES.pdf",
+    "docs": "https://docs.playa3ull.games/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/PLAYA3ULL_GAMES"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/playa3ull"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/playa3ull-games/"
+      }
+    ]
   },
   "id": "2wLe8Ma7YcUmxMJ57JVWETMSHz1mjXmJc5gmssvKm3Pw8GkcFq",
   "name": "PLAYA3ULL",
