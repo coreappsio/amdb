@@ -1,6 +1,27 @@
 {
   "links": {
-    "website": "https://xana.net"
+    "website": "https://xana.net",
+    "whitepaper": "https://docs.xana.net/xanagenesis-whitepaper",
+    "forum": "https://xana.net/blog/",
+    "docs": "https://docs.xana.net/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/xana_net"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/xana_news"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/Xana"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/xana-net/"
+      }
+    ]
   },
   "id": "ii7zCu8JNnYYgPT8PwpVYiTS1gcK5RWJfsyuPXTDv8Bn9wspY",
   "name": "XANA",
