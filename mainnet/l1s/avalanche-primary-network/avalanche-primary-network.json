@@ -5,7 +5,24 @@
     "forum":"https://www.avalabs.org/whitepapers",
     "git": "https://github.com/ava-labs",
     "docs": "https://docs.avax.network/",
-    "socials":"https://www.avax.network/community"
+    "socials":[
+      {
+        "name": "X",
+        "url": "https://twitter.com/avax"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/Avalancheavax"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/avalancheavax"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/Avax/"
+      },
+    ]
   },
   "id": "11111111111111111111111111111111LpoYY",
   "name": "Avalanche Primary Network",
