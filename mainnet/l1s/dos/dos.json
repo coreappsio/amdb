@@ -1,6 +1,27 @@
 {
   "links": {
-    "website": "https://doschain.com"
+    "website": "https://doschain.com",
+    "forum": "https://roadmap.doschain.com/b/nwmwxx0q/feature-requests",
+    "git": "https://github.com/DOSLabs/DOS",
+    "docs": "https://docs.doschain.com/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/DOS_Chain"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/doschain/"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/DOSChain"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/DOS"
+      }
+    ]
   },
   "id": "nQCwF6V9y8VFjvMuPeQVWWYn6ba75518Dpf6ZMWZNb3NyTA94",
   "name": "DOS",
