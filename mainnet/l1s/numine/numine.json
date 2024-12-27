@@ -1,6 +1,25 @@
 {
   "links": {
-    "website": "https://numine.io"
+    "website": "https://numine.io",
+    "docs": "https://docs.numine.io/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/numineverse"
+      },
+         {
+        "name": "Telegram",
+        "url": "https://t.me/numineverse"
+      },
+         {
+        "name": "Discord",
+        "url": "https://discord.com/invite/numine"
+      },
+         {
+        "name": "Medium",
+        "url": "https://medium.com/@numineverse"
+      }
+    ]
   },
   "id": "4iDWVgCCSu4Tafpg4bdhxu8q1ap8Rp2hMzG4UPxUhL9UVX6iU",
   "name": "Numine",
