@@ -1,6 +1,26 @@
 {
   "links": {
-    "website": "https://www.numbersprotocol.io"
+    "website": "https://www.numbersprotocol.io",
+    "git": "https://github.com/numbersprotocol",
+    "docs": "https://archive.numbersprotocol.io/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/numbersprotocol"
+      },
+       {
+        "name": "Discord",
+        "url": "https://discord.com/invite/KF8TNeWd2u"
+      },
+       {
+        "name": "Telegram",
+        "url": "https://t.me/numbersprotocol"
+      },
+       {
+        "name": "Medium",
+        "url": "https://medium.com/numbers-protocol"
+      }
+    ]
   },
   "id": "2gHgAgyDHQv7jzFg6MxU2yyKq5NZBpwFLFeP8xX2E3gyK1SzSQ",
   "name": "Numbers",
