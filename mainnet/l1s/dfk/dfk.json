@@ -1,6 +1,26 @@
 {
   "links": {
-    "website": "https://defikingdoms.com"
+    "website": "https://defikingdoms.com",
+    "whitepaper": "https://docs.defikingdoms.com/",
+    "docs": "https://docs.defikingdoms.com/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/DefiKingdoms"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/DefiKingdoms/"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/defikingdoms"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/defikingdoms"
+      }
+    ]
   },
   "id": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
   "name": "DFK",
