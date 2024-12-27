@@ -1,6 +1,21 @@
 {
   "links": {
-    "website": "https://miraichain.io"
+    "website": "https://miraichain.io",
+    "whitepaper": "https://whitepaper.mirai.app/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/TheMiraiLabs"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/UUcgTZB9WV"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/mirai-labs/"
+      }
+    ]
   },
   "id": "2kyZRnEHakKriNufphojbeFR5hi247bJeTjFDgQgo7VRRjoqyq",
   "name": "Mirai",
