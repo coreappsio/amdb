@@ -1,6 +1,23 @@
 {
   "links": {
-    "website": "https://playdapp.io"
+    "website": "https://playdapp.io",
+    "whitepaper": "https://images.playdapp.com/playdapp-homepage/prod/download/PlayDapp_WhitePaper_v1.0_EN.pdf",
+    "git": "https://github.com/playdapp",
+    "docs": "https://docs.developer.playdapp.com/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/playdapp_io"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/playdapp.io"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/playdapp-537515978561683466"
+      }
+    ]
   },
   "id": "2bSdrPJaGvsDFeJtC7v9ut4m2vLKBgs2dJzRsDpxYKbqTyBmr9",
   "name": "Playdapp",
