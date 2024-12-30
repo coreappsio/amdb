@@ -3,7 +3,7 @@
 <p align="center">
 
 <p align="center">
-<img align="center" width="200px" height="auto" src="./amdb.svg">
+<img align="center" width="150px" height="auto" src="./amdb.svg">
 </p>
   <p align="center">
 An open-source repository providing structured metadata for Avalanche L1s to enable seamless discovery and integration
