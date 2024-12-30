@@ -1,4 +1,4 @@
-# Avalanche Metadata Database
+# Avalanche Metadata DB
 
 <p align="center">
 
