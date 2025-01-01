@@ -1,0 +1,73 @@
+{
+    "id": "",
+    "name": "",
+    "description": "",
+    "logo": "",
+    "primaryColor": "",
+    "permissionless": true,
+    "private": false,
+    "chains": [
+        {
+            "id": "",
+            "name": "",
+            "description": "",
+            "evmId": "",
+            "vmName": "",
+            "explorerUrl": "",
+            "rpcUrl": "",
+            "assets": [
+                {
+                    "name": "",
+                    "symbol": "",
+                    "type": "",
+                    "denomination": "",
+                    "cap": "",
+                    "description": "",
+                    "logo": "",
+                    "pricingDataProvider": [
+                        {
+                            "name": "CoinGecko",
+                            "id": ""
+                        },
+                        {
+                            "name": "CoinMarketCap",
+                            "id": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "links": {
+        "website": "",
+        "whitepaper": "",
+        "explorers": [
+            ""
+        ],
+        "forum": "",
+        "git": "",
+        "docs": "",
+        "socials": [
+            {
+                "name": "",
+                "url": ""
+            }
+        ]
+    },
+    "team": [
+        {
+            "name": "",
+            "role": "",
+            "socials": [
+                {
+                    "name": "",
+                    "url": ""
+                }
+            ]
+        }
+    ],
+    "mainCategory": "",
+    "categories": [
+        ""
+    ]
+}

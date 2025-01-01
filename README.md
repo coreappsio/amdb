@@ -16,15 +16,16 @@ An open-source repository providing structured metadata for Avalanche L1s to ena
 - [Folder Structure](#folder-structure)
 - [Metadata Schema](#metadata-schema)
 - [Key Features](#key-features)
+- [API Access and Integration](#api-access-and-integration)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Overview
 
-The Avalanche Metadata Database (AMDB) is a comprehensive and flexible repository designed to provide structured and accessible metadata for Avalanche L1s. It serves as a unified resource for storing and sharing critical network information, enabling seamless discovery and integration across the Avalanche ecosystem.
+The Avalanche Metadata Database (AMDB) is a comprehensive and flexible repository designed to provide structured and accessible metadata for Avalanche L1s. It serves as a unified resource for storing and sharing useful network metadata, enabling seamless discovery and integration across the Avalanche ecosystem.
 
-AMDB supports both Fuji (testnet) and Mainnet, offering developers, researchers, and explorers a standardized schema for retrieving detailed metadata. This repository was established as a **public good**, ensuring free and open access to off-chain data while fostering collaboration within the Avalanche community.
+AMDB supports both Fuji (testnet) and Mainnet, offering developers, researchers, and explorers a standardized schema for retrieving detailed metadata. This repository was established as a **public good**, ensuring free and open access to off-chain data for anyone needing organized and accessible metadata.
 
 While Snowpeer initially developed and maintains AMDB, it is designed to be **community-driven**. Contributions are encouraged, allowing others to extend its capabilities and improve its contents collaboratively.
 
@@ -44,7 +45,7 @@ While Snowpeer initially developed and maintains AMDB, it is designed to be **co
 
 - **fuji/l1s**: Contains metadata for Avalanche L1s deployed on the Fuji testnet.
 - **mainnet/l1s**: Contains metadata for Avalanche L1s deployed on the Avalanche Mainnet.
-- **example-l1**: Example structure for an Avalanche L1, including a JSON metadata file and assets like logos.
+
 
 ## Metadata Schema
 
@@ -134,6 +135,11 @@ The AMDB schema is designed to store comprehensive metadata for Avalanche L1s, i
 - **Dynamic API Integration**: Allows integration with pricing data providers like CoinGecko and CoinMarketCap.
 - **Rich Metadata**: Captures detailed information about assets, including type, denomination, and supply cap.
 - **Links and Socials**: Provides connectivity to official websites, whitepapers, explorers, and social channels.
+
+## API Access and Integration
+
+Snowpeer indexes and provides this data directly through an API.
+Explore the API documentation at [api.snowpeer.io/docs](https://api.snowpeer.io/docs).
 
 ## Contributing
 
