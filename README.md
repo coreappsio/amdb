@@ -158,4 +158,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or support, please reach out via [GitHub Issues](https://github.com/your-repo/amdb/issues) or contact the team directly through our listed social channels.
+For inquiries or support, please open an issue via [GitHub Issues](https://github.com/coreappsio/amdb/issues) or email us at [info@snowpeer.io](mailto:info@snowpeer.io).
