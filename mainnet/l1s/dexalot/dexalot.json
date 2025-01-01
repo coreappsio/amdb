@@ -39,7 +39,16 @@
       "explorerUrl": "https://subnets.avax.network/dexalot",
       "id": "21Ths5Afqi5r4PaoV8r8cruGZWhN11y5rxvy89K8px7pKy3P8E",
       "name": "dexalotevm",
-      "vmId": "mDVSxzeWHmgqrcXK1tPYqavqTK5MC3mMqme6r3a6cz2fqMfqf"
+      "vmId": "mDVSxzeWHmgqrcXK1tPYqavqTK5MC3mMqme6r3a6cz2fqMfqf",
+        "assets": [
+        {
+          "name": "Dexalot",
+          "symbol": "ALOT",
+          "type": "GAS",
+          "cap": "FIXED",
+          "description": "Dexalot allows for users to trade ERC20 tokens supported on the C-Chain against the blockchain native currency AVAX or against other supported ERC20 tokens."
+        }
+      ]
     }
   ]
 }
