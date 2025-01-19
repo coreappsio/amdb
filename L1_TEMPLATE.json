@@ -15,6 +15,11 @@
             "vmName": "",
             "explorerUrl": "",
             "rpcUrl": "",
+            "rpcUrls":[{
+                "name": "",
+                "url": "",
+                "provider":""
+            }],
             "assets": [
                 {
                     "name": "",

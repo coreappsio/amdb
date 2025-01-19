@@ -1,0 +1,25 @@
+{
+    "id": "2c7nfG2LpbiN2F4mFPgaGh6jhaspKMaFNL9XJJKJ7sq3Qsacn",
+    "name": "COQnet",
+    "description": "COQnet aims to become the cultural hub of Avalanche. COQnet has cheap randomness, abstracted gas and provides the best user experience for meme apps and minigames. Validated by GoGoPool COQ Validators & Powered by the largest community on Avalanche.",
+    "chains": [
+        {
+            "id": "Twk1JEuqi7yP6UqH1SiZQeMtWH2vScWHJeZSJdqKzp5eqDyme",
+            "name": "COQnet",
+            "rpcUrls": [
+                {
+                    "url": "https://coqfuji.l1launcher.com",
+                    "provider": "GoGoPool"
+                }
+            ],
+            "assets": []
+        }
+    ],
+    "links": {
+        "website": "https://coqnet.io"
+    },
+    "mainCategory": "GAMING",
+    "categories": [
+        "GAMING"
+    ]
+}

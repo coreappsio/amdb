@@ -70,6 +70,11 @@ The AMDB schema is designed to store comprehensive metadata for Avalanche L1s, i
             vmName: "", // Virtual Machine name
             explorerUrl: "", // URL to the chain explorer
             rpcUrl: "", // URL for RPC endpoint
+            rpcUrls:[{
+                name: "", // Name of the RPC endpoint
+                url: "",// URL for the RPC endpoint
+                provider:"" // Provider of the RPC endpoint
+            }],
             assets: [
                 {
                     name: "", // Asset name
