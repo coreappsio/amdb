@@ -6,6 +6,7 @@
         {
             "id": "Twk1JEuqi7yP6UqH1SiZQeMtWH2vScWHJeZSJdqKzp5eqDyme",
             "name": "COQnet",
+            "vmName":"evm",
             "rpcUrls": [
                 {
                     "url": "https://coqfuji.l1launcher.com",
