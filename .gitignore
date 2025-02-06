@@ -9,3 +9,4 @@ package-lock.json
 package.json
 subnet.ts
 scripts
+.DS_Store

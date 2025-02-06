@@ -26,7 +26,7 @@
   "name": "Q-chain",
   "description": "World's first decentralised loyalty tokens liquidity and settlement network",
   "primaryColor": "#E22553",
-  "logo": "",
+  "logo": "./qchain.svg",
   "categories": [
     "LOYALTY"
   ],
