@@ -3,7 +3,12 @@
     "name": "Growth Protocol",
     "description": "A revolutionary AI platform that enables the world’s leading corporations to identify and validate growth opportunities at scale.",
     "links": {
-        "website": "https://growthprotocol.ai/"
+        "website": "https://growthprotocol.ai/",
+        "socials": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/growthprotocolai/"
+      }]
     },
     "mainCategory": "AI",
     "categories": [
