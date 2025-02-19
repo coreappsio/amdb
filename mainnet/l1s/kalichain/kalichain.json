@@ -1,0 +1,28 @@
+{
+    "links": {
+      "website": "https://kalichain.com/",
+      "whitepaper": "https://whitepaper.kalichain.com/",
+      "git": "https://github.com/KalissaIO/KALICHAIN",
+      "socials": [
+        {
+          "name": "X",
+          "url": "https://x.com/kalichainoff"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://linkedin.com/company/93642026"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/invite/ma3cHRkj2C"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/kalichain"
+          }
+      ]
+    },
+    "id": "x1C95jnFyLV3x8tiiCW7ZFRoRFgq9SX1Yprwfxx4GCTujggYB",
+    "name": "Kalichain",
+    "description": "Kalichain revolutionizes product certification with blockchain, ensuring a secure, reliable space for brands and consumers."
+  }

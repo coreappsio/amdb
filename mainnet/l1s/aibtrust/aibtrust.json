@@ -1,11 +1,14 @@
 {
-  "links": {},
+  "links": {
+    "website": "https://aibtrust.jp/"
+  },
+  "mainCategory": "HEALTH",
   "id": "2qJPnDkDH6hn3PVzxzkUdTqDD1HeAnTT8FL4t2BJagc2iuq8j7",
   "name": "AIBTRUST",
   "chains": [
     {
       "id": "2FUHgWJcZ4j8FrEi1DsdGyq6vMWQXeQGbZLuzcU6sFAazvnrYd",
-      "name": "AIBTRUSTMainnet",
+      "name": "AIBTRUST",
       "vmId": "VkeZMFzYTFXZeDMMfniZscbUX1SR8mydk7ZhzAPKfuvwuehxc",
       "vmName": "EVM"
     }
