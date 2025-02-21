@@ -26,7 +26,7 @@
   "name": "QCHAIN",
   "description": "World's first decentralised loyalty tokens liquidity and settlement network",
   "primaryColor": "#E22553",
-  "logo": "./qchain.svg",
+  "logo": "https://cdn.snowpeer.io/qchain.svg",
   "categories": [
     "LOYALTY"
   ],
