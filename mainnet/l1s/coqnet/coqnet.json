@@ -1,6 +1,6 @@
 {
     "links": {
-      "website": "https://coqnet.io/",
+      "website": "https://coqnet.io",
       "socials": [
         {
           "name": "X",
@@ -19,7 +19,9 @@
     "id": "5moznRzaAEhzWkNTQVdT1U4Kb9EU7dbsKZQNmHwtN5MGVQRyT",
     "name": "Coqnet",
     "description": "An L1 blockchain designed for vibrant communities, innovative developers, and committed validators",
-    "logo": "./coqnet.svg",
+    "logo": "https://cdn.snowpeer.io/coqnet.svg",
+    "primaryColor": "#9a1e1e",
+    "mainCategory": "GAMING",
     "categories": [
       "GAMING"
     ]

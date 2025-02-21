@@ -1,7 +1,7 @@
 {
     "links": {
-      "website": "https://kalichain.com/",
-      "whitepaper": "https://whitepaper.kalichain.com/",
+      "website": "https://kalichain.com",
+      "whitepaper": "https://whitepaper.kalichain.com",
       "git": "https://github.com/KalissaIO/KALICHAIN",
       "socials": [
         {
@@ -24,5 +24,10 @@
     },
     "id": "x1C95jnFyLV3x8tiiCW7ZFRoRFgq9SX1Yprwfxx4GCTujggYB",
     "name": "Kalichain",
-    "description": "Kalichain revolutionizes product certification with blockchain, ensuring a secure, reliable space for brands and consumers."
+    "description": "Kalichain revolutionizes product certification with blockchain, ensuring a secure, reliable space for brands and consumers.",
+    "primaryColor": "#6545d5",
+    "mainCategory": "IP",
+    "categories": [
+      "IP"
+    ]
   }

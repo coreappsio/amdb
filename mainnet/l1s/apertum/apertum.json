@@ -3,11 +3,12 @@
     "name": "Apertum",
     "description": "Total control over your digital assets. Web3 Dapps, games, DEVs, NFTs and many more Web3 solutions, bringing you exciting ways to be in control.",
     "links": {
-        "website": "https://apertum.io/"
+        "website": "https://apertum.io"
     },
     "mainCategory": "AI",
-    "logo": "./apertum.svg",
+    "logo": "https://cdn.snowpeer.io/apertum.svg",
     "categories": [
         "AI"
-    ]
+    ],
+    "primnaryColor": "#488BC3"
 }

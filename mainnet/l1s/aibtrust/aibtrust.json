@@ -3,6 +3,9 @@
     "website": "https://aibtrust.jp/"
   },
   "mainCategory": "HEALTH",
+  "categories": [
+    "HEALTH"
+  ],
   "id": "2qJPnDkDH6hn3PVzxzkUdTqDD1HeAnTT8FL4t2BJagc2iuq8j7",
   "name": "AIBTRUST",
   "chains": [

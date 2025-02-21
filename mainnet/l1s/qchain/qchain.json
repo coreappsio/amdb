@@ -1,6 +1,6 @@
 {
   "links": {
-    "website": "https://qubo.id/",
+    "website": "https://qubo.id",
     "whitepaper": "https://quboid.gitbook.io/studio",
     "docs": "https://quboid.gitbook.io/studio",
     "socials": [
@@ -23,7 +23,7 @@
     ]
   },
   "id": "26wQKuvA5kjwrKDaje7nmuJAx6Ke2bGvDDr3EiypNr53rH1pMc",
-  "name": "Q-chain",
+  "name": "QCHAIN",
   "description": "World's first decentralised loyalty tokens liquidity and settlement network",
   "primaryColor": "#E22553",
   "logo": "./qchain.svg",
