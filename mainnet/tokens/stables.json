@@ -1,0 +1,59 @@
+{
+    "category": "Stablecoins",
+    "tokens": [
+        {
+            "name": "Tether",
+            "symbol": "USDt",
+            "issuer": "Tether",
+            "backingType": "fiat",
+            "website": "https://tether.to",
+            "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
+            "backingCurrencyCode": "USD",
+            "chains": [
+                {
+                    "name": "C-Chain",
+                    "evmId": 43114,
+                    "contractAddress": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+                    "decimals": 6,
+                    "tokenType": "ERC20"
+                }
+            ]
+        },
+        {
+            "name": "USDC",
+            "symbol": "USDC",
+            "issuer": "Circle",
+            "backingType": "fiat",
+            "website": "https://www.circle.com/usdc",
+            "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
+            "backingCurrencyCode": "USD",
+            "chains": [
+                {
+                    "name": "C-Chain",
+                    "evmId": 43114,
+                    "contractAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+                    "decimals": 6,
+                    "tokenType": "ERC20"
+                }
+            ]
+        },
+        {
+            "name": "EURC",
+            "symbol": "EURC",
+            "issuer": "Circle",
+            "backingType": "fiat",
+            "website": "https://www.circle.com/eurc",
+            "logo": "https://cdn.snowpeer.io/tokens/eurc.svg",
+            "backingCurrencyCode": "EUR",
+            "chains": [
+                {
+                    "name": "C-Chain",
+                    "evmId": 43114,
+                    "contractAddress": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+                    "decimals": 6,
+                    "tokenType": "ERC20"
+                }
+            ]
+        }
+    ]
+}
