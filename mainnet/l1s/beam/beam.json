@@ -1,6 +1,6 @@
 {
   "links": {
-    "website": "https://www.onbeam.com",
+    "website": "https://onbeam.com",
     "forum": "https://gov.onbeam.com/",
     "git": "https://github.com/BuildOnBeam",
     "docs": "https://docs.onbeam.com/",
@@ -26,7 +26,7 @@
   "id": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
   "name": "Beam",
   "description": "An opinionated chain built for gaming.",
-  "primaryColor": "#f4ece4",
+  "primaryColor": "#FDFF99",
   "logo": "https://cdn.snowpeer.io/beam.png",
   "categories": [
     "GAMING"
