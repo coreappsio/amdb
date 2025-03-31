@@ -21,7 +21,7 @@
   },
   "id": "2bSdrPJaGvsDFeJtC7v9ut4m2vLKBgs2dJzRsDpxYKbqTyBmr9",
   "name": "Playdapp",
-  "description": "We have developed a Web3-based service that everyone can enjoy.",
+  "description": "PlayDapp offers a platform designed to bring Web2 users into the Web3 ecosystem. It enables players to engage in games and transactions without the need for cryptocurrency. Through its SDK, PlayDapp helps developers integrate Web3 elements into traditional apps, fostering interoperability across games, metaverses, and more.",
   "primaryColor": "#2bcab0",
   "logo": "https://cdn.snowpeer.io/pda2.png",
   "categories": [
@@ -32,7 +32,7 @@
     {
       "evmId": "504441",
       "rpcUrl": "https://subnets.avax.network/playdappne/mainnet/rpc",
-      "description": "We have developed a Web3-based service that everyone can enjoy.\n\n",
+      "description": "PlayDapp offers a platform designed to bring Web2 users into the Web3 ecosystem. It enables players to engage in games and transactions without the need for cryptocurrency. Through its SDK, PlayDapp helps developers integrate Web3 elements into traditional apps, fostering interoperability across games, metaverses, and more.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/playdappne",
       "id": "jAvZZkDuokp67yH8QQm4AXv1qUm3fwhxUUo2mmMsmopdgHChp",
