@@ -1,6 +1,6 @@
 {
   "links": {
-    "website": "https://miraichain.io",
+    "website": "hhttps://mirailabs.co/",
     "whitepaper": "https://whitepaper.mirai.app/",
     "socials": [
       {
@@ -19,7 +19,7 @@
   },
   "id": "2kyZRnEHakKriNufphojbeFR5hi247bJeTjFDgQgo7VRRjoqyq",
   "name": "Mirai",
-  "description": "Mirai Chain is a custom-built EVM blockchain tailored for mobile developers, providing the ideal platform to create global gaming experiences",
+  "description": "Mirai Labs builds consumer apps that transform complex ideas into intuitive experiences, focusing on practical innovation. They aim to entertain and provide innovative, user-friendly products in the crypto and fintech space.",
   "primaryColor": "#f7971c",
   "logo": "https://cdn.snowpeer.io/mirai.svg",
   "categories": [
