@@ -11,7 +11,7 @@
   },
   "id": "2QiTdY87qfDRav1pSdxkGMqjRD6YXFscVd64W3L3V8v4re9CCo",
   "name": "ONIGIRI",
-  "description": "\"We see ONIGIRI as a protocol in food. Similarly, with ONIGIRI Chain, you can store any food-related data. And just like the seaweed hides the filling, we can hide data you don't want to show. We aim to be the blockchain solution for various food-related services, including cooking apps, e-commerce, apps, health care apps and more. Using blockchain as a shared food database across various services, l believe we can create more value and revolution  in the Food Industry.\"",
+  "description": "ONIGIRI Chain is a blockchain platform focused on storing and collecting food and healthcare data. By centralizing consumer behavior information, it aims to become the leading protocol for these sectors, facilitating new value creation.",
   "primaryColor": "#344054",
   "logo": "https://cdn.snowpeer.io/onigiri.png",
   "categories": [
@@ -22,7 +22,6 @@
     {
       "evmId": "5040",
       "rpcUrl": "https://subnets.avax.network/onigiri/mainnet/rpc",
-      "description": "\"We see ONIGIRI as a protocol in food. Similarly, with ONIGIRI Chain, you can store any food-related data. And just like the seaweed hides the filling, we can hide data you don't want to show. We aim to be the blockchain solution for various food-related services, including cooking apps, e-commerce, apps, health care apps and more. Using blockchain as a shared food database across various services, l believe we can create more value and revolution  in the Food Industry.\"",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/onigiri",
       "id": "2pdeYfs5hRYDM63ETuPN9YFWohEXehuhkAMsvYETyrsjbReK9q",
