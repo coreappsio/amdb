@@ -22,7 +22,7 @@
     ],
   "id": "wenKDikJWAYQs3f2v9JhV86fC6kHZwkFZsuUBftnmgZ4QXPnu",
   "name": "Dexalot",
-  "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry",
+  "description": "Dexalot is a decentralized exchange (DEX) on Avalanche that combines the transparency of DeFi with the user-friendly experience of centralized platforms. It features an order book model for precise trading, low-latency execution, and secure on-chain settlement—all without sacrificing custody of your assets.",
   "primaryColor": "#EB1357",
   "logo": "https://cdn.snowpeer.io/dexalot.png",
   "categories": [
