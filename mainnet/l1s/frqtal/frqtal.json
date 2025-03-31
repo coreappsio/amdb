@@ -1,10 +1,28 @@
 {
   "links": {
-    "website": "https://frqtal.org"
+    "website": "https://frqtal.org",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/frqtal"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/frqtal/"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/frqtalprotocol/"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/@frqtal"
+      }
+    ]
   },
   "id": "FAjUPxhRewh9vk8dSzcgRFZRLaCaNVg6gb5TcHwKsehuQ7k6p",
   "name": "FRQTAL",
-  "description": "Empowering creators in the ideal marketplace. Craft, sell, or share FNFTs",
+  "description": "FRQTAL is a web3 ecosystem on Avalanche focused on mass adoption, enabling users to store value via FNFTs (Fractional NFTs) and share content directly through wallet profiles. It prioritizes accessibility, ownership, and open participation—bridging the gap between crypto natives and mainstream users.",
   "primaryColor": "#6633f5",
   "logo": "https://cdn.snowpeer.io/frqtal.png",
   "categories": [
