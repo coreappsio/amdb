@@ -2,6 +2,7 @@
   "links": {
     "website": "https://wraptag.io"
   },
+  "description": "WrapTag enables the digitization of authentic items into NFTs, using NFC tags to track ownership and authenticity on the blockchain. It offers secure, verifiable digital certificates for products, enhancing brand trust and product value. WrapTag's decentralized app allows easy integration of NFTs with physical items, offering unique solutions for collectors and manufacturers alike.",
   "id": "A1iV86hr1toCL7y4F6PM263n9fomCLUDDwpqFT2sG9FTCZJCm",
   "name": "WrapTag",
   "primaryColor": "#f7931a",
