@@ -15,7 +15,7 @@
   },
   "id": "23LsHpx3wTPtNC4PUaTdtNQkaGbLxwiGimnZjHaUc28qLHs7Dn",
   "name": "Tiltyard",
-  "description": "Welcome to Tiltyard, a blockchain game studio forging futuristic landscapes and decentralized adventures.",
+  "description": "Tiltyard is a blockchain game studio focused on creating innovative, decentralized gaming experiences. It designs futuristic landscapes and interactive adventures that push the boundaries of gaming. The platform incorporates blockchain technology to offer players a new level of immersive gameplay.",
   "primaryColor": "#6a49d2",
   "logo": "https://cdn.snowpeer.io/tiltyard.png",
   "categories": [
@@ -26,7 +26,7 @@
     {
       "evmId": "710420",
       "rpcUrl": "https://subnets.avax.network/tiltyard/mainnet/rpc",
-      "description": "Welcome to Tiltyard, a blockchain game studio forging futuristic landscapes and decentralized adventures.",
+      "description": "Tiltyard is a blockchain game studio focused on creating innovative, decentralized gaming experiences. It designs futuristic landscapes and interactive adventures that push the boundaries of gaming. The platform incorporates blockchain technology to offer players a new level of immersive gameplay.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/tiltyard",
       "id": "2cJ7FyNoqigEGoM7m8p4PY7a33B2SQxV8P7VuUVJZ9y5otyqNS",
