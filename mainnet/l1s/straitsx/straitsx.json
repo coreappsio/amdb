@@ -22,7 +22,7 @@
   },
   "id": "2W9sERL7Zf7NrWpz7Bzg3fKSEt46gSQaKAU7ntTMSShLy64yMz",
   "name": "StraitsX",
-  "description": "Payments infrastructure for Digital Assets",
+  "description": "StraitsX offers a payments infrastructure for digital assets, focusing on stablecoins like XUSD, XSGD, and XIDR. It enables seamless transactions between traditional finance and digital assets, with multi-chain support across Ethereum and Binance Smart Chain. The platform also provides services for both individuals and businesses, such as API solutions for payment and payout management.",
   "primaryColor": "#00a965",
   "logo": "https://cdn.snowpeer.io/straits.png",
   "categories": [
@@ -33,7 +33,7 @@
     {
       "evmId": "5566",
       "rpcUrl": "https://subnets.avax.network/straitsx/mainnet/rpc",
-      "description": "Please refer to the website for more details!",
+      "description": "StraitsX offers a payments infrastructure for digital assets, focusing on stablecoins like XUSD, XSGD, and XIDR. It enables seamless transactions between traditional finance and digital assets, with multi-chain support across Ethereum and Binance Smart Chain. The platform also provides services for both individuals and businesses, such as API solutions for payment and payout management.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/straitsx",
       "id": "EJ4DyXHe4ydhsLLMiDPsHtoq5RDqgyao6Lwb9znKhs59q4NQx",
