@@ -1,10 +1,28 @@
 {
   "links": {
-    "website": "https://emdx.io"
+    "website": "https://emdx.io",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/emdx_io"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/RjjdDgGKCn"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/emdx_en"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/emdx/"
+      }
+    ]
   },
   "id": "G6pMcvRDSEtRJwACEyftAHahKNCJWMrhFyVvC2N1sdrNN1yXJ",
   "name": "EMDX",
-  "description": "EMDX is a decentralized derivative exchange that focuses on bringing traditional assets into the web3 environment and enhancing cross-fi liquidity",
+  "description": "EMDx brings institutional-grade trading to Avalanche with a decentralized perpetuals exchange. Offering deep liquidity, up to 50x leverage, and near-zero slippage, it combines the efficiency of CEXs with the self-custody ethos of DeFi—no compromises.",
   "primaryColor": "#00d46a",
   "logo": "https://cdn.snowpeer.io/emdx.png",
   "categories": [
