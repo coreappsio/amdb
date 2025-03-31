@@ -26,7 +26,7 @@
   },
   "id": "11111111111111111111111111111111LpoYY",
   "name": "Avalanche Primary Network",
-  "description": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by\ntime-to-finality. Avalanche is blazingly fast, low cost, and eco-friendly",
+  "description": "Avalanche is a highly scalable, eco-friendly blockchain platform offering sub-second finality and low transaction fees, designed to support decentralized applications and custom blockchain networks.",
   "primaryColor": "#f34333",
   "logo": "https://cdn.snowpeer.io/avax.svg",
   "categories": [
