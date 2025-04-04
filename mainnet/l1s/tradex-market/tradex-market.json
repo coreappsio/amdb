@@ -1,4 +1,9 @@
 {
     "id": "JD8MbaUp75twdVJ7A4j2ryk7gFJ8FCgQeNLhvDv3y4up9bExp",
-    "name": "TradeX Market"
+    "name": "TradeX Market",
+    "primaryColor": "#0a57ff",
+    "categories": [
+        "PREDICTION"
+    ],
+    "mainCategory": "PREDICTION"   
 }

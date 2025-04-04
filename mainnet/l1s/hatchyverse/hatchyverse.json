@@ -1,0 +1,27 @@
+{
+  "links": {
+    "website": "https://hatchyverse.com",
+    "git": "https://github.com/HatchyPocketOfficial",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/hatchyverse"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/cW378HVjyY"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/hatchypocket/"
+      }
+    ]
+  },
+  "id": "2Mi7V6HwKCEPxXTRG87o5tHACECkMPnJKP6UA3w1ote7j46GYT",
+  "name": "Hatchyverse",
+  "logo": "https://cdn.snowpeer.io/hatchy.png",
+  "primaryColor": "#125da0",
+  "description": "Explore the universe of the first decentralized IP, where you can be an active member.",
+  "categories": ["GAMING", "IP"],
+  "mainCategory": "GAMING"
+}
