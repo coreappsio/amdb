@@ -26,6 +26,7 @@
     "name": "Kalichain",
     "description": "Kalichain revolutionizes product certification with blockchain, ensuring a secure, reliable space for brands and consumers.",
     "primaryColor": "#6545d5",
+    "logo": "https://cdn.snowpeer.io/kali.png",
     "mainCategory": "IP",
     "categories": [
       "IP"

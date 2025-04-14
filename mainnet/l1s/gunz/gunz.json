@@ -1,6 +1,8 @@
 {
   "id": "2MbQjnTg3yxEtZBfnamboi7K9AajwNq7WExiwReBQSBtwbBVer",
-  "name": "Gunz",
+  "name": "GUNZ",
+  "primaryColor": "#64ffff",
+  "logo": "https://cdn.snowpeer.io/gunz.png",
   "categories": ["GAMING"],
   "mainCategory": "GAMING"
 }
