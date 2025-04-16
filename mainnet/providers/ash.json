@@ -1,0 +1,15 @@
+{
+  "name": "Ash",
+  "website": "https://ash.center",
+  "description": "Appchain-as-a-Service platform leveraging Avalanche L1s.",
+  "associatedL1s": [
+    {
+      "id": "2Mi7V6HwKCEPxXTRG87o5tHACECkMPnJKP6UA3w1ote7j46GYT",
+      "name": "Hatchyverse"
+    },
+    {
+      "id": "axp7DUSPvFghTM883ug2B8btAReBAACxD1VyENmRDStH4Lfed",
+      "name": "PLYR PHI"
+    }
+  ]
+}
