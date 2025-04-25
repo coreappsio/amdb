@@ -44,7 +44,7 @@
     {
       "name": "Spice USD",
       "symbol": "USDS",
-      "issuer": "Unknown",
+      "issuer": "Spice Trade",
       "backingType": "algorithmic",
       "website": "https://spicetrade.ai",
       "backingCurrencyCode": "USD",
@@ -501,23 +501,6 @@
         }
       ],
       "description": "Verified USD (USDV) is a stablecoin pegged 1:1 with the US Dollar, fully backed by STBT, which is backed by cash, overnight repo and short term treasuries."
-    },
-    {
-      "name": "Stable.com USD3",
-      "symbol": "USD3",
-      "issuer": "Unknown",
-      "backingType": "fiat",
-      "website": "https://www.stable.com",
-      "backingCurrencyCode": "USD",
-      "chains": [
-        {
-          "name": "C-Chain",
-          "evmId": 43114,
-          "contractAddress": "0x046029F68B0E00eBec2e394D17F70ec848fcf1d2",
-          "decimals": 18,
-          "tokenType": "ERC20"
-        }
-      ]
     },
     {
       "name": "USP",
