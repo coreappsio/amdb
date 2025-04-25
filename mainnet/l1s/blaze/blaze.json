@@ -1,0 +1,22 @@
+{
+  "id": "j6HXQWdpRhX7yHMWLehUyYDjypHa455vP5tuiXZ81nkPgveFV",
+  "name": "Blaze",
+  "description": "Layer 1 blockchain powering streaming.",
+  "primaryColor": "#FF9C04",
+  "logo": "https://cdn.snowpeer.io/blaze.png",
+  "categories": ["GAMING"],
+  "mainCategory": "GAMING",
+  "links": {
+    "website": "https://apply.blaze.stream/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/blaze_stream"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/NSJXekVH7V"
+      }
+    ]
+  }
+}

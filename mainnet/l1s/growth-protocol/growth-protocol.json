@@ -1,17 +1,18 @@
 {
-    "id": "2eq3DtJp4cWzvGd8Q3ZFo8VpZmmD235Xoxgq6CmX8anZ69M54",
-    "name": "Growth Protocol",
-    "description": "Growth Protocol is an AI-powered analytics platform that helps enterprises identify and validate high-impact growth opportunities at scale. Leveraging advanced machine learning and blockchain-verified data, it transforms market insights into actionable strategies for corporate innovation.",
-    "links": {
-        "website": "https://growthprotocol.ai/",
-        "socials": [
+  "id": "2eq3DtJp4cWzvGd8Q3ZFo8VpZmmD235Xoxgq6CmX8anZ69M54",
+  "name": "Growth Protocol",
+  "description": "A revolutionary AI platform that enables the world’s leading corporations to identify and validate growth opportunities at scale.",
+  "links": {
+    "website": "https://growthprotocol.ai/",
+    "socials": [
       {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/company/growthprotocolai/"
-      }]
-    },
-    "mainCategory": "AI",
-    "categories": [
-        "AI"
+      }
     ]
+  },
+  "primaryColor": "#9B692B",
+  "logo": "https://cdn.snowpeer.io/growth.png",
+  "mainCategory": "AI",
+  "categories": ["AI"]
 }

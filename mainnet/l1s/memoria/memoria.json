@@ -1,0 +1,23 @@
+{
+  "id": "2sF5Pb165jhdeNSy2kT4WyDYazu3buh1WGh77oTBA9dDjBPtsy",
+  "name": "Memoria",
+  "mainCategory": "GAMING",
+  "logo": "https://cdn.snowpeer.io/memoria.png",
+  "categories": ["GAMING"],
+  "primnaryColor": "#fd3083",
+  "description": "Memoria is the first decentralized AI Gaming and AI Agent concept platform, seamlessly merging AI-driven gaming with meme culture.",
+  "links": {
+    "website": "https://playmemoria.com/",
+    "docs": "https://hub.xyz/memoria",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/play_memoria"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/playmemoria"
+      }
+    ]
+  }
+}

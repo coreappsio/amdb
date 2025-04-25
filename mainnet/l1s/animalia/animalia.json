@@ -1,0 +1,24 @@
+{
+  "id": "TfTBHvcxpBfxPntMpadskcZTH8AG5rgkrNyz2DzeByNMsZkMo",
+  "name": "Animalia",
+  "mainCategory": "GAMING",
+  "logo": "https://cdn.snowpeer.io/animalia.png",
+  "categories": ["GAMING"],
+  "primnaryColor": "#000000",
+  "links": {
+    "website": "https://animalia.games/",
+    "docs": "https://animalia.games/how-to-play#Introduction",
+    "whitepaper": "https://animalia.games/whitepaper#Disclaimer",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/Animalia_games"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/animaliagames"
+      }
+    ]
+  },
+  "description": "An immersive blockchain gaming ecosystem where players collect, breed, and battle fantasy creatures—powered by play-to-earn mechanics and true digital ownership."
+}

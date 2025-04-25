@@ -1,0 +1,27 @@
+{
+  "links": {
+    "website": "https://hatchyverse.com",
+    "git": "https://github.com/HatchyPocketOfficial",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/hatchyverse"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/cW378HVjyY"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/hatchypocket/"
+      }
+    ]
+  },
+  "id": "2Mi7V6HwKCEPxXTRG87o5tHACECkMPnJKP6UA3w1ote7j46GYT",
+  "name": "Hatchyverse",
+  "logo": "https://cdn.snowpeer.io/hatchy.png",
+  "primaryColor": "#125da0",
+  "description": "Hatchyverse is a community-owned IP ecosystem on Avalanche, where the Hatchy brand and its characters are governed by a DAO. Fans and creators collectively steer the franchise—from NFT collectibles to games—ensuring a truly decentralized, fan-driven universe.",
+  "categories": ["GAMING", "IP"],
+  "mainCategory": "GAMING"
+}

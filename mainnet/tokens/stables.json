@@ -1,501 +1,797 @@
 {
-    "category": "Stablecoins",
-    "tokens": [
+  "category": "Stablecoins",
+  "tokens": [
+    {
+      "name": "Tether",
+      "symbol": "USDt",
+      "issuer": "Tether",
+      "backingType": "fiat",
+      "website": "https://tether.to",
+      "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
+      "backingCurrencyCode": "USD",
+      "chains": [
         {
-            "name": "Tether",
-            "symbol": "USDt",
-            "issuer": "Tether",
-            "backingType": "fiat",
-            "website": "https://tether.to",
-            "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "USDC",
-            "symbol": "USDC",
-            "issuer": "Circle",
-            "backingType": "fiat",
-            "website": "https://www.circle.com/usdc",
-            "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Spice USD",
-            "symbol": "USDS",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://sky.money/",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xaB05b04743E0aeAF9D2cA81E5D3b8385e4BF961e",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Dai",
-            "symbol": "DAI.e",
-            "issuer": "MakerDAO",
-            "backingType": "fiat",
-            "website": "https://makerdao.com/",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "BlackRock USD Institutional Digital Liquidity Fund",
-            "symbol": "BUIDL",
-            "issuer": "BlackRock",
-            "backingType": "fiat",
-            "website": "https://www.blackrock.com/corporate",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x53fc82f14f009009b440a706e31c9021e1196a2f",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "TrueUSD",
-            "symbol": "TUSD",
-            "issuer": "TrustToken",
-            "backingType": "fiat",
-            "website": "https://tusd.io",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Frax",
-            "symbol": "FRAX",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://frax.finance/",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Binance-Peg BUSD",
-            "symbol": "BUSD",
-            "issuer": "Paxos",
-            "backingType": "fiat",
-            "website": "https://www.binance.com/en",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "USDD",
-            "symbol": "USDD",
-            "issuer": "TRON DAO Reserve",
-            "backingType": "fiat",
-            "website": "https://usdd.io/",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "EURC",
-            "symbol": "EURC",
-            "issuer": "Circle",
-            "backingType": "fiat",
-            "website": "https://www.circle.com/eurc",
-            "logo": "https://cdn.snowpeer.io/tokens/eurc.svg",
-            "backingCurrencyCode": "EUR",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Frax USD",
-            "symbol": "FRXUSD",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://frax.com",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "DOLA",
-            "symbol": "DOLA",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://www.inverse.finance",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x0000000000000000000000000000000000000000",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Magic Internet Money",
-            "symbol": "MIM",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://abracadabra.money",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x130966628846BFd36ff31a822705796e8cb8C18D",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Ampleforth",
-            "symbol": "AMPL",
-            "issuer": "Unknown",
-            "backingType": "algorithmic",
-            "website": "https://www.ampleforth.org",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
-                    "decimals": 9,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Mountain Protocol USD",
-            "symbol": "USDM",
-            "issuer": "Mountain Protocol",
-            "backingType": "fiat",
-            "website": "https://mountainprotocol.com",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Liquity BOLD",
-            "symbol": "BOLD",
-            "issuer": "Liquity Protocol",
-            "backingType": "fiat",
-            "website": "https://www.liquity.org",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Gyroscope GYD",
-            "symbol": "GYD",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://gyro.finance/",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "XSGD",
-            "symbol": "XSGD",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://www.straitsx.com/sg/xsgd",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "dForce USD",
-            "symbol": "USX",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://dforce.network",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x89718f712da063Bac92CaC3468F109db852B05ff",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Avant USD",
-            "symbol": "AVUSD",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://www.avantprotocol.com",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x24de8771bc5ddb3362db529fc3358f2df3a0e346",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "YUSD Stablecoin",
-            "symbol": "YUSD",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://yeti.finance",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x111111111111ed1d73f860f57b2798b683f2d325",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "AUSD",
-            "symbol": "AUSD",
-            "issuer": "Agora's Reserves",
-            "backingType": "fiat",
-            "website": "https://agora.finance",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "VNX Swiss Franc",
-            "symbol": "VCHF",
-            "issuer": "Blockchain Act",
-            "backingType": "fiat",
-            "website": "https://vnx.li/vchf",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "BiLira",
-            "symbol": "TRYB",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://www.bilira.co",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "VNX EURO",
-            "symbol": "VEUR",
-            "issuer": "VNX Commodities",
-            "backingType": "fiat",
-            "website": "https://vnx.li/veur",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Rai Reflex Index",
-            "symbol": "RAI",
-            "issuer": "Reflexer",
-            "backingType": "fiat",
-            "website": "http://reflexer.finance",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "EUROe Stablecoin",
-            "symbol": "EUROE",
-            "issuer": "Membrane Finance",
-            "backingType": "fiat",
-            "website": "https://euroe.com",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Verified USD",
-            "symbol": "USDV",
-            "issuer": "Token Issuer",
-            "backingType": "fiat",
-            "website": "https://usdv.money",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x323665443cef804a3b5206103304bd4872ea4253",
-                    "decimals": 6,
-                    "tokenType": "ERC20"
-                }
-            ]
-        },
-        {
-            "name": "Stable.com USD3",
-            "symbol": "USD3",
-            "issuer": "Unknown",
-            "backingType": "fiat",
-            "website": "https://www.stable.com",
-            "backingCurrencyCode": "USD",
-            "chains": [
-                {
-                    "name": "C-Chain",
-                    "evmId": 43114,
-                    "contractAddress": "0x046029F68B0E00eBec2e394D17F70ec848fcf1d2",
-                    "decimals": 18,
-                    "tokenType": "ERC20"
-                }
-            ]
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "reserveAddress": "0x5754284f345afc66a98fbB0a0Afe71e0F007B949",
+          "active": true
         }
-    ]
+      ]
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/usdc",
+      "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
+      "backingCurrencyCode": "USD",
+      "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Spice USD",
+      "symbol": "USDS",
+      "issuer": "Unknown",
+      "backingType": "algorithmic",
+      "website": "https://spicetrade.ai",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xaB05b04743E0aeAF9D2cA81E5D3b8385e4BF961e",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Avalanche Bridged DAI",
+      "symbol": "DAI.e",
+      "issuer": "MakerDAO",
+      "backingType": "crypto",
+      "website": "https://makerdao.com",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "BlackRock USD",
+      "symbol": "BUIDL",
+      "issuer": "BlackRock",
+      "backingType": "fiat",
+      "website": "https://securitize.io/blackrock/buidl",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x53fc82f14f009009b440a706e31c9021e1196a2f",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "issuer": "TrustToken",
+      "backingType": "fiat",
+      "website": "https://tusd.io",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "issuer": "Frax Finance",
+      "backingType": "algorithmic",
+      "website": "https://frax.finance",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "The Frax stablecoin is a crypto collateralized stablecoin pegged to the US dollar that is highly scalable, trustless, and ideologically pure on-chain money."
+    },
+    {
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD",
+      "issuer": "Binance",
+      "backingType": "crypto",
+      "website": "https://www.binance.com/en",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "USDD",
+      "symbol": "USDD",
+      "issuer": "TRON DAO Reserve",
+      "backingType": "crypto",
+      "website": "https://usdd.io",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "EURC",
+      "symbol": "EURC",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/eurc",
+      "logo": "https://cdn.snowpeer.io/tokens/eurc.svg",
+      "backingCurrencyCode": "EUR",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "issuer": "Frax Finance",
+      "backingType": "fiat",
+      "website": "https://frax.com",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "issuer": "Abracadabra Network",
+      "backingType": "crypto",
+      "website": "https://abracadabra.money",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "issuer": "FORTH DAO",
+      "backingType": "algorithmic",
+      "website": "https://www.ampleforth.org",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+          "decimals": 9,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Mountain Protocol USD",
+      "symbol": "USDM",
+      "issuer": "Mountain Protocol",
+      "backingType": "fiat",
+      "website": "https://mountainprotocol.com",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Liquity BOLD",
+      "symbol": "BOLD",
+      "issuer": "Liquity Protocol",
+      "backingType": "crypto",
+      "website": "https://www.liquity.org",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Gyro Dollar",
+      "symbol": "GYD",
+      "issuer": "Gyroscope ",
+      "backingType": "crypto",
+      "website": "https://gyro.finance",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "StraitsX Singapore Dollar",
+      "symbol": "XSGD",
+      "issuer": "StraitsX",
+      "backingType": "fiat",
+      "website": "https://www.straitsx.com/xsgd",
+      "backingCurrencyCode": "SGD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "XSGD is a stablecoin pegged to the Singapore Dollar."
+    },
+    {
+      "name": "dForce USD",
+      "symbol": "USX",
+      "issuer": "dForce",
+      "backingType": "crypto",
+      "website": "https://dforce.network",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x853ea32391aaa14c112c645fd20ba389ab25c5e0",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Avant USD",
+      "symbol": "avUSD",
+      "issuer": "AVANT",
+      "backingType": "crypto",
+      "website": "https://www.avantprotocol.com",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x24de8771bc5ddb3362db529fc3358f2df3a0e346",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "The stable-value token powered by DeFi yield."
+    },
+    {
+      "name": "YUSD Stablecoin",
+      "symbol": "YUSD",
+      "issuer": "Yeti Finance",
+      "backingType": "crypto",
+      "website": "https://yeti.finance",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x111111111111ed1d73f860f57b2798b683f2d325",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Agora Dollar",
+      "symbol": "AUSD",
+      "issuer": "Agora",
+      "backingType": "fiat",
+      "website": "https://agora.finance",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "VNX Swiss Franc",
+      "symbol": "VCHF",
+      "issuer": "VNX Commodities",
+      "backingType": "fiat",
+      "website": "https://vnx.li/vchf",
+      "backingCurrencyCode": "CHF",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "VNX Swiss Franc (VCHF) is a multichain token referencing Swiss Franc from a token generator licensed under the Blockchain act in Liechtenstein."
+    },
+    {
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "issuer": "BiLira",
+      "backingType": "fiat",
+      "website": "https://www.bilira.co",
+      "backingCurrencyCode": "TRY",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "TRYB is a stablecoin indexed to the Turkish Lira that can operate on multiple blockchains."
+    },
+    {
+      "name": "VNX EURO",
+      "symbol": "VEUR",
+      "issuer": "VNX Commodities",
+      "backingType": "fiat",
+      "website": "https://vnx.li/veur",
+      "backingCurrencyCode": "EUR",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "VNX Euro (VEUR) is a multichain token referencing Euro from a token generator licensed under the Blockchain act in Liechtenstein."
+    },
+    {
+      "name": "Rai Reflex Index",
+      "symbol": "RAI",
+      "issuer": "Reflexer",
+      "backingType": "crypto",
+      "website": "http://reflexer.finance",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "RAI is an ETH backed stablecoin with a managed float regime."
+    },
+    {
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROE",
+      "issuer": "Membrane Finance",
+      "backingType": "fiat",
+      "website": "https://euroe.com",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "EUROe is a European stablecoin & payment network supervised as an electronic money institution"
+    },
+    {
+      "name": "Verified USD",
+      "symbol": "USDV",
+      "issuer": "Verified USD Foundation",
+      "backingType": "fiat",
+      "website": "https://usdv.money",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x323665443cef804a3b5206103304bd4872ea4253",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ],
+      "description": "Verified USD (USDV) is a stablecoin pegged 1:1 with the US Dollar, fully backed by STBT, which is backed by cash, overnight repo and short term treasuries."
+    },
+    {
+      "name": "Stable.com USD3",
+      "symbol": "USD3",
+      "issuer": "Unknown",
+      "backingType": "fiat",
+      "website": "https://www.stable.com",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x046029F68B0E00eBec2e394D17F70ec848fcf1d2",
+          "decimals": 18,
+          "tokenType": "ERC20"
+        }
+      ]
+    },
+    {
+      "name": "USP",
+      "symbol": "USP",
+      "issuer": "Platypus",
+      "backingType": "crypto",
+      "website": "https://app.platypus.finance/usp",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xdaCDe03d7Ab4D81fEDdc3a20fAA89aBAc9072CE2",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Elixir deUSD",
+      "symbol": "deUSD",
+      "issuer": "Elixir",
+      "backingType": "crypto",
+      "website": "https://www.elixir.xyz/deusd",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "deUSD (decentralized US Dollar) is a fully collateralized, yield-bearing synthetic dollar powered by the Elixir Network."
+    },
+    {
+      "name": "NXUSD",
+      "symbol": "NXUSD",
+      "issuer": "Nereus",
+      "backingType": "crypto",
+      "website": "https://nxusd.nereus.finance",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xf14f4ce569cb3679e99d5059909e23b07bd2f387",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Stable Jack aUSD",
+      "symbol": "aUSD",
+      "issuer": "Stable Jack",
+      "backingType": "crypto",
+      "website": "https://www.stablejack.xyz",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xaBe7a9dFDA35230ff60D1590a929aE0644c47DC1",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Zoth ZeUSD",
+      "symbol": "ZeUSD",
+      "issuer": "Metaco Intelligence Corp",
+      "backingType": "fiat",
+      "website": "https://atlas.zoth.io/mint",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "ZeUSD is a next-gen stable token offering institutional-grade stability to digital economies, with open and secure access for institutions and retail markets alike."
+    },
+    {
+      "name": "Brazilian Digital",
+      "symbol": "BRZ",
+      "issuer": "Transfero",
+      "backingType": "fiat",
+      "website": "https://transfero.com/stablecoins/brz",
+      "backingCurrencyCode": "BRL",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x05539F021b66Fd01d1FB1ff8E167CdD09bf7c2D0",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "Brazilian real without borders."
+    },
+    {
+      "name": "Nexus USD",
+      "symbol": "nUSD",
+      "issuer": "Synapse",
+      "backingType": "crypto",
+      "website": "https://synapseprotocol.com",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xCFc37A6AB183dd4aED08C204D1c2773c0b1BDf46",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Arable USD",
+      "symbol": "arUSD",
+      "issuer": "Arable Protocol",
+      "backingType": "crypto",
+      "website": "https://x.com/ArableProtocol",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x025AB35fF6AbccA56d57475249baaEae08419039",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Avalanche Bridged BUSD",
+      "symbol": "BUSD.e",
+      "issuer": "Paxos",
+      "backingType": "fiat",
+      "website": "https://www.paxos.com/busd",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Avalanche Bridged USDC",
+      "symbol": "USDC.e",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/usdc",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Avalanche Bridged USDT",
+      "symbol": "USDT.e",
+      "issuer": "Tether",
+      "backingType": "fiat",
+      "website": "https://tether.to",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Balanced Dollars",
+      "symbol": "bnUSD",
+      "issuer": "Balanced",
+      "backingType": "crypto",
+      "website": "https://balanced.network/",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xdBDd50997361522495EcFE57EBb6850dA0E4C699",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Moremoney USD",
+      "symbol": "MONEY",
+      "issuer": "Moremoney",
+      "backingType": "crypto",
+      "website": "https://x.com/Moremoneyfi",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "USD+",
+      "symbol": "USD+",
+      "issuer": "Overnight Finance",
+      "backingType": "crypto",
+      "website": "https://overnight.fi",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "JPYC",
+      "symbol": "JPYC",
+      "issuer": "JPYC Inc.",
+      "backingType": "fiat",
+      "website": "https://jpyc.jp/",
+      "backingCurrencyCode": "JPY",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "Japanese Yen Stablecoin Connects the World."
+    }
+  ]
 }
