@@ -470,7 +470,7 @@
       "issuer": "Membrane Finance",
       "backingType": "fiat",
       "website": "https://euroe.com",
-      "backingCurrencyCode": "USD",
+      "backingCurrencyCode": "EUR",
       "chains": [
         {
           "name": "C-Chain",
