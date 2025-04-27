@@ -19,7 +19,8 @@
           "reserveAddress": "0x5754284f345afc66a98fbB0a0Afe71e0F007B949",
           "active": true
         }
-      ]
+      ],
+      "description": "USDT is a stablecoin pegged to the US Dollar, offering stability and liquidity on various blockchains."
     },
     {
       "name": "USDC",
@@ -47,6 +48,7 @@
       "issuer": "Spice Trade",
       "backingType": "algorithmic",
       "website": "https://spicetrade.ai",
+      "logo": "https://cdn.snowpeer.io/tokens/spice_usd.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -57,14 +59,17 @@
           "tokenType": "ERC20",
           "active": false
         }
-      ]
+      ],
+      "description": "The Decentralized Stablecoin Powering Fair Global Commerce."
     },
     {
       "name": "Avalanche Bridged DAI",
+      "nameShort": "AB DAI",
       "symbol": "DAI.e",
       "issuer": "MakerDAO",
       "backingType": "crypto",
       "website": "https://makerdao.com",
+      "logo": "https://cdn.snowpeer.io/tokens/dai.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -75,7 +80,8 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "Dai is a stable, decentralized currency that does not discriminate. Any individual or business can realize the advantages of digital money."
     },
     {
       "name": "BlackRock USD",
@@ -83,6 +89,7 @@
       "issuer": "BlackRock",
       "backingType": "fiat",
       "website": "https://securitize.io/blackrock/buidl",
+      "logo": "https://cdn.snowpeer.io/tokens/blackrock-usd.jpg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -93,7 +100,8 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "BlackRock USD is a tokenized U.S. dollar-backed asset representing shares in a liquidity fund managed by BlackRock and invested in low-risk instruments like cash, U.S. Treasury bills, and repurchase agreements."
     },
     {
       "name": "TrueUSD",
@@ -101,6 +109,7 @@
       "issuer": "TrustToken",
       "backingType": "fiat",
       "website": "https://tusd.io",
+      "logo": "https://cdn.snowpeer.io/tokens/tusd.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -111,14 +120,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "TrueUSD is the first USD-pegged stablecoin to deploy daily attestations for its underlying reserves by independent third-party institutions."
     },
     {
       "name": "Frax",
       "symbol": "FRAX",
       "issuer": "Frax Finance",
+      "issuerShort": "Frax",
       "backingType": "algorithmic",
       "website": "https://frax.finance",
+      "logo": "https://cdn.snowpeer.io/tokens/frax.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -134,10 +146,12 @@
     },
     {
       "name": "Binance-Peg BUSD",
+      "nameShort": "BUSD",
       "symbol": "BUSD",
       "issuer": "Binance",
       "backingType": "crypto",
       "website": "https://www.binance.com/en",
+      "logo": "https://cdn.snowpeer.io/tokens/busd.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -148,14 +162,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "BUSD is a stablecoin issued by Binance and pegged to the US dollar."
     },
     {
       "name": "USDD",
       "symbol": "USDD",
       "issuer": "TRON DAO Reserve",
+      "issuerShort": "TRON DAO",
       "backingType": "crypto",
       "website": "https://usdd.io",
+      "logo": "https://cdn.snowpeer.io/tokens/usdd.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -166,7 +183,8 @@
           "tokenType": "ERC20",
           "active": false
         }
-      ]
+      ],
+      "description": "Decentralized USD is a fully decentralized stablecoin pegged to the US dollar through crypto reserves."
     },
     {
       "name": "EURC",
@@ -185,14 +203,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "The leading euro stablecoin for crypto capital markets,1 EURC is MiCA-compliant and redeemable 1:1 for euro."
     },
     {
       "name": "Frax USD",
-      "symbol": "FRXUSD",
+      "symbol": "frxUSD",
       "issuer": "Frax Finance",
+      "issuerShort": "Frax",
       "backingType": "fiat",
       "website": "https://frax.com",
+      "logo": "https://cdn.snowpeer.io/tokens/frxusd.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -203,15 +224,19 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "frxUSD is a fiat-redeemable, fully-collateralized stablecoin issued by the Frax Finance Protocol"
     },
 
     {
       "name": "Magic Internet Money",
+      "nameShort": "MIM",
       "symbol": "MIM",
-      "issuer": "Abracadabra Network",
+      "issuer": "Abracadabra",
+      "issuerShort": "Abracadabra N.",
       "backingType": "crypto",
       "website": "https://abracadabra.money",
+      "logo": "https://cdn.snowpeer.io/tokens/mim.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -222,7 +247,8 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "MIM operates as a stablecoin with its value pegged to the USD, aiming to maintain a consistent 1:1 ratio. This stability is achieved through backing by interest-bearing tokens."
     },
     {
       "name": "Ampleforth",
@@ -230,6 +256,7 @@
       "issuer": "FORTH DAO",
       "backingType": "algorithmic",
       "website": "https://www.ampleforth.org",
+      "logo": "https://cdn.snowpeer.io/tokens/ampl.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -240,14 +267,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "AMPL is a price-stable but supply volatile cryptocurrency that targets the CPI-adjusted dollar. It is used as a unit of account and collateral asset"
     },
     {
       "name": "Mountain Protocol USD",
+      "nameShort": "USDM",
       "symbol": "USDM",
       "issuer": "Mountain Protocol",
       "backingType": "fiat",
       "website": "https://mountainprotocol.com",
+      "logo": "https://cdn.snowpeer.io/tokens/usdm.avif",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -258,14 +288,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "USDM is a yield-bearing institutional-grade stablecoin, regulated and fully compliant."
     },
     {
       "name": "Liquity BOLD",
       "symbol": "BOLD",
       "issuer": "Liquity Protocol",
+      "issuerShort": "Liquity",
       "backingType": "crypto",
       "website": "https://www.liquity.org",
+      "logo": "https://cdn.snowpeer.io/tokens/bold.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -276,14 +309,16 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "BOLD is the USD-pegged stablecoin issued in Liquity V2. It is over-collateralized and backed only by WETH, wstETH, and rETH."
     },
     {
       "name": "Gyro Dollar",
       "symbol": "GYD",
-      "issuer": "Gyroscope ",
+      "issuer": "Gyroscope",
       "backingType": "crypto",
       "website": "https://gyro.finance",
+      "logo": "https://cdn.snowpeer.io/tokens/gyd.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -294,14 +329,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "The hub asset that reduces liquidity fragmentation and provides on-demand minting and redemption."
     },
     {
       "name": "StraitsX Singapore Dollar",
+      "nameShort": "XSGD",
       "symbol": "XSGD",
       "issuer": "StraitsX",
       "backingType": "fiat",
       "website": "https://www.straitsx.com/xsgd",
+      "logo": "https://cdn.snowpeer.io/tokens/xsgd.avif",
       "backingCurrencyCode": "SGD",
       "chains": [
         {
@@ -321,6 +359,7 @@
       "issuer": "dForce",
       "backingType": "crypto",
       "website": "https://dforce.network",
+      "logo": "https://cdn.snowpeer.io/tokens/usx.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -331,7 +370,8 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "Omni native-yield stablecoin."
     },
     {
       "name": "Avant USD",
@@ -339,6 +379,7 @@
       "issuer": "AVANT",
       "backingType": "crypto",
       "website": "https://www.avantprotocol.com",
+      "logo": "https://cdn.snowpeer.io/tokens/avusd.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -358,6 +399,7 @@
       "issuer": "Yeti Finance",
       "backingType": "crypto",
       "website": "https://yeti.finance",
+      "logo": "https://cdn.snowpeer.io/tokens/yusd.avif",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -368,7 +410,8 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "YUSD is an overcollateralized stablecoin from Yeti Finance, backed by LP tokens, staked assets, and yield-bearing stablecoins, and redeemable for $1 of collateral minus fees."
     },
     {
       "name": "Agora Dollar",
@@ -376,6 +419,7 @@
       "issuer": "Agora",
       "backingType": "fiat",
       "website": "https://agora.finance",
+      "logo": "https://cdn.snowpeer.io/tokens/agora_uSD.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -386,14 +430,18 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "AUSD is the first fully collateralized, freely tradable digital dollar. It is partner-centric, open, scalable, and reliable."
     },
     {
       "name": "VNX Swiss Franc",
+      "nameShort": "VCHF",
       "symbol": "VCHF",
       "issuer": "VNX Commodities",
+      "issuerShort": "VNX",
       "backingType": "fiat",
       "website": "https://vnx.li/vchf",
+      "logo": "https://cdn.snowpeer.io/tokens/vchf.avif",
       "backingCurrencyCode": "CHF",
       "chains": [
         {
@@ -413,6 +461,7 @@
       "issuer": "BiLira",
       "backingType": "fiat",
       "website": "https://www.bilira.co",
+      "logo": "https://cdn.snowpeer.io/tokens/tryb.svg",
       "backingCurrencyCode": "TRY",
       "chains": [
         {
@@ -430,8 +479,10 @@
       "name": "VNX EURO",
       "symbol": "VEUR",
       "issuer": "VNX Commodities",
+      "issuerShort": "VNX",
       "backingType": "fiat",
       "website": "https://vnx.li/veur",
+      "logo": "https://cdn.snowpeer.io/tokens/veur.avif",
       "backingCurrencyCode": "EUR",
       "chains": [
         {
@@ -447,10 +498,12 @@
     },
     {
       "name": "Rai Reflex Index",
+      "nameShort": "RAI",
       "symbol": "RAI",
       "issuer": "Reflexer",
       "backingType": "crypto",
       "website": "http://reflexer.finance",
+      "logo": "https://cdn.snowpeer.io/tokens/rai.webp",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -466,10 +519,13 @@
     },
     {
       "name": "EUROe Stablecoin",
+      "nameShort": "EUROe",
       "symbol": "EUROE",
       "issuer": "Membrane Finance",
+      "issuerShort": "Membrane",
       "backingType": "fiat",
       "website": "https://euroe.com",
+      "logo": "https://cdn.snowpeer.io/tokens/euroe.svg",
       "backingCurrencyCode": "EUR",
       "chains": [
         {
@@ -487,8 +543,10 @@
       "name": "Verified USD",
       "symbol": "USDV",
       "issuer": "Verified USD Foundation",
+      "issuerShort": "Verified",
       "backingType": "fiat",
       "website": "https://usdv.money",
+      "logo": "https://cdn.snowpeer.io/tokens/usdv.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -508,6 +566,7 @@
       "issuer": "Platypus",
       "backingType": "crypto",
       "website": "https://app.platypus.finance/usp",
+      "logo": "https://cdn.snowpeer.io/tokens/usp.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -518,7 +577,8 @@
           "tokenType": "ERC20",
           "active": false
         }
-      ]
+      ],
+      "description": "USP is an overcollateralized stablecoin backed by capital deposited on the Platypus stableswap."
     },
     {
       "name": "Elixir deUSD",
@@ -526,6 +586,7 @@
       "issuer": "Elixir",
       "backingType": "crypto",
       "website": "https://www.elixir.xyz/deusd",
+      "logo": "https://cdn.snowpeer.io/tokens/deusd.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -545,6 +606,7 @@
       "issuer": "Nereus",
       "backingType": "crypto",
       "website": "https://nxusd.nereus.finance",
+      "logo": "https://cdn.snowpeer.io/tokens/nxusd.webp",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -555,14 +617,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "NXUSD is a full-collateralized ERC-20 standard token on the Avalanche blockchain, pegged to USD, that is minted by the Nereus Finance decentralised platform."
     },
     {
       "name": "Stable Jack aUSD",
+      "nameShort": "aUSD",
       "symbol": "aUSD",
       "issuer": "Stable Jack",
       "backingType": "crypto",
       "website": "https://www.stablejack.xyz",
+      "logo": "https://cdn.snowpeer.io/tokens/ausd_stablejack.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -579,8 +644,10 @@
       "name": "Zoth ZeUSD",
       "symbol": "ZeUSD",
       "issuer": "Metaco Intelligence Corp",
+      "issuerShort": "Zoth",
       "backingType": "fiat",
       "website": "https://atlas.zoth.io/mint",
+      "logo": "https://cdn.snowpeer.io/tokens/zeusd.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -596,10 +663,12 @@
     },
     {
       "name": "Brazilian Digital",
+      "nameShort": "BRZ",
       "symbol": "BRZ",
       "issuer": "Transfero",
       "backingType": "fiat",
       "website": "https://transfero.com/stablecoins/brz",
+      "logo": "https://cdn.snowpeer.io/tokens/brz.png",
       "backingCurrencyCode": "BRL",
       "chains": [
         {
@@ -619,6 +688,7 @@
       "issuer": "Synapse",
       "backingType": "crypto",
       "website": "https://synapseprotocol.com",
+      "logo": "https://cdn.snowpeer.io/tokens/nusd.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -629,14 +699,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "nUSD, is a cross-chain bridge asset fully backed by the nexus stablecoin liquidity pool on Ethereum that consists of DAI, USDC, and USDT. nUSD is used to enable cross-chain swapping of assets."
     },
     {
       "name": "Arable USD",
       "symbol": "arUSD",
       "issuer": "Arable Protocol",
+      "issuerShort": "Arable",
       "backingType": "crypto",
       "website": "https://x.com/ArableProtocol",
+      "logo": "https://cdn.snowpeer.io/tokens/arusd.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -651,10 +724,12 @@
     },
     {
       "name": "Avalanche Bridged BUSD",
+      "nameShort": "AB BUSD",
       "symbol": "BUSD.e",
       "issuer": "Paxos",
       "backingType": "fiat",
       "website": "https://www.paxos.com/busd",
+      "logo": "https://cdn.snowpeer.io/tokens/busd.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -669,10 +744,12 @@
     },
     {
       "name": "Avalanche Bridged USDC",
+      "nameShort": "AB USDC",
       "symbol": "USDC.e",
       "issuer": "Circle",
       "backingType": "fiat",
       "website": "https://www.circle.com/usdc",
+      "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -683,14 +760,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions."
     },
     {
       "name": "Avalanche Bridged USDT",
+      "nameShort": "AB USDT",
       "symbol": "USDT.e",
       "issuer": "Tether",
       "backingType": "fiat",
       "website": "https://tether.to",
+      "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -701,14 +781,17 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "USDT is a stablecoin pegged to the US Dollar, offering stability and liquidity on various blockchains."
     },
     {
       "name": "Balanced Dollars",
+      "nameShort": "bnUSD",
       "symbol": "bnUSD",
       "issuer": "Balanced",
       "backingType": "crypto",
-      "website": "https://balanced.network/",
+      "website": "https://balanced.network",
+      "logo": "https://cdn.snowpeer.io/tokens/bnUSD.svg",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -719,14 +802,17 @@
           "tokenType": "ERC20",
           "active": false
         }
-      ]
+      ],
+      "description": "The Balanced Dollar (bnUSD) is a stablecoin that tracks the price of 1 US Dollar. It uses crypto and tokenised assets (e.g. US Treasury bills) to guarantee its value, with support for a growing range of collateral types."
     },
     {
       "name": "Moremoney USD",
+      "nameShort": "MONEY",
       "symbol": "MONEY",
       "issuer": "Moremoney",
       "backingType": "crypto",
       "website": "https://x.com/Moremoneyfi",
+      "logo": "https://cdn.snowpeer.io/tokens/money.webp",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -737,14 +823,17 @@
           "tokenType": "ERC20",
           "active": false
         }
-      ]
+      ],
+      "description": "Ultra-Sound and First Interest-Bearing Stablecoin on Avalanche."
     },
     {
       "name": "USD+",
       "symbol": "USD+",
       "issuer": "Overnight Finance",
+      "issuerShort": "Overnight",
       "backingType": "crypto",
       "website": "https://overnight.fi",
+      "logo": "https://cdn.snowpeer.io/tokens/usdplus.png",
       "backingCurrencyCode": "USD",
       "chains": [
         {
@@ -755,7 +844,8 @@
           "tokenType": "ERC20",
           "active": true
         }
-      ]
+      ],
+      "description": "USD+ is the flagship stablecoin of the Overnight protocol. It is a fully collateralized, yield-generating stablecoin, pegged 1:1 to USDC."
     },
     {
       "name": "JPYC",
@@ -763,6 +853,7 @@
       "issuer": "JPYC Inc.",
       "backingType": "fiat",
       "website": "https://jpyc.jp/",
+      "logo": "https://cdn.snowpeer.io/tokens/jpyc.svg",
       "backingCurrencyCode": "JPY",
       "chains": [
         {
@@ -775,6 +866,67 @@
         }
       ],
       "description": "Japanese Yen Stablecoin Connects the World."
+    },
+    {
+      "name": "AEB USDt",
+      "symbol": "USDT.e",
+      "issuer": "Tether",
+      "backingType": "fiat",
+      "website": "https://tether.to",
+      "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xde3A24028580884448a5397872046a019649b084",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "Tether is a stablecoin pegged to the US Dollar, offering stability and liquidity on various blockchains."
+    },
+    {
+      "name": "AEB DAI",
+      "symbol": "DAI.e",
+      "issuer": "MakerDAO",
+      "backingType": "crypto",
+      "website": "https://www.makerdao.com",
+      "logo": "https://cdn.snowpeer.io/tokens/dai.svg",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "Dai is a stable, decentralized currency that does not discriminate. Any individual or business can realize the advantages of digital money."
+    },
+    {
+      "name": "MAI",
+      "symbol": "MAI",
+      "issuer": "Mai Finance",
+      "issuerShort": "Mai",
+      "backingType": "crypto",
+      "website": "https://www.mai.finance",
+      "logo": "https://cdn.snowpeer.io/tokens/mai.webp",
+      "backingCurrencyCode": "USD",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "MAI is a USD stablecoin backed solely by decentralized tokens. Its target peg is 1% within the US Dollar. MAI can only be minted by users through overcollateralized debt positions."
     }
   ]
 }
