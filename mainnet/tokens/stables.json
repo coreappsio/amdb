@@ -43,6 +43,48 @@
       ]
     },
     {
+      "name": "Axelar Wrapped USDC",
+      "nameShort": "Axelar USDC",
+      "symbol": "axlUSDC",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/usdc",
+      "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
+      "backingCurrencyCode": "USD",
+      "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Wormhole USDC",
+      "nameShort": "Wormhole USDC",
+      "symbol": "USDC",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/usdc",
+      "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
+      "backingCurrencyCode": "USD",
+      "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
       "name": "Spice USD",
       "symbol": "USDS",
       "issuer": "Spice Trade",
@@ -927,6 +969,27 @@
         }
       ],
       "description": "MAI is a USD stablecoin backed solely by decentralized tokens. Its target peg is 1% within the US Dollar. MAI can only be minted by users through overcollateralized debt positions."
+    },
+    {
+      "name": "Wormhole UST",
+      "nameShort": "Wormhole UST",
+      "symbol": "UST",
+      "issuer": "Terra",
+      "backingType": "algorithmic",
+      "website": "https://www.terra.money",
+      "logo": "https://cdn.snowpeer.io/tokens/UST.webp",
+      "backingCurrencyCode": "USD",
+      "description": "Algoritmic stablecoin pegged to the US Dollar.",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
     }
   ]
 }
