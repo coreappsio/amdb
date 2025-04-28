@@ -9,6 +9,8 @@
       "website": "https://tether.to",
       "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
+      "canonicalSymbol": "USDt",
       "chains": [
         {
           "name": "C-Chain",
@@ -30,6 +32,8 @@
       "website": "https://www.circle.com/usdc",
       "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
+      "canonicalSymbol": "USDC",
       "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
       "chains": [
         {
@@ -52,6 +56,9 @@
       "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
       "backingCurrencyCode": "USD",
       "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
+      "originType": "bridged",
+      "canonicalSymbol": "USDC",
+      "bridge": "Axelar",
       "chains": [
         {
           "name": "C-Chain",
@@ -72,6 +79,9 @@
       "website": "https://www.circle.com/usdc",
       "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
       "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDC",
+      "bridge": "Wormhole",
       "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
       "chains": [
         {
@@ -92,6 +102,7 @@
       "website": "https://spicetrade.ai",
       "logo": "https://cdn.snowpeer.io/tokens/spice_usd.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -113,6 +124,9 @@
       "website": "https://makerdao.com",
       "logo": "https://cdn.snowpeer.io/tokens/dai.svg",
       "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "DAI",
+      "bridge": "Avalanche Bridge",
       "chains": [
         {
           "name": "C-Chain",
@@ -133,6 +147,7 @@
       "website": "https://securitize.io/blackrock/buidl",
       "logo": "https://cdn.snowpeer.io/tokens/blackrock-usd.jpg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -153,6 +168,7 @@
       "website": "https://tusd.io",
       "logo": "https://cdn.snowpeer.io/tokens/tusd.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -174,6 +190,7 @@
       "website": "https://frax.finance",
       "logo": "https://cdn.snowpeer.io/tokens/frax.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -195,6 +212,8 @@
       "website": "https://www.binance.com/en",
       "logo": "https://cdn.snowpeer.io/tokens/busd.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
+      "canonicalSymbol": "BUSD",
       "chains": [
         {
           "name": "C-Chain",
@@ -216,6 +235,7 @@
       "website": "https://usdd.io",
       "logo": "https://cdn.snowpeer.io/tokens/usdd.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -236,6 +256,7 @@
       "website": "https://www.circle.com/eurc",
       "logo": "https://cdn.snowpeer.io/tokens/eurc.svg",
       "backingCurrencyCode": "EUR",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -257,6 +278,7 @@
       "website": "https://frax.com",
       "logo": "https://cdn.snowpeer.io/tokens/frxusd.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -280,6 +302,7 @@
       "website": "https://abracadabra.money",
       "logo": "https://cdn.snowpeer.io/tokens/mim.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -300,6 +323,7 @@
       "website": "https://www.ampleforth.org",
       "logo": "https://cdn.snowpeer.io/tokens/ampl.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -322,6 +346,7 @@
       "website": "https://mountainprotocol.com",
       "logo": "https://cdn.snowpeer.io/tokens/usdm.avif",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -343,6 +368,7 @@
       "website": "https://www.liquity.org",
       "logo": "https://cdn.snowpeer.io/tokens/bold.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -363,6 +389,7 @@
       "website": "https://gyro.finance",
       "logo": "https://cdn.snowpeer.io/tokens/gyd.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -384,6 +411,7 @@
       "website": "https://www.straitsx.com/xsgd",
       "logo": "https://cdn.snowpeer.io/tokens/xsgd.avif",
       "backingCurrencyCode": "SGD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -404,6 +432,7 @@
       "website": "https://dforce.network",
       "logo": "https://cdn.snowpeer.io/tokens/usx.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -424,6 +453,7 @@
       "website": "https://www.avantprotocol.com",
       "logo": "https://cdn.snowpeer.io/tokens/avusd.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -445,6 +475,7 @@
       "website": "https://yeti.finance",
       "logo": "https://cdn.snowpeer.io/tokens/yusd.avif",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -465,6 +496,7 @@
       "website": "https://agora.finance",
       "logo": "https://cdn.snowpeer.io/tokens/agora_uSD.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -487,6 +519,7 @@
       "website": "https://vnx.li/vchf",
       "logo": "https://cdn.snowpeer.io/tokens/vchf.avif",
       "backingCurrencyCode": "CHF",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -507,6 +540,7 @@
       "website": "https://www.bilira.co",
       "logo": "https://cdn.snowpeer.io/tokens/tryb.svg",
       "backingCurrencyCode": "TRY",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -528,6 +562,7 @@
       "website": "https://vnx.li/veur",
       "logo": "https://cdn.snowpeer.io/tokens/veur.avif",
       "backingCurrencyCode": "EUR",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -549,6 +584,7 @@
       "website": "http://reflexer.finance",
       "logo": "https://cdn.snowpeer.io/tokens/rai.webp",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -571,6 +607,7 @@
       "website": "https://euroe.com",
       "logo": "https://cdn.snowpeer.io/tokens/euroe.svg",
       "backingCurrencyCode": "EUR",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -592,6 +629,7 @@
       "website": "https://usdv.money",
       "logo": "https://cdn.snowpeer.io/tokens/usdv.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -612,6 +650,7 @@
       "website": "https://app.platypus.finance/usp",
       "logo": "https://cdn.snowpeer.io/tokens/usp.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -632,6 +671,7 @@
       "website": "https://www.elixir.xyz/deusd",
       "logo": "https://cdn.snowpeer.io/tokens/deusd.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -652,6 +692,7 @@
       "website": "https://nxusd.nereus.finance",
       "logo": "https://cdn.snowpeer.io/tokens/nxusd.webp",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -673,6 +714,7 @@
       "website": "https://www.stablejack.xyz",
       "logo": "https://cdn.snowpeer.io/tokens/ausd_stablejack.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -693,6 +735,7 @@
       "website": "https://atlas.zoth.io/mint",
       "logo": "https://cdn.snowpeer.io/tokens/zeusd.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -714,6 +757,7 @@
       "website": "https://transfero.com/stablecoins/brz",
       "logo": "https://cdn.snowpeer.io/tokens/brz.png",
       "backingCurrencyCode": "BRL",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -734,6 +778,7 @@
       "website": "https://synapseprotocol.com",
       "logo": "https://cdn.snowpeer.io/tokens/nusd.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -755,6 +800,7 @@
       "website": "https://x.com/ArableProtocol",
       "logo": "https://cdn.snowpeer.io/tokens/arusd.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -775,6 +821,9 @@
       "website": "https://www.paxos.com/busd",
       "logo": "https://cdn.snowpeer.io/tokens/busd.png",
       "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "BUSD",
+      "bridge": "Avalanche Bridge",
       "chains": [
         {
           "name": "C-Chain",
@@ -795,6 +844,9 @@
       "website": "https://www.circle.com/usdc",
       "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
       "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDC",
+      "bridge": "Avalanche Bridge",
       "chains": [
         {
           "name": "C-Chain",
@@ -816,6 +868,9 @@
       "website": "https://tether.to",
       "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
       "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDt",
+      "bridge": "Avalanche Bridge",
       "chains": [
         {
           "name": "C-Chain",
@@ -837,6 +892,7 @@
       "website": "https://balanced.network",
       "logo": "https://cdn.snowpeer.io/tokens/bnUSD.svg",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -858,6 +914,7 @@
       "website": "https://x.com/Moremoneyfi",
       "logo": "https://cdn.snowpeer.io/tokens/money.webp",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -879,6 +936,7 @@
       "website": "https://overnight.fi",
       "logo": "https://cdn.snowpeer.io/tokens/usdplus.png",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -899,6 +957,7 @@
       "website": "https://jpyc.jp/",
       "logo": "https://cdn.snowpeer.io/tokens/jpyc.svg",
       "backingCurrencyCode": "JPY",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -919,6 +978,9 @@
       "website": "https://tether.to",
       "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
       "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDt",
+      "bridge": "Avalanche Bridge",
       "chains": [
         {
           "name": "C-Chain",
@@ -939,6 +1001,9 @@
       "website": "https://www.makerdao.com",
       "logo": "https://cdn.snowpeer.io/tokens/dai.svg",
       "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "DAI",
+      "bridge": "Avalanche Bridge",
       "chains": [
         {
           "name": "C-Chain",
@@ -960,6 +1025,7 @@
       "website": "https://www.mai.finance",
       "logo": "https://cdn.snowpeer.io/tokens/mai.webp",
       "backingCurrencyCode": "USD",
+      "originType": "native",
       "chains": [
         {
           "name": "C-Chain",
@@ -982,6 +1048,9 @@
       "logo": "https://cdn.snowpeer.io/tokens/UST.webp",
       "backingCurrencyCode": "USD",
       "description": "Algoritmic stablecoin pegged to the US Dollar.",
+      "originType": "bridged",
+      "canonicalSymbol": "UST",
+      "bridge": "Wormhole",
       "chains": [
         {
           "name": "C-Chain",
@@ -989,7 +1058,7 @@
           "contractAddress": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
           "decimals": 6,
           "tokenType": "ERC20",
-          "active": true
+          "active": false
         }
       ]
     }
