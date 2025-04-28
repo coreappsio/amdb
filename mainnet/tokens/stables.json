@@ -467,7 +467,7 @@
       "description": "The stable-value token powered by DeFi yield."
     },
     {
-      "name": "YUSD Stablecoin",
+      "name": "YUSD",
       "symbol": "YUSD",
       "issuer": "Yeti Finance",
       "issuerShort": "Yeti",
