@@ -71,9 +71,9 @@
       ]
     },
     {
-      "name": "Wormhole USDC",
+      "name": "Wormhole Solana USDC",
       "nameShort": "Wormhole USDC",
-      "symbol": "USDC",
+      "symbol": "USDCso",
       "issuer": "Circle",
       "backingType": "fiat",
       "website": "https://www.circle.com/usdc",
@@ -94,6 +94,79 @@
         }
       ]
     },
+    {
+      "name": "Wormhole ETH USDC",
+      "nameShort": "Wormhole USDC",
+      "symbol": "USDCet",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/usdc",
+      "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDC",
+      "bridge": "Wormhole",
+      "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Wormhole BSC USDC",
+      "nameShort": "Wormhole USDC",
+      "symbol": "USDbs",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/usdc",
+      "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDC",
+      "bridge": "Wormhole",
+      "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x6145E8a910aE937913426BF32De2b26039728ACF",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Wormhole Polygon USDC",
+      "nameShort": "Wormhole USDC",
+      "symbol": "USDpo",
+      "issuer": "Circle",
+      "backingType": "fiat",
+      "website": "https://www.circle.com/usdc",
+      "logo": "https://cdn.snowpeer.io/tokens/usdc.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDC",
+      "bridge": "Wormhole",
+      "description": "USDC is a stable digital dollar enabling fast, cheap, global blockchain transactions.",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ]
+    },
+
     {
       "name": "Spice USD",
       "symbol": "USDS",
@@ -831,7 +904,30 @@
           "contractAddress": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
           "decimals": 18,
           "tokenType": "ERC20",
-          "active": false
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Wormhole BSC BUSD",
+      "nameShort": "Wormhole BUSD",
+      "symbol": "BUSDbs",
+      "issuer": "Paxos",
+      "backingType": "fiat",
+      "website": "https://www.paxos.com/busd",
+      "logo": "https://cdn.snowpeer.io/tokens/busd.png",
+      "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "BUSD",
+      "bridge": "Wormhole",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
         }
       ]
     },
@@ -876,6 +972,30 @@
           "name": "C-Chain",
           "evmId": 43114,
           "contractAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "USDT is a stablecoin pegged to the US Dollar, offering stability and liquidity on various blockchains."
+    },
+    {
+      "name": "Axelar USDt",
+      "nameShort": "Axelar USDt",
+      "symbol": "axlUSDt",
+      "issuer": "Tether",
+      "backingType": "fiat",
+      "website": "https://tether.to",
+      "logo": "https://cdn.snowpeer.io/tokens/usdt.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "bridged",
+      "canonicalSymbol": "USDt",
+      "bridge": "Axelar",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66",
           "decimals": 6,
           "tokenType": "ERC20",
           "active": true
@@ -1056,6 +1176,30 @@
           "name": "C-Chain",
           "evmId": 43114,
           "contractAddress": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Axelar Wrapped UST",
+      "nameShort": "Axelar UST",
+      "symbol": "axlUST",
+      "issuer": "Terra",
+      "backingType": "algorithmic",
+      "website": "https://www.terra.money",
+      "logo": "https://cdn.snowpeer.io/tokens/UST.webp",
+      "backingCurrencyCode": "USD",
+      "description": "Algoritmic stablecoin pegged to the US Dollar.",
+      "originType": "bridged",
+      "canonicalSymbol": "UST",
+      "bridge": "Axelar",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
           "decimals": 6,
           "tokenType": "ERC20",
           "active": false
