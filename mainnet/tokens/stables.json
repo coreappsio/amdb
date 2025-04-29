@@ -145,7 +145,7 @@
     {
       "name": "Wormhole Polygon USDC",
       "nameShort": "Wormhole USDC",
-      "symbol": "USDpo",
+      "symbol": "USDCpo",
       "issuer": "Circle",
       "backingType": "fiat",
       "website": "https://www.circle.com/usdc",
