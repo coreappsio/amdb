@@ -210,7 +210,13 @@
           "active": true
         }
       ],
-      "description": "Dai is a stable, decentralized currency that does not discriminate. Any individual or business can realize the advantages of digital money."
+      "description": "Dai is a stable, decentralized currency that does not discriminate. Any individual or business can realize the advantages of digital money.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "dai"
+        }
+      ]
     },
     {
       "name": "BlackRock USD",
