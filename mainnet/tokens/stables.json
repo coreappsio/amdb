@@ -393,12 +393,12 @@
         }
       ],
       "description": "MIM operates as a stablecoin with its value pegged to the USD, aiming to maintain a consistent 1:1 ratio. This stability is achieved through backing by interest-bearing tokens.",
-      "priceProviders":{
-        "name": "CoinGecko",
-        "id":"magic-internet-money"
-      }
-    
-      
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "magic-internet-money"
+        }
+      ]
     },
     {
       "name": "Ampleforth",
