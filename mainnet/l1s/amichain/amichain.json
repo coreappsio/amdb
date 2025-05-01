@@ -5,6 +5,7 @@
   "mainCategory": "INFRA",
   "categories": ["INFRA"],
   "primaryColor": "#ff154e",
+  "logo": "https://cdn.snowpeer.io/ami.png",
   "links": {
     "website": "https://www.amichain.org/",
     "gitHub": "https://github.com/amichain",
