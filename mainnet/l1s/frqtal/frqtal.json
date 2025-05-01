@@ -20,7 +20,7 @@
       }
     ]
   },
-  "id": "FAjUPxhRewh9vk8dSzcgRFZRLaCaNVg6gb5TcHwKsehuQ7k6p",
+  "id": "5vcCHz5fgd1hWyXaKiLnMAVjmh4qW7yFxNbASBjxCXZYE445N",
   "name": "FRQTAL",
   "description": "FRQTAL is a web3 ecosystem on Avalanche focused on mass adoption, enabling users to store value via FNFTs (Fractional NFTs) and share content directly through wallet profiles. It prioritizes accessibility, ownership, and open participation—bridging the gap between crypto natives and mainstream users.",
   "primaryColor": "#6633f5",
@@ -28,13 +28,5 @@
   "categories": [
     "STORAGE"
   ],
-  "mainCategory": "STORAGE",
-  "chains": [
-    {
-      "id": "2v7hzVNE4pN7BpYMSkv9NCwKWy6pDoNXDhCtGR6oMRaAvCCMU6",
-      "name": "frqtal",
-      "vmId": "n7sbBzgCJDpCqwgnTsvuGCDnWGhM5yUrhb4tbKa51rBq6Hq2T",
-      "vmName": null
-    }
-  ]
+  "mainCategory": "STORAGE"
 }
