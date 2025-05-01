@@ -1,0 +1,19 @@
+{
+  "id": "2TqrQau4E99KoUXcFjyf1Pek3rUHpDpqtN9rC5GDaCKFu7dfPo",
+  "name": "Good Care",
+  "description": "Purpose-driven blockchain built on Avalanche for mental wealth, transparency, and regnerative care.",
+  "categories": ["HEALTH"],
+  "mainCategory": "HEALTH",
+  "primaryColor": "#32aa27",
+  "logo": "https://cdn.snowpeer.io/good.png",
+  "links": {
+    "website": "https://goodonavax.info/",
+    "docs": "https://goodcarenetwork.gitbook.io/docs",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/GoodonAvax"
+      }
+    ]
+  }
+}
