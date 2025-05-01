@@ -1,0 +1,28 @@
+{
+  "id": "6uH9zL2ZhPLWB1W1qodgRRm42YfLWdPKtQe2xzAWjr5TAhkmm",
+  "name": "AMI",
+  "description": "From meme index to meme infrastructure—AMI Chain is now a full-fledged Layer 1 blockchain supercharging Avalanche's meme economy with cross-chain interoperability and enhanced tracking tools.",
+  "mainCategory": "INFRA",
+  "categories": ["INFRA"],
+  "primaryColor": "#ff154e",
+  "links": {
+    "website": "https://www.amichain.org/",
+    "gitHub": "https://github.com/amichain",
+    "docs": "https://docs.amichain.org/",
+    "whitepaper": "https://animalia.games/whitepaper#Disclaimer",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/amichain_org"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/zxkTcFEE4U"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/amiavax"
+      }
+    ]
+  }
+}
