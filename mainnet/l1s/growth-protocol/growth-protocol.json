@@ -1,18 +1,18 @@
 {
   "id": "2eq3DtJp4cWzvGd8Q3ZFo8VpZmmD235Xoxgq6CmX8anZ69M54",
-  "name": "Growth Protocol",
-  "description": "A revolutionary AI platform that enables the world’s leading corporations to identify and validate growth opportunities at scale.",
+  "name": "The Growth Protocol",
+  "description": "Purpose-built L1 infrastructure layer for digital marketing and growth applications in Web3 using blockchain technology.",
   "links": {
-    "website": "https://growthprotocol.ai/",
+    "website": "https://growthprotocol.xyz",
     "socials": [
       {
         "name": "LinkedIn",
-        "url": "https://www.linkedin.com/company/growthprotocolai/"
+        "url": "https://www.linkedin.com/company/the-growth-protocol"
       }
     ]
   },
   "primaryColor": "#9B692B",
   "logo": "https://cdn.snowpeer.io/growth.png",
-  "mainCategory": "AI",
-  "categories": ["AI"]
+  "mainCategory": "MARKETING",
+  "categories": ["MARKETING"]
 }
