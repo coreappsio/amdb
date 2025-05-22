@@ -4,6 +4,6 @@
   "description": "The official blockchain of FIFA, leveraging Avalanche to deliver digital collectibles and immersive fan experiences to football fans globally.",
   "logo": "https://cdn.snowpeer.io/fifa.png",
   "primaryColor": "#045694",
-  "mainCategory": "GAMING",
-  "categories": ["GAMING"]
+  "mainCategory": "SPORT",
+  "categories": ["SPORT"]
 }
