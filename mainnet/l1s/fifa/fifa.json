@@ -5,5 +5,8 @@
   "logo": "https://cdn.snowpeer.io/fifa.png",
   "primaryColor": "#045694",
   "mainCategory": "SPORT",
-  "categories": ["SPORT"]
+  "categories": ["SPORT"],
+  "links":{
+    "website":"https://collect.fifa.com"
+  }
 }
