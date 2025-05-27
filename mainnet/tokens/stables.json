@@ -1217,6 +1217,27 @@
           "active": false
         }
       ]
+    },
+    {
+      "name": "Unity",
+      "symbol": "UTY",
+      "issuer": "XSY",
+      "backingType": "algorithmic",
+      "website": "https://www.xsy.fi",
+      "logo": "https://cdn.snowpeer.io/tokens/uty.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "Unity is a delta-neutral asset and serves as the synthetic dollar at the center of XSY’s ecosystem of decentralized financial products."
     }
   ]
 }
