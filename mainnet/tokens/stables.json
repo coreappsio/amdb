@@ -1238,6 +1238,29 @@
         }
       ],
       "description": "Unity is a delta-neutral asset and serves as the synthetic dollar at the center of XSY’s ecosystem of decentralized financial products."
+    },
+      {
+      "name": "Franklin OnChain U.S. Government Money Fund",
+      "nameShort": "FOMF",
+      "symbol": "BENJI",
+      "issuer": "Franklin Templeton",
+      "issuerShort": "Franklin",
+      "backingType": "fiat",
+      "website": "https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX",
+      "logo": "https://cdn.snowpeer.io/tokens/stable_placeholder.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xE08b4c1005603427420e64252a8b120cacE4D122",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "The fund seeks to provide as high a level of current income as is consistent with the preservation of shareholders' capital and liquidity. The fund also tries to maintain a stable $1 share price."
     }
   ]
 }
