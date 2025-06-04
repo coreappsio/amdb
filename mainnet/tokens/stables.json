@@ -1261,6 +1261,27 @@
         }
       ],
       "description": "The fund seeks to provide as high a level of current income as is consistent with the preservation of shareholders' capital and liquidity. The fund also tries to maintain a stable $1 share price."
+    },
+      {
+      "name": "MXNB",
+      "symbol": "MXNB",
+      "issuer": "Juno",
+      "backingType": "fiat",
+      "website": "https://mxnb.mx",
+      "logo": "https://cdn.snowpeer.io/tokens/mxnb.svg",
+      "backingCurrencyCode": "MXN",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "MXNB is a digital asset that maintains parity through a pegging mechanism with the Mexican peso."
     }
   ]
 }
