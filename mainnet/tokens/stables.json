@@ -1275,7 +1275,7 @@
         {
           "name": "C-Chain",
           "evmId": 43114,
-          "contractAddress": "",
+          "contractAddress": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
           "decimals": 6,
           "tokenType": "ERC20",
           "active": true
