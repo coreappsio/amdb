@@ -1239,7 +1239,7 @@
       ],
       "description": "Unity is a delta-neutral asset and serves as the synthetic dollar at the center of XSY’s ecosystem of decentralized financial products."
     },
-      {
+    {
       "name": "Franklin OnChain U.S. Government Money Fund",
       "nameShort": "FOMF",
       "symbol": "BENJI",
@@ -1260,9 +1260,15 @@
           "active": true
         }
       ],
-      "description": "The fund seeks to provide as high a level of current income as is consistent with the preservation of shareholders' capital and liquidity. The fund also tries to maintain a stable $1 share price."
+      "description": "The fund seeks to provide as high a level of current income as is consistent with the preservation of shareholders' capital and liquidity. The fund also tries to maintain a stable $1 share price.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "franklin-onchain-u-s-government-money-fund"
+        }
+      ]
     },
-      {
+    {
       "name": "MXNB",
       "symbol": "MXNB",
       "issuer": "Juno",
