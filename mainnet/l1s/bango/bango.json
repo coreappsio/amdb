@@ -1,4 +1,19 @@
 {
-    "id": "2r7mmEKg3R2gTD22TtErn8KD8TmLeSjVXHdwMpH2S9BESUxH7q",
-    "name": "BANGO"
+  "id": "2r7mmEKg3R2gTD22TtErn8KD8TmLeSjVXHdwMpH2S9BESUxH7q",
+  "name": "BANGO",
+  "logo": "https://cdn.snowpeer.io/bango.svg",
+  "primaryColor": "#000000",
+  "description": "Permissionless prediction markets. Bet on anything. Powered by memes, fueled by belief.",
+  "mainCategory": "PREDICTION",
+  "categories": ["PREDICTION"],
+  "links": {
+    "website": "https://www.bango.fun",
+
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/BangoDotFun"
+      }
+    ]
+  }
 }
