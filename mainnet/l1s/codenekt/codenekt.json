@@ -1,0 +1,27 @@
+{
+  "links": {
+    "website": "https://codenekt-ecosystem.io",
+    "whitepaper": "https://codenekt-ecosystem.io/whitepaper/ ",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/CodeNekt_Eco"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/CodeNektEcoPortal"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/5FZwpWJVvD"
+      }
+    ]
+  },
+  "id": "o4Eariv2Cx1fTvPFXYofpJfS9KgwFaiGN8KFGcCeZM9t87GJr",
+  "name": "CodeNekt",
+  "description": "A fast, secure, and customizable Layer 1 blockchain built specifically for the automotive industry.",
+  "logo": "https://cdn.snowpeer.io/codenekt.png",
+  "categories": ["DEPIN"],
+  "mainCategory": "DEPIN",
+  "primaryColor": "#FF0000"
+}
