@@ -1,0 +1,11 @@
+{
+  "Provider ID": "deneme",
+  "Provider Name": "alperen",
+  "Description": "karaca",
+  "Website": "alp",
+  "Provider Type": "INFRA",
+  "Associated L1s": [
+    "Avalanche Mainnet C-Chain"
+  ],
+  "Created": "2025-07-04T17:07:09.000Z"
+}
