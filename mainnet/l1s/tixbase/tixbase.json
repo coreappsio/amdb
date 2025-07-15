@@ -1,0 +1,12 @@
+{
+  "id": "2BLtazsGwYAFEHpvZQGQUPavjQZ2YUqpvfYPdAdTtKpJ1m3eRK",
+  "name": "Tixbase",
+  "description": "Tixbase is a B2B ticketing solution that lets event organizers / ticket companies, fully control the planning, launch, and resale of their tickets.",
+  "links": {
+    "website": "https://www.tixbase.com"
+  },
+  "mainCategory": "TICKETING",
+  "logo": "https://cdn.snowpeer.io/tixbase.png",
+  "categories": ["TICKETING"],
+  "primaryColor": "#ff4805"
+}

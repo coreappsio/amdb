@@ -1,14 +1,12 @@
 {
-    "id": "2Y83BEXg7zgSCJunL2KD2i1vjMfaMnU1QEpG4M7acqG44BnRto",
-    "name": "Apertum",
-    "description": "Apertum empowers users with full control over their digital assets, offering Web3 solutions for DApps, gaming, NFTs, and more.",
-    "links": {
-        "website": "https://apertum.io"
-    },
-    "mainCategory": "AI",
-    "logo": "https://cdn.snowpeer.io/apertum.svg",
-    "categories": [
-        "AI"
-    ],
-    "primnaryColor": "#488BC3"
+  "id": "2Y83BEXg7zgSCJunL2KD2i1vjMfaMnU1QEpG4M7acqG44BnRto",
+  "name": "Apertum",
+  "description": "Apertum empowers users with full control over their digital assets, offering Web3 solutions for DApps, gaming, NFTs, and more.",
+  "links": {
+    "website": "https://apertum.io"
+  },
+  "mainCategory": "L1",
+  "logo": "https://cdn.snowpeer.io/apertum.png",
+  "categories": ["L1", "DEFI", "NFT", "EVM"],
+  "primaryColor": "#11314a"
 }
