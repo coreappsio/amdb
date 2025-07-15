@@ -3,7 +3,7 @@
   "name": "Blockticity",
   "description": "Verification layer for digital conformity assessment. Making trade documents tamper-evident, standards-aligned, and AI-verifiable. Trustless Trade at Scale.",
   "logo": "https://cdn.snowpeer.io/blockticity.png",
-  "primnaryColor": "#089CA2",
+  "primaryColor": "#089CA2",
   "categories": ["CERTIFICATION"],
   "mainCategory": "CERTIFICATION",
   "links": {

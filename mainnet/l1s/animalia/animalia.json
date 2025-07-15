@@ -4,7 +4,7 @@
   "mainCategory": "GAMING",
   "logo": "https://cdn.snowpeer.io/animalia.png",
   "categories": ["GAMING"],
-  "primnaryColor": "#000000",
+  "primaryColor": "#000000",
   "links": {
     "website": "https://animalia.games/",
     "docs": "https://animalia.games/how-to-play#Introduction",
