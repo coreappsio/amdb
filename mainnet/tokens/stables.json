@@ -1310,6 +1310,28 @@
         }
       ],
       "description": "USD stablecoin backed by assets in Aave."
+    },
+    {
+      "name": "AXD",
+      "symbol": "AXD",
+      "issuer": "Aesyx",
+      "backingType": "crypto",
+      "website": "https://aesyx.fi",
+      "logo": "https://cdn.snowpeer.io/tokens/axd.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
+          "decimals": 18,
+          "tokenType": "ERC20",
+
+          "active": true
+        }
+      ],
+      "description": "Aesyx’s native synthetic dollar, by leveraging supported assets like sAVAX as collateral."
     }
   ]
 }
