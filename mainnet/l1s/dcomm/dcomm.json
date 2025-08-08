@@ -1,0 +1,18 @@
+{
+  "id": "fmmMAGwEYQZMGN7BC4b86gqmukSMEc6rAkG1SXapq3cz1W7y7",
+  "name": "DComm",
+  "description": "Real world assets, tokenised, structured and supported.",
+  "logo": "https://cdn.snowpeer.io/dcomm.png",
+  "primaryColor": "#9C43F7",
+  "mainCategory": "RWA",
+  "categories": ["RWA"],
+  "links": {
+    "website": "https://dcomm.community",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/DComm_Official"
+      }
+    ]
+  }
+}
