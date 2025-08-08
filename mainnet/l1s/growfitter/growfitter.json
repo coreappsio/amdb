@@ -1,0 +1,18 @@
+{
+  "id": "BCDGWbjqYBJLsXEzHNc2qy9VYPTrF3aGaSMbTGyjn7qJ7RxH8",
+  "name": "Growfitter",
+  "description": "India’s Biggest Incentivised Wellness Platform. Our vision is to motivate individual and families to adopt an active and healthy lifestyle.",
+  "logo": "https://cdn.snowpeer.io/growfitter.svg",
+  "primaryColor": "#f93200",
+  "mainCategory": "SPORT",
+  "categories": ["SPORT"],
+  "links": {
+    "website": "https://www.growfitter.com",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/growfitter"
+      }
+    ]
+  }
+}
