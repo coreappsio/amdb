@@ -1,0 +1,13 @@
+{
+  "id": "2Ee4oBUute1PV5XaeS4b256eLH98r4NE8YgzX5nSX4cUxvtgre",
+  "name": "Dinari Financial Network",
+  "description": "The Dinari Financial Network is the hub for the issuance, trading, settlement, and clearing of tokenized securities and other financial instruments.",
+  "logo": "https://cdn.snowpeer.io/dinari.png",
+  "primaryColor": "#07846d",
+  "mainCategory": "FINANCE",
+  "categories": ["FINANCE", "RWA"],
+
+  "links": {
+    "website": "https://dinari.com"
+  }
+}

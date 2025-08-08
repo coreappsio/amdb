@@ -1,7 +1,7 @@
 {
   "links": {
-    "website": "https://dexalot.com"
-  },
+    "website": "https://dexalot.com",
+
     "whitepaper": "https://dexalot.com/docs/DEXALOT-Litepaper.pdf",
     "forum": "",
     "git": "https://github.com/dexalot",
@@ -19,16 +19,14 @@
         "name": "Discord",
         "url": "https://discord.gg/S4NP9w7Xwn"
       }
-    ],
+    ]
+  },
   "id": "wenKDikJWAYQs3f2v9JhV86fC6kHZwkFZsuUBftnmgZ4QXPnu",
   "name": "Dexalot",
   "description": "Dexalot is a decentralized exchange (DEX) on Avalanche that combines the transparency of DeFi with the user-friendly experience of centralized platforms. It features an order book model for precise trading, low-latency execution, and secure on-chain settlement—all without sacrificing custody of your assets.",
   "primaryColor": "#EB1357",
   "logo": "https://cdn.snowpeer.io/dexalot.png",
-  "categories": [
-    "FINANCE",
-    "DEX"
-  ],
+  "categories": ["FINANCE", "DEX"],
   "mainCategory": "FINANCE",
   "chains": [
     {
@@ -40,7 +38,7 @@
       "id": "21Ths5Afqi5r4PaoV8r8cruGZWhN11y5rxvy89K8px7pKy3P8E",
       "name": "dexalotevm",
       "vmId": "mDVSxzeWHmgqrcXK1tPYqavqTK5MC3mMqme6r3a6cz2fqMfqf",
-        "assets": [
+      "assets": [
         {
           "name": "Dexalot",
           "symbol": "ALOT",
