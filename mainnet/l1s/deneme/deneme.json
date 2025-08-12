@@ -1,0 +1,33 @@
+{
+  "id": "alpe-ren",
+  "name": "deneme",
+  "description": "deneme",
+  "logo": "a.com/1",
+  "primaryColor": "#111111",
+  "permissionless": true,
+  "private": false,
+  "chains": [],
+  "assets": [],
+  "website": "www.a.com",
+  "whitepaper": "www.a.com",
+  "explorers": [
+    {
+      "name": "www.c.com",
+      "url": "www.c.com"
+    }
+  ],
+  "forum": "",
+  "git": "",
+  "docs": "",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": ""
+    }
+  ],
+  "team": [],
+  "mainCategory": "",
+  "categories": [
+    "deneme"
+  ]
+}
