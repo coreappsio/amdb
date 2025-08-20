@@ -13,27 +13,29 @@
       "vmID": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
     }
   ],
-  "website": "https://www.dcomm.community/",
-  "whitepaper": "https://www.dcomm.community/assets/files/dcomm-action-paper.pdf",
-  "explorers": [
-    {
-      "name": "www.dcomm.community",
-      "url": "https://www.dcomm.community/explorer/"
-    }
-  ],
-  "forum": "",
-  "git": "",
-  "docs": "https://www.dcomm.community/technology/",
-  "socials": [
-    {
-      "name": "Twitter",
-      "url": "https://x.com/dcomm_official"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/company/dcommblockchain/"
-    }
-  ],
+  "links": {
+    "website": "https://www.dcomm.community/",
+    "whitepaper": "https://www.dcomm.community/assets/files/dcomm-action-paper.pdf",
+    "explorers": [
+      {
+        "name": "www.dcomm.community",
+        "url": "https://www.dcomm.community/explorer/"
+      }
+    ],
+    "forum": "",
+    "git": "",
+    "docs": "https://www.dcomm.community/technology/",
+    "socials": [
+      {
+        "name": "Twitter",
+        "url": "https://x.com/dcomm_official"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/dcommblockchain/"
+      }
+    ]
+  },
   "team": [],
   "mainCategory": "OTHER",
   "categories": [
