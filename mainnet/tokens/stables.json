@@ -1361,6 +1361,33 @@
           "id": "frontier-stable-token"
         }
       ]
+    },
+    {
+      "name": "reUSD",
+      "symbol": "reUSD",
+      "issuer": "Re",
+      "backingType": "fiat",
+      "website": "https://app.re.xyz/reusd",
+      "logo": "https://cdn.snowpeer.io/tokens/reusd.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "reUSD is a US dollar-pegged, principal-protected stablecoin developed by the Re protocol. It accrues yield based on the higher of the risk-free rate plus 250 bps or the Ethena basis trade yield. While transparently tracked on-chain, its capital is deployed off-chain as regulated insurance capital.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "re-protocol-reusd"
+        }
+      ]
     }
   ]
 }
