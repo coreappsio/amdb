@@ -1332,6 +1332,35 @@
         }
       ],
       "description": "Aesyx’s native synthetic dollar, by leveraging supported assets like sAVAX as collateral."
+    },
+    {
+      "name": "Frontier Stable Token",
+      "nameShort": "FRNT",
+      "symbol": "FRNT",
+      "issuer": "Wyoming Stable Token Commission",
+      "issuerShort": "Wyoming",
+      "backingType": "fiat",
+      "website": "https://stabletoken.wyo.gov",
+      "logo": "https://cdn.snowpeer.io/tokens/frontier.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "The first fiat-backed, fully reserved stable token issued by a public entity in the United States of America.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "frontier-stable-token"
+        }
+      ]
     }
   ]
 }
