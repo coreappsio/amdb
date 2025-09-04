@@ -1,0 +1,13 @@
+{
+  "id": "zeeve",
+  "type": "INFRA",
+  "name": "Zeeve",
+  "website": "https://www.zeeve.io",
+  "description": "All-in-One Dev & Infra Platform to Build Avalanche L1s Without Limits",
+  "associatedL1s": [
+    {
+      "id": "sopy3uXvCFVLorg4kmqQfZpqVg9GXzs8GmjSwM18GZJtf66h6",
+      "name": "ULALO"
+    }
+  ]
+}

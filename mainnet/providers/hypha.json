@@ -1,0 +1,8 @@
+{
+  "id": "hypha",
+  "type": "INFRA",
+  "name": "Hypha",
+  "website": "https://www.hypha.sh",
+  "description": "The alignment layer for limitless blockchain networks.",
+  "associatedL1s": []
+}
