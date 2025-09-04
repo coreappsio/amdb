@@ -4,6 +4,7 @@
   "name": "AvaCloud",
   "website": "https://www.avacloud.io",
   "description": "A managed blockchain service enabling teams to rapidly build, deploy, and scale decentralized networks–customized for any use case. In minutes, launch robust blockchain networks with 50k+ transactions per second, sub-second transaction finality, and net-zero carbon impact.",
+  "logo": "",
   "associatedL1s": [
     {
       "id": "9L3hT5PtJVhiyJt1FHVqeJKtguyTM7V98KZobBeCUhYCQEHeQ",
