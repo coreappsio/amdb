@@ -1,0 +1,46 @@
+{
+  "id": "2LwJgsZLT52eAaxLTMLtBQeiUnEZuMibCqpAzJSQWHvRPs1iWN",
+  "name": "Hashfire",
+  "description": "Hashfire converts any contract into an on-chain, verifiable agreement with built-in payment logic and real-time financing options.",
+  "logo": "https://images.ctfassets.net/gcj8jwzm6086/4TCWxdtzvtZ8iD4255nAgU/e4d12af0a594bcf38b53a27e6beb07a3/FlatIcon_Large_.png",
+  "primaryColor": "",
+  "permissionless": true,
+  "private": false,
+  "chains": [
+    {
+      "id": "2vcBHFK7jiv74dyYeUCUiCsKy2jbWx6xEQzNfQPiLmYidBaDfX",
+      "name": "Hashfire",
+      "vmID": "YssHayfd8WMxTJRdMZaSRoFYDL3N6fRtsrQcqQHPR9hPKzFFo",
+      "evmId": "7272",
+      "vmName": "EVM",
+      "explorerUrl": "https://explorer.avax.network/hashfire",
+      "rpcUrl": "https://subnets.avax.network/hashfire/mainnet/rpc"
+    }
+  ],
+  "links": {
+    "website": "https://hashfire.xyz/",
+    "whitepaper": "",
+    "explorers": [
+      {
+        "name": "subnets.avax.network",
+        "url": "https://subnets.avax.network/hashfire"
+      }
+    ],
+    "forum": "",
+    "git": "",
+    "docs": "",
+    "socials": [
+      {
+        "name": "Twitter",
+        "url": "https://x.com/hashfirexyz"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/hashfire/"
+      }
+    ]
+  },
+  "team": [],
+  "mainCategory": "FINANCE",
+  "categories": []
+}
