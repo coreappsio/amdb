@@ -1,0 +1,32 @@
+{
+  "id": 1001,
+  "name": "Martian Chain",
+  "description": "L1 launched by amichain.org/deploy for https://x.com/ErolMuskAvax",
+  "logo": "https://martianchain.com/img/martian.png",
+  "primaryColor": "#219F62",
+  "permissionless": true,
+  "private": false,
+  "chains": [],
+  "links": {
+    "website": "https://martianchain.com/",
+    "whitepaper": "https://retro9000.avax.network/discover-builders/cmd4ctecz09qphhrsze2dwy3n",
+    "explorers": [
+      {
+        "name": "devnet.routescan.io",
+        "url": "https://devnet.routescan.io/?rpc=https://rpc1.martianchain.com           explorer.martianchain.com (in construction) "
+      }
+    ],
+    "forum": "",
+    "git": "https://github.com/MartianChain",
+    "docs": "https://retro9000.avax.network/discover-builders/cmd4ctecz09qphhrsze2dwy3n",
+    "socials": [
+      {
+        "name": "Twitter",
+        "url": "https://x.com/MartianChain https://x.com/ErolMuskAvax"
+      }
+    ]
+  },
+  "team": [],
+  "mainCategory": "L1",
+  "categories": []
+}
