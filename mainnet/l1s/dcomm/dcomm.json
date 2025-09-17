@@ -1,18 +1,44 @@
 {
   "id": "fmmMAGwEYQZMGN7BC4b86gqmukSMEc6rAkG1SXapq3cz1W7y7",
   "name": "DComm",
-  "description": "Real world assets, tokenised, structured and supported.",
-  "logo": "https://cdn.snowpeer.io/dcomm.png",
+  "description": "DComm Blockchain represents the convergence of tangible assets (gold, real estate, carbon credits, etc.) and blockchain innovation through secure, efficient tokenization. This document examines how DComm’s technology digitizes real-world value while addressing the complexities of high-volume, diverse transactions.",
+  "logo": "https://www.dcomm.community/assets/files/dcomm.svg",
   "primaryColor": "#9C43F7",
-  "mainCategory": "RWA",
-  "categories": ["RWA"],
+  "permissionless": true,
+  "private": false,
+  "chains": [
+    {
+      "id": "2QJ6d1ue6UyXNXrMdGnELFc2AjMdMqs8YbX3sT3k4Nin2RcWSm",
+      "name": "DComm",
+      "vmID": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
+    }
+  ],
   "links": {
-    "website": "https://dcomm.community",
+    "website": "https://www.dcomm.community/",
+    "whitepaper": "https://www.dcomm.community/assets/files/dcomm-action-paper.pdf",
+    "explorers": [
+      {
+        "name": "www.dcomm.community",
+        "url": "https://www.dcomm.community/explorer/"
+      }
+    ],
+    "forum": "",
+    "git": "",
+    "docs": "https://www.dcomm.community/technology/",
     "socials": [
       {
-        "name": "X",
-        "url": "https://x.com/DComm_Official"
+        "name": "Twitter",
+        "url": "https://x.com/dcomm_official"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/dcommblockchain/"
       }
     ]
-  }
+  },
+  "team": [],
+  "mainCategory": "OTHER",
+  "categories": [
+    "TOKENIZATION"
+  ]
 }
