@@ -1,0 +1,34 @@
+{
+  "id": 588785742,
+  "name": "Ami chain",
+  "description": "Amichain is more than just a L1.",
+  "logo": "https://www.amichain.org/images/ami-logo.png",
+  "primaryColor": "#FF154E",
+  "permissionless": true,
+  "private": false,
+  "chains": [],
+  "links": {
+    "website": "https://www.amichain.org/",
+    "whitepaper": "https://docs.amichain.org/",
+    "explorers": [
+      {
+        "name": "(Working on our own blockchain explorer will add link in the docs once live) https:",
+        "url": "(Working on our own blockchain explorer will add link in the docs once live) https://docs.amichain.org/mainnet https://devnet.routescan.io/?rpc=https://rpc.amichain.org "
+      }
+    ],
+    "forum": "",
+    "git": "https://github.com/amichain",
+    "docs": "https://docs.amichain.org/mainnet",
+    "socials": [
+      {
+        "name": "Twitter",
+        "url": "https://x.com/amichain_org"
+      }
+    ]
+  },
+  "team": [],
+  "mainCategory": "L1",
+  "categories": [
+    "Tooling and L1 Deployment Services"
+  ]
+}
