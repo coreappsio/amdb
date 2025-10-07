@@ -1415,6 +1415,33 @@
           "id": "ethena-usde"
         }
       ]
+    },
+    {
+      "name": "EURA",
+      "symbol": "EURA",
+      "issuer": "Angle",
+      "backingType": "crypto",
+      "website": "https://www.angle.money",
+      "logo": "https://cdn.snowpeer.io/tokens/angle-EURA.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x14C00080F97B9069ae3B4Eb506ee8a633f8F5434",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "Supercharge your DeFi journey with USDA, the most complete & reliable yield-bearing U.S. Dollar stablecoin",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "eura"
+        }
+      ]
     }
   ]
 }
