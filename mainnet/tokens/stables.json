@@ -1388,6 +1388,33 @@
           "id": "re-protocol-reusd"
         }
       ]
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "issuer": "Ethena",
+      "backingType": "crypto",
+      "website": "https://ethena.fi",
+      "logo": "https://cdn.snowpeer.io/tokens/ethenausde.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "USDe, crypto's first fully-backed, onchain, scalable, and censorship-resistant form of money.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "ethena-usde"
+        }
+      ]
     }
   ]
 }
