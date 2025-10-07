@@ -1423,7 +1423,7 @@
       "backingType": "crypto",
       "website": "https://www.angle.money",
       "logo": "https://cdn.snowpeer.io/tokens/angle-EURA.svg",
-      "backingCurrencyCode": "USD",
+      "backingCurrencyCode": "EUR",
       "originType": "native",
       "chains": [
         {
