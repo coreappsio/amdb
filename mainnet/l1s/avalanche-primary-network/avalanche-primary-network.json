@@ -30,9 +30,9 @@
   "primaryColor": "#f34333",
   "logo": "https://cdn.snowpeer.io/avax.svg",
   "categories": [
-    "L1"
+    "L0"
   ],
-  "mainCategory": "L1",
+  "mainCategory": "L0",
   "chains": [
     {
       "evmId": "43114",
