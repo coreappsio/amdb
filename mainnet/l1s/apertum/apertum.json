@@ -19,5 +19,17 @@
       "id": "YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn",
       "evmId": 2786
     }
+  ],
+  "primaryColor": "#11314a",
+  "assets": [
+    {
+      "symbol": "APTM",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "apertum"
+        }
+      ]
+    }
   ]
 }

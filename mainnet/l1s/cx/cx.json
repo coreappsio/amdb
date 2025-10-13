@@ -8,13 +8,18 @@
     "GAMING"
   ],
   "mainCategory": "GAMING",
-  "links": {
-    "website": "https://cxchain.xyz"
-  },
   "chains": [
     {
       "id": "25xjR3fvh7aXkxs36n1xRc3wLUAuqnS1wBxJD1BC4z3y6mHsEV",
-      "evmId": 737373
+      "evmId": "737373",
+      "vmId": "WfDfJpyhMEwWLZDypWXq2yfUUCUYaDegMdD5qpUT9zAXeb74a",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/cx",
+      "rpcUrl": "https://subnets.avax.network/cx/mainnet/rpc"
     }
-  ]
+  ],
+  "assets": [],
+  "links": {
+    "website": "https://cxchain.xyz"
+  }
 }

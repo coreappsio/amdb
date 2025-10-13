@@ -1,4 +1,34 @@
 {
+  "id": "wenKDikJWAYQs3f2v9JhV86fC6kHZwkFZsuUBftnmgZ4QXPnu",
+  "name": "Dexalot",
+  "description": "Dexalot is a decentralized exchange (DEX) on Avalanche that combines the transparency of DeFi with the user-friendly experience of centralized platforms. It features an order book model for precise trading, low-latency execution, and secure on-chain settlement—all without sacrificing custody of your assets.",
+  "primaryColor": "#EB1357",
+  "logo": "https://cdn.snowpeer.io/dexalot.png",
+  "categories": ["FINANCE", "DEX"],
+  "mainCategory": "FINANCE",
+  "chains": [
+    {
+      "evmId": "432204",
+      "rpcUrl": "https://subnets.avax.network/dexalot/mainnet/rpc",
+      "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche L1 technology, the most effective scaling solution in the blockchain industry.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/dexalot",
+      "id": "21Ths5Afqi5r4PaoV8r8cruGZWhN11y5rxvy89K8px7pKy3P8E",
+      "name": "dexalotevm",
+      "vmId": "mDVSxzeWHmgqrcXK1tPYqavqTK5MC3mMqme6r3a6cz2fqMfqf"
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "ALOT",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "dexalot"
+        }
+      ]
+    }
+  ],
   "links": {
     "website": "https://dexalot.com",
     "whitepaper": "https://dexalot.com/docs/DEXALOT-Litepaper.pdf",
@@ -19,36 +49,4 @@
         "url": "https://discord.gg/S4NP9w7Xwn"
       }
     ]
-  },
-  "id": "wenKDikJWAYQs3f2v9JhV86fC6kHZwkFZsuUBftnmgZ4QXPnu",
-  "name": "Dexalot",
-  "description": "Dexalot is a decentralized exchange (DEX) on Avalanche that combines the transparency of DeFi with the user-friendly experience of centralized platforms. It features an order book model for precise trading, low-latency execution, and secure on-chain settlement—all without sacrificing custody of your assets.",
-  "primaryColor": "#EB1357",
-  "logo": "https://cdn.snowpeer.io/dexalot.png",
-  "categories": [
-    "FINANCE",
-    "DEX"
-  ],
-  "mainCategory": "FINANCE",
-  "chains": [
-    {
-      "evmId": 432204,
-      "rpcUrl": "https://subnets.avax.network/dexalot/mainnet/rpc",
-      "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche L1 technology, the most effective scaling solution in the blockchain industry.",
-      "vmName": "EVM",
-      "explorerUrl": "https://subnets.avax.network/dexalot",
-      "id": "21Ths5Afqi5r4PaoV8r8cruGZWhN11y5rxvy89K8px7pKy3P8E",
-      "name": "dexalotevm",
-      "vmId": "mDVSxzeWHmgqrcXK1tPYqavqTK5MC3mMqme6r3a6cz2fqMfqf",
-      "assets": [
-        {
-          "name": "Dexalot",
-          "symbol": "ALOT",
-          "type": "GAS",
-          "cap": "FIXED",
-          "description": "Dexalot allows for users to trade ERC20 tokens supported on the C-Chain against the blockchain native currency AVAX or against other supported ERC20 tokens."
-        }
-      ]
-    }
-  ]
 }

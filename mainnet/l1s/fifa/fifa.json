@@ -14,7 +14,11 @@
   "chains": [
     {
       "id": "SUDoK9P89PCcguskyof41fZexw7U3zubDP2DZpGf3HbFWwJ4E",
-      "evmId": 13322
+      "evmId": "13322",
+      "vmId": "XxNJpcFRu85cPDeTZofVHdeD5NCLj1XTgZpJNJABexXJ5e2ho",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/fifa",
+      "rpcUrl": "https://subnets.avax.network/fifa/mainnet/rpc"
     }
   ]
 }
