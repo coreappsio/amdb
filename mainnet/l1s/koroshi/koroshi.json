@@ -7,6 +7,14 @@
   "logo": "https://cdn.snowpeer.io/koroshi.png",
   "primaryColor": "#f70509",
   "description": "The Koroshi L1 powers the entire Koroshi ecosytem, composed of Koroshi Gaming and Koroshi Studio. Koroshi Studio features a dynamic NFT collection and a competitive gaming platform designed to captivate both casual participants and hardcore gamers.",
-  "categories": ["GAMING"],
-  "mainCategory": "GAMING"
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "id": "26Ee4Lm4R1bQbQLQU66exLiWgSC9qdDPJCvFpzVsd3raLrHBGZ",
+      "evmId": 379
+    }
+  ]
 }

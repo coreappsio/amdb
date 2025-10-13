@@ -26,7 +26,8 @@
       "id": "2Zqzt687kQ4G7RiWYKypiWrid4ZPrFW3jg9Hy5SmNAVgebB2ph",
       "name": "Rymedi Compliance Subnet",
       "vmId": "dKhNBikRSxfhSxEEmsf4Gw56brmB8FV3hUyLxVsqGbS5w5ZK6",
-      "vmName": null
+      "vmName": null,
+      "evmId": 111003001
     }
   ]
 }

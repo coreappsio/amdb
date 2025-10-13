@@ -28,5 +28,11 @@
   "categories": [
     "STORAGE"
   ],
-  "mainCategory": "STORAGE"
+  "mainCategory": "STORAGE",
+  "chains": [
+    {
+      "id": "2JepXG35p5i21VxbnPx1eWmu5Z5EutcSXVAtcisBBJPTYzAVmB",
+      "evmId": 62789
+    }
+  ]
 }

@@ -15,7 +15,6 @@
         "url": "https://www.linkedin.com/company/zeroone-art/"
       }
     ]
-
   },
   "id": "nKJuE11HePLrmp391sfoFVqZR7Fw5VJ1XjyznsogsjebxwiAg",
   "name": "zeroone",
@@ -28,7 +27,7 @@
   "mainCategory": "ART",
   "chains": [
     {
-      "evmId": "27827",
+      "evmId": 27827,
       "rpcUrl": "https://subnets.avax.network/zeroonemai/mainnet/rpc",
       "description": "The subnet is used to facilitate gas-less transactions for the zeroone platform. A platform that allows users to create, share and collect without having to worry about fees.",
       "vmName": "EVM",

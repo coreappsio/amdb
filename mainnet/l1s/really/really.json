@@ -13,7 +13,7 @@
   "mainCategory": "AR",
   "chains": [
     {
-      "evmId": "64273",
+      "evmId": 64273,
       "rpcUrl": "https://subnets.avax.network/really/mainnet/rpc",
       "description": "Build your status with Really’s unique Fandime. Really collectors enjoy access to exclusive content and unforgettable special events in the metaverse.  Download the ReallyAR App to get started.",
       "vmName": "EVM",

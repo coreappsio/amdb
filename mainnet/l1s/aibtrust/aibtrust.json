@@ -14,7 +14,8 @@
       "name": "AIBTRUST",
       "description": "Aibrust utilizes Web3 technology to enhance secure medical data collection, enabling rapid multi-site research and incentivized data access for healthcare providers.",
       "vmId": "VkeZMFzYTFXZeDMMfniZscbUX1SR8mydk7ZhzAPKfuvwuehxc",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmId": 80000
     }
   ]
 }

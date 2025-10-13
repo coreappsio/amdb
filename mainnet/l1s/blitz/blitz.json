@@ -32,7 +32,7 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "1344",
+      "evmId": 1344,
       "rpcUrl": "https://subnets.avax.network/blitz/mainnet/rpc",
       "description": "Blitz.gg is a gaming companion app that provides real-time insights and analytics for several popular online games like League of Legends, Valorant, and Teamfight Tactics. The app offers game-specific stats, build guides, counters, and personalized advice to improve gameplay. \n\nThe Avalance L1 is the heart behind our subscription, in-game currency, Blitz Battle Rewards, Marketplace and more!",
       "vmName": "EVM",

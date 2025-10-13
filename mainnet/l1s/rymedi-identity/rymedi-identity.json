@@ -26,7 +26,8 @@
       "id": "HnECQEqpvvXcBF9Jup1ti1XMowQGrSWiQSkKdwcjxEbzmTHMC",
       "name": "Rymedi Identity Subnet",
       "vmId": "dKhNBikRSxwPAHcAMVkVR83RVP5KUbn2XxgRasuExToZUUudK",
-      "vmName": null
+      "vmName": null,
+      "evmId": 111001001
     }
   ]
 }

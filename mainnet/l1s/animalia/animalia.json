@@ -3,7 +3,9 @@
   "name": "Animalia",
   "mainCategory": "GAMING",
   "logo": "https://cdn.snowpeer.io/animalia.png",
-  "categories": ["GAMING"],
+  "categories": [
+    "GAMING"
+  ],
   "primaryColor": "#000000",
   "links": {
     "website": "https://animalia.games/",
@@ -20,5 +22,11 @@
       }
     ]
   },
-  "description": "An immersive blockchain gaming ecosystem where players collect, breed, and battle fantasy creatures—powered by play-to-earn mechanics and true digital ownership."
+  "description": "An immersive blockchain gaming ecosystem where players collect, breed, and battle fantasy creatures—powered by play-to-earn mechanics and true digital ownership.",
+  "chains": [
+    {
+      "id": "QgQ2ATB5Ca6US2jur1iPrfBtFDGNSQHXcnSzfv19ZZ2vLZSrk",
+      "evmId": 8787
+    }
+  ]
 }

@@ -10,7 +10,8 @@
       "id": "2oNTBWEqxBjxWFj8vdubco79AeRwHcDyfveh7Aurqg3Q2EwMA9",
       "name": "OMOCHI",
       "vmId": "bvfT4G9hDxBmL7fohm3yu9sjw9s39NrR3PnPF9zNkJe2npGs1",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmId": 5041
     }
   ]
 }

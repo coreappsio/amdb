@@ -29,7 +29,7 @@
   "mainCategory": "METAVERSE",
   "chains": [
     {
-      "evmId": "10849",
+      "evmId": 10849,
       "rpcUrl": "https://subnets.avax.network/lamina1/mainnet/rpc",
       "description": "The LAMINA1 Mainnet — a platform and protocol for a new era of digital content and co-creation founded by legendary author/futurist Neal Stephenson, crypto pioneer Peter Vessenes, and entertainment executive Rebecca Barkin.",
       "vmName": "EVM",

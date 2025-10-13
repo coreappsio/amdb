@@ -34,7 +34,7 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "53935",
+      "evmId": 53935,
       "rpcUrl": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
       "description": "The vision for the DFK Avalanche L1 is to become the go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
       "vmName": "EVM",

@@ -24,7 +24,7 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "710420",
+      "evmId": 710420,
       "rpcUrl": "https://subnets.avax.network/tiltyard/mainnet/rpc",
       "description": "Tiltyard is a blockchain game studio focused on creating innovative, decentralized gaming experiences. It designs futuristic landscapes and interactive adventures that push the boundaries of gaming. The platform incorporates blockchain technology to offer players a new level of immersive gameplay.",
       "vmName": "EVM",

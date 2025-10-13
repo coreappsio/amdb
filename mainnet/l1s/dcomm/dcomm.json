@@ -5,7 +5,9 @@
   "logo": "https://cdn.snowpeer.io/dcomm.png",
   "primaryColor": "#9C43F7",
   "mainCategory": "RWA",
-  "categories": ["RWA"],
+  "categories": [
+    "RWA"
+  ],
   "links": {
     "website": "https://dcomm.community",
     "socials": [
@@ -14,5 +16,11 @@
         "url": "https://x.com/DComm_Official"
       }
     ]
-  }
+  },
+  "chains": [
+    {
+      "id": "2QJ6d1ue6UyXNXrMdGnELFc2AjMdMqs8YbX3sT3k4Nin2RcWSm",
+      "evmId": 326663
+    }
+  ]
 }

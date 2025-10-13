@@ -5,15 +5,22 @@
   "primaryColor": "#000000",
   "description": "Permissionless prediction markets. Bet on anything. Powered by memes, fueled by belief.",
   "mainCategory": "PREDICTION",
-  "categories": ["PREDICTION"],
+  "categories": [
+    "PREDICTION"
+  ],
   "links": {
     "website": "https://www.bango.fun",
-
     "socials": [
       {
         "name": "X",
         "url": "https://x.com/BangoDotFun"
       }
     ]
-  }
+  },
+  "chains": [
+    {
+      "id": "QUmGffHpjgMeHJVobZDjwvFKAcP5Rs5FQsURJexDjKir2Ljp4",
+      "evmId": 5506
+    }
+  ]
 }

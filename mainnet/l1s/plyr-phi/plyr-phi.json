@@ -9,15 +9,15 @@
         "name": "X",
         "url": "https://x.com/OnPlyr"
       },
-       {
+      {
         "name": "Discord",
         "url": "https://discord.com/invite/plyr"
       },
-       {
+      {
         "name": "Telegram",
         "url": "https://t.me/plyrchain"
       },
-       {
+      {
         "name": "Medium",
         "url": "https://onplyr.medium.com/"
       }
@@ -34,7 +34,7 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "16180",
+      "evmId": 16180,
       "rpcUrl": "https://subnets.avax.network/plyr/mainnet/rpc",
       "description": "The PLYR gaming chain offers low-cost, fast, and secure transactions for gaming. It enables seamless in-game purchases, asset transfers, and integrates with over 200 networks, providing a robust foundation for innovative and cross-chain gaming experiences.",
       "vmName": "EVM",

@@ -1,4 +1,10 @@
 {
-    "id": "63toLWYNBLvCZvYqRArcVo6jxv2PUPRWM39pRc34ffGTe2bPu",
-    "name": "QIMMP"
+  "id": "63toLWYNBLvCZvYqRArcVo6jxv2PUPRWM39pRc34ffGTe2bPu",
+  "name": "QIMMP",
+  "chains": [
+    {
+      "id": "UyegvLmBWf9yw2ZRUM7jGmmjaPi8jgXdcKkRGsWkWLbvw7TNR",
+      "evmId": 89043
+    }
+  ]
 }

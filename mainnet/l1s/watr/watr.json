@@ -7,6 +7,14 @@
   "description": "Watr is the infrastructure powering the expansion of commodity trade, financing, and participation—built for institutions, traders, and pioneers shaping the future.",
   "primaryColor": "#ec652b",
   "logo": "https://cdn.snowpeer.io/watr.svg",
-  "categories": ["RWA"],
-  "mainCategory": "RWA"
+  "categories": [
+    "RWA"
+  ],
+  "mainCategory": "RWA",
+  "chains": [
+    {
+      "id": "EypLFUSzC2wdbFJovYS3Af1E7ch1DJf7KxKoGR5QFPErxQkG1",
+      "evmId": 192
+    }
+  ]
 }

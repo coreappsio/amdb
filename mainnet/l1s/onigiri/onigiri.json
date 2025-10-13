@@ -20,7 +20,7 @@
   "mainCategory": "FOOD",
   "chains": [
     {
-      "evmId": "5040",
+      "evmId": 5040,
       "rpcUrl": "https://subnets.avax.network/onigiri/mainnet/rpc",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/onigiri",

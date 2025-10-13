@@ -7,6 +7,14 @@
   },
   "mainCategory": "HEALTH",
   "logo": "https://cdn.snowpeer.io/ulalo.png",
-  "categories": ["HEALTH"],
-  "primaryColor": "#35e467"
+  "categories": [
+    "HEALTH"
+  ],
+  "primaryColor": "#35e467",
+  "chains": [
+    {
+      "id": "2uN4Y9JHkLeAJK85Y48LExpNnEiepf7VoZAtmjnwDSZzpZcNig",
+      "evmId": 237007
+    }
+  ]
 }

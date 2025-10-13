@@ -7,6 +7,14 @@
   "description": "PandaSea is a Layer 1 blockchain and Web3 stack for creating liquid, decentralized marketplaces across digital and real-world asset classes.",
   "primaryColor": "#6858e3",
   "logo": "https://cdn.snowpeer.io/pandasea.png",
-  "categories": ["RWA"],
-  "mainCategory": "RWA"
+  "categories": [
+    "RWA"
+  ],
+  "mainCategory": "RWA",
+  "chains": [
+    {
+      "id": "2gYSmRb7tjS4wb5FHFx8NBhwQgARWEdr8MGVC7v8UWJJFkEpTj",
+      "evmId": 7776
+    }
+  ]
 }

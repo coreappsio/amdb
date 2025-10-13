@@ -3,10 +3,20 @@
   "name": "Hashfire",
   "primaryColor": "#ff710a",
   "mainCategory": "FINTECH",
-  "categories": ["FINTECH", "AGREEMENTS", "RWA"],
+  "categories": [
+    "FINTECH",
+    "AGREEMENTS",
+    "RWA"
+  ],
   "description": "Hashfire converts any contract into an on-chain, verifiable agreement with built-in payment logic and real-time financing options.",
   "logo": "https://cdn.snowpeer.io/hashfire.svg",
-  "links":{
-    "website":"https://hashfire.xyz"
-  }
+  "links": {
+    "website": "https://hashfire.xyz"
+  },
+  "chains": [
+    {
+      "id": "2vcBHFK7jiv74dyYeUCUiCsKy2jbWx6xEQzNfQPiLmYidBaDfX",
+      "evmId": 7272
+    }
+  ]
 }

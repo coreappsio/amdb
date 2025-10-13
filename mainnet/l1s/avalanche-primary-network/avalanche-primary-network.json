@@ -9,7 +9,7 @@
 
   "chains": [
     {
-      "evmId": "43114",
+      "evmId": 43114,
       "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
       "description": "The Contract Chain (C-Chain) runs on an Ethereum Virtual Machine and is used to deploy smart contracts and connect to dApps.",
       "vmName": "EVM",

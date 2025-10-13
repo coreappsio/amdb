@@ -31,7 +31,6 @@
   ],
   "links": {
     "website": "https://dexalot.com",
-
     "whitepaper": "https://dexalot.com/docs/DEXALOT-Litepaper.pdf",
     "forum": "",
     "git": "https://github.com/dexalot",
@@ -50,5 +49,4 @@
         "url": "https://discord.gg/S4NP9w7Xwn"
       }
     ]
-  }
 }

@@ -40,7 +40,8 @@
       "id": "2MrmXmx4nrSn5BS3EAtWg5Pf9madiBoN7MRaByM88g49VArjDt",
       "name": "XANA Chain",
       "vmId": "v1xiWupQDfF6f2KfDpe8bFd8nqUYo6z27YbaSCHrw3SMf5Xzu",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmId": 8888
     }
   ]
 }

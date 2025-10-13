@@ -16,7 +16,8 @@
       "id": "21wWGaE2vXSeJqfYwyiMukJuP866jFfKNYkCLXmhx9SZakh11G",
       "name": "cloudverse",
       "vmId": "kneE28g9GLPd1k5admf4EyHhWZGMJRNTQbzy4sS3UiCvBjW2B",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmId": 33210
     }
   ]
 }

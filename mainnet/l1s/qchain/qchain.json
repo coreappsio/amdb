@@ -8,15 +8,15 @@
         "name": "X",
         "url": "https://x.com/Quboid_HQ"
       },
-        {
+      {
         "name": "Telegram",
         "url": "https://t.me/+J2hTcNKBrDY0YWRl"
       },
-        {
+      {
         "name": "Discord",
         "url": "https://discord.com/invite/BHcACX5ajb"
       },
-        {
+      {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/company/quboid-hq/"
       }
@@ -30,5 +30,11 @@
   "categories": [
     "LOYALTY"
   ],
-  "mainCategory": "LOYALTY"
+  "mainCategory": "LOYALTY",
+  "chains": [
+    {
+      "id": "2GRw9HYnCxyVsr4P5pytpqcyRaymtnTuu1oZhuSWcP4DfJxojy",
+      "evmId": 12150
+    }
+  ]
 }

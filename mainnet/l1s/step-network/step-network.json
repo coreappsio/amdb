@@ -9,11 +9,11 @@
         "name": "X",
         "url": "https://x.com/stepapp_"
       },
-       {
+      {
         "name": "Discord",
         "url": "https://discord.com/invite/stepappdc"
       },
-       {
+      {
         "name": "Telegram",
         "url": "https://t.me/stepappchat"
       }
@@ -33,7 +33,8 @@
       "id": "2jRZvKtXY5nyWTqRwFh1KMHGrCRxJoULu4r2CsayWRnjdDGbV1",
       "name": "StepNetwork",
       "vmId": "dkjnKTbCTozMmvJJETzrz8sYVs7vSKzkGShHoa493UcQEweU6",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmId": 1234
     }
   ]
 }

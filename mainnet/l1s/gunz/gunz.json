@@ -3,7 +3,9 @@
   "name": "GUNZ",
   "primaryColor": "#64ffff",
   "logo": "https://cdn.snowpeer.io/gunz.png",
-  "categories": ["GAMING"],
+  "categories": [
+    "GAMING"
+  ],
   "mainCategory": "GAMING",
   "chains": [
     {

@@ -4,5 +4,13 @@
   "logo": "https://cdn.snowpeer.io/artery.svg",
   "primaryColor": "#ffffff",
   "mainCategory": "GAMING",
-  "categories": ["GAMING"]
+  "categories": [
+    "GAMING"
+  ],
+  "chains": [
+    {
+      "id": "rBabVhbJKGcKTEpzm9PdpQ7ModsxNpYQZ6ALN6g9p5JKjqfw6",
+      "evmId": 4313
+    }
+  ]
 }

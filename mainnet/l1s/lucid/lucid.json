@@ -1,9 +1,16 @@
 {
-    "id": "hbP3PrnQS71Py1VVxvHfnCnr7MWos3XQesEsCKQoA9hpciyVR",
-    "name": "Lucid",
-    "primaryColor": "#29A87F",
-    "logo": "https://cdn.snowpeer.io/lucid.png",
-    "categories": ["GAMING"],
-    "mainCategory": "GAMING"
-  }
-  
+  "id": "hbP3PrnQS71Py1VVxvHfnCnr7MWos3XQesEsCKQoA9hpciyVR",
+  "name": "Lucid",
+  "primaryColor": "#29A87F",
+  "logo": "https://cdn.snowpeer.io/lucid.png",
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "id": "2vmiAUCfkXd67jEq2GQhzVgTfNs3tpUP89agEEvnRK7urMVpjb",
+      "evmId": 62521
+    }
+  ]
+}

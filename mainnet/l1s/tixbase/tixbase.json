@@ -7,6 +7,14 @@
   },
   "mainCategory": "TICKETING",
   "logo": "https://cdn.snowpeer.io/tixbase.png",
-  "categories": ["TICKETING"],
-  "primaryColor": "#ff4805"
+  "categories": [
+    "TICKETING"
+  ],
+  "primaryColor": "#ff4805",
+  "chains": [
+    {
+      "id": "Bb5XKrQoBT6ypFmFUppAqfSmKCqcqYwjGCn3hHS6gibRTjiDj",
+      "evmId": 13790
+    }
+  ]
 }

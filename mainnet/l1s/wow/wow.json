@@ -1,4 +1,10 @@
 {
-    "id": "hqqtt4VGmzSACDn2yYxTFMhHu9RpFTECEhbexb4bXu2w6Pxtf",
-    "name": "Wow"
+  "id": "hqqtt4VGmzSACDn2yYxTFMhHu9RpFTECEhbexb4bXu2w6Pxtf",
+  "name": "Wow",
+  "chains": [
+    {
+      "id": "2MvLKR8AP3tz1yFQhLRnHBWrXFR4wfojysCHMAGuJVvb8ayRNK",
+      "evmId": 98968
+    }
+  ]
 }

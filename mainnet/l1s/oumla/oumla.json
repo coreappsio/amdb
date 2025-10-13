@@ -7,6 +7,14 @@
   },
   "mainCategory": "INFRA",
   "logo": "https://cdn.snowpeer.io/oumla.png",
-  "categories": ["INFRA"],
-  "primaryColor": "#9364f0"
+  "categories": [
+    "INFRA"
+  ],
+  "primaryColor": "#9364f0",
+  "chains": [
+    {
+      "id": "3ZtS5VvsATbGWZhs2ymHNCmVkRVwW3QxhwbTtwxWK3XXVopsr",
+      "evmId": 58166
+    }
+  ]
 }

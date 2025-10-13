@@ -7,7 +7,8 @@
       "id": "2V27BZNRQVNBbEsJevF2EXMp5N5n7ah1SuAUDrZ3A7fkCcFodY",
       "name": "teleportersubnet2",
       "vmId": "tGBh6N86FPEfFFTVjkJFZCHM6okVGEuB8TfGVA2Z317u3WNrk",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmId": 70953
     }
   ]
 }
