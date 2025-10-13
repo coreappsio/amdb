@@ -8,5 +8,16 @@
   "mainCategory": "L1",
   "logo": "https://cdn.snowpeer.io/apertum.png",
   "categories": ["L1", "DEFI", "NFT", "EVM"],
-  "primaryColor": "#11314a"
+  "primaryColor": "#11314a",
+  "assets": [
+    {
+      "symbol": "APTM",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "apertum"
+        }
+      ]
+    }
+  ]
 }

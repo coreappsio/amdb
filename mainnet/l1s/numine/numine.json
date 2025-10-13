@@ -1,4 +1,32 @@
 {
+  "id": "2nCzBViQ5jxLaxkg9TABx6oXu1UGU7chM7G6XzPvW9ehP8RfrJ",
+  "name": "NUMINE",
+  "description": "NUMINE serves as a Web 3.0 gaming platform that functions as a chain and ecosystem, allowing content developers and users to collectively influence the direction of the industry.",
+  "primaryColor": "#ffc83c",
+  "logo": "https://cdn.snowpeer.io/numine.png",
+  "categories": ["GAMING"],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "id": "2c1BN4N9qEhNmW4yCpeLK24SfjFQLyS1Z7FtgRDaYxZWFUUKxf",
+      "name": "numine",
+      "vmId": "bVvAsrLWieiBKwjttxdaYRDaTDmn5ixjN5bDp8fJekCJLiVQE",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/numi",
+      "rpcUrl": "https://subnets.avax.network/numi/mainnet/rpc"
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NUMI",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "numine-token"
+        }
+      ]
+    }
+  ],
   "links": {
     "website": "https://numine.io",
     "docs": "https://docs.numine.io/",
@@ -7,35 +35,18 @@
         "name": "X",
         "url": "https://x.com/numineverse"
       },
-         {
+      {
         "name": "Telegram",
         "url": "https://t.me/numineverse"
       },
-         {
+      {
         "name": "Discord",
         "url": "https://discord.com/invite/numine"
       },
-         {
+      {
         "name": "Medium",
         "url": "https://medium.com/@numineverse"
       }
     ]
-  },
-  "id": "2nCzBViQ5jxLaxkg9TABx6oXu1UGU7chM7G6XzPvW9ehP8RfrJ",
-  "name": "NUMINE",
-  "description": "NUMINE serves as a Web 3.0 gaming platform that functions as a chain and ecosystem, allowing content developers and users to collectively influence the direction of the industry.",
-  "primaryColor": "#ffc83c",
-  "logo": "https://cdn.snowpeer.io/numine.png",
-  "categories": [
-    "GAMING"
-  ],
-  "mainCategory": "GAMING",
-  "chains": [
-    {
-      "id": "2vEit8MMxLNNfbMdoiBjvFP7MFwPwo1YmiLaBBxQU2YRGvdjJx",
-      "name": "numine",
-      "vmId": "qeX7nhhVj5a7mc4JDvVchdgcTDkENwbRSAaFBBXRZeofTGaXa",
-      "vmName": null
-    }
-  ]
+  }
 }

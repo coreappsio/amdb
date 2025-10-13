@@ -1,4 +1,34 @@
 {
+  "id": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
+  "name": "Beam",
+  "description": "An opinionated chain built for gaming.",
+  "primaryColor": "#FDFF99",
+  "logo": "https://cdn.snowpeer.io/beam.png",
+  "categories": ["GAMING"],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "evmId": "4337",
+      "rpcUrl": "https://subnets.avax.network/beam/mainnet/rpc",
+      "description": "An opinionated chain built for gaming.",
+      "vmName": null,
+      "explorerUrl": "https://subnets.avax.network/beam",
+      "id": "2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn",
+      "name": "beam",
+      "vmId": "kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz"
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "Beam",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "beam-2"
+        }
+      ]
+    }
+  ],
   "links": {
     "website": "https://onbeam.com",
     "forum": "https://gov.onbeam.com/",
@@ -22,35 +52,5 @@
         "url": "https://medium.com/@onbeam"
       }
     ]
-  },
-  "id": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
-  "name": "Beam",
-  "description": "An opinionated chain built for gaming.",
-  "primaryColor": "#FDFF99",
-  "logo": "https://cdn.snowpeer.io/beam.png",
-  "categories": [
-    "GAMING"
-  ],
-  "mainCategory": "GAMING",
-  "chains": [
-    {
-      "evmId": "4337",
-      "rpcUrl": "https://subnets.avax.network/beam/mainnet/rpc",
-      "description": "An opinionated chain built for gaming.",
-      "vmName": null,
-      "explorerUrl": "https://subnets.avax.network/beam",
-      "id": "2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn",
-      "name": "beam",
-      "vmId": "kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz",
-      "assets": [
-        {
-          "name": "Beam",
-          "symbol": "Beam",
-          "type": "GAS",
-          "cap": "FIXED",
-          "description": "The BEAM token is the native crypto asset of the Beam network, a gaming ecosystem powered by the Merit Circle DAO."
-        }
-      ]
-    }
-  ]
+  }
 }

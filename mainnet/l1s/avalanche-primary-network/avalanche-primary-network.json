@@ -1,38 +1,12 @@
 {
-  "links": {
-    "website": "https://avax.network",
-    "whitepaper":"https://www.avalabs.org/whitepapers",
-    "forum":"https://www.avalabs.org/whitepapers",
-    "git": "https://github.com/ava-labs",
-    "docs": "https://docs.avax.network/",
-    "socials":[
-      {
-        "name": "X",
-        "url": "https://twitter.com/avax"
-      },
-      {
-        "name": "Youtube",
-        "url": "https://www.youtube.com/Avalancheavax"
-      },
-      {
-        "name": "LinkedIn",
-        "url": "https://www.linkedin.com/company/avalancheavax"
-      },
-      {
-        "name": "Reddit",
-        "url": "https://www.reddit.com/r/Avax/"
-      }
-    ]
-  },
   "id": "11111111111111111111111111111111LpoYY",
   "name": "Avalanche Primary Network",
   "description": "Avalanche is a highly scalable, eco-friendly blockchain platform offering sub-second finality and low transaction fees, designed to support decentralized applications and custom blockchain networks.",
   "primaryColor": "#f34333",
   "logo": "https://cdn.snowpeer.io/avax.svg",
-  "categories": [
-    "L0"
-  ],
+  "categories": ["L0"],
   "mainCategory": "L0",
+
   "chains": [
     {
       "evmId": "43114",
@@ -57,6 +31,42 @@
       "vmName": "PVM"
     }
   ],
+  "assets": [
+    {
+      "symbol": "AVAX",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "avalanche"
+        }
+      ]
+    }
+  ],
   "permissionless": true,
-  "private": false
+  "private": false,
+  "links": {
+    "website": "https://avax.network",
+    "whitepaper": "https://www.avalabs.org/whitepapers",
+    "forum": "https://www.avalabs.org/whitepapers",
+    "git": "https://github.com/ava-labs",
+    "docs": "https://docs.avax.network/",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://twitter.com/avax"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/Avalancheavax"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/avalancheavax"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/Avax/"
+      }
+    ]
+  }
 }

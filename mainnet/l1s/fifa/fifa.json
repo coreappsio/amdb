@@ -6,7 +6,17 @@
   "primaryColor": "#045694",
   "mainCategory": "SPORT",
   "categories": ["SPORT"],
-  "links":{
-    "website":"https://collect.fifa.com"
+  "chains": [
+    {
+      "id": "SUDoK9P89PCcguskyof41fZexw7U3zubDP2DZpGf3HbFWwJ4E",
+      "evmId": "13322",
+      "vmId": "XxNJpcFRu85cPDeTZofVHdeD5NCLj1XTgZpJNJABexXJ5e2ho",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/fifa",
+      "rpcUrl": "https://subnets.avax.network/fifa/mainnet/rpc"
+    }
+  ],
+  "links": {
+    "website": "https://collect.fifa.com"
   }
 }

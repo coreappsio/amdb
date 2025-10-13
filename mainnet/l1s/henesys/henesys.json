@@ -4,5 +4,26 @@
   "primaryColor": "#8632fb",
   "logo": "https://cdn.snowpeer.io/henesys.png",
   "categories": ["GAMING"],
-  "mainCategory": "GAMING"
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "id": "2LFmzhHDKxkreihEtPanVmofuFn63bsh8twnRXEbDhBtCJxURB",
+      "evmId": "68414",
+      "vmId": "YtGKetwQgUADapTEJBQCfS2EcH55x4hyjrFiJBaooiUd1X17v",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/henesys",
+      "rpcUrl": "https://henesys-rpc.msu.io"
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NXPC",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "nexpace"
+        }
+      ]
+    }
+  ]
 }
