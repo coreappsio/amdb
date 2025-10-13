@@ -7,12 +7,7 @@
   },
   "mainCategory": "L1",
   "logo": "https://cdn.snowpeer.io/apertum.png",
-  "categories": [
-    "L1",
-    "DEFI",
-    "NFT",
-    "EVM"
-  ],
+  "categories": ["L1", "DEFI", "NFT", "EVM"],
   "primaryColor": "#11314a",
   "chains": [
     {
@@ -20,7 +15,6 @@
       "evmId": 2786
     }
   ],
-  "primaryColor": "#11314a",
   "assets": [
     {
       "symbol": "APTM",
