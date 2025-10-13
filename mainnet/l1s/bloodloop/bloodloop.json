@@ -3,7 +3,9 @@
   "name": "Bloodloop",
   "description": "A 5v5 tactical Hero-Shooter game, integrated with blockchain.",
   "logo": "https://cdn.snowpeer.io/bloodloop.png",
-  "categories": ["GAMING"],
+  "categories": [
+    "GAMING"
+  ],
   "mainCategory": "GAMING",
   "primaryColor": "#D7291C",
   "links": {
@@ -23,5 +25,6 @@
         "url": "https://discord.com/invite/3gYUNSFnma "
       }
     ]
-  }
+  },
+  "evmChainId": 578
 }

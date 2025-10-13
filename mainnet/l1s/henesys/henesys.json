@@ -3,6 +3,9 @@
   "name": "Henesys",
   "primaryColor": "#8632fb",
   "logo": "https://cdn.snowpeer.io/henesys.png",
-  "categories": ["GAMING"],
-  "mainCategory": "GAMING"
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "evmChainId": 68414
 }

@@ -7,6 +7,12 @@
   },
   "mainCategory": "L1",
   "logo": "https://cdn.snowpeer.io/apertum.png",
-  "categories": ["L1", "DEFI", "NFT", "EVM"],
-  "primaryColor": "#11314a"
+  "categories": [
+    "L1",
+    "DEFI",
+    "NFT",
+    "EVM"
+  ],
+  "primaryColor": "#11314a",
+  "evmChainId": 2786
 }

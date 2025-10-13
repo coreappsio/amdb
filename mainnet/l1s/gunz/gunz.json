@@ -3,6 +3,9 @@
   "name": "GUNZ",
   "primaryColor": "#64ffff",
   "logo": "https://cdn.snowpeer.io/gunz.png",
-  "categories": ["GAMING"],
-  "mainCategory": "GAMING"
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "evmChainId": 43419
 }

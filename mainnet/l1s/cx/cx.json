@@ -4,10 +4,12 @@
   "description": "CX Chain is a decentralized game execution layer where any participant can act as a liquidity provider or game operator.",
   "primaryColor": "#e1cfff",
   "logo": "https://cdn.snowpeer.io/cx.png",
-  "categories": ["GAMING"],
+  "categories": [
+    "GAMING"
+  ],
   "mainCategory": "GAMING",
-
   "links": {
     "website": "https://cxchain.xyz"
-  }
+  },
+  "evmChainId": 737373
 }

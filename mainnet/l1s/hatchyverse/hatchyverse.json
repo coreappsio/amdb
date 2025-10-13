@@ -22,6 +22,10 @@
   "logo": "https://cdn.snowpeer.io/hatchy.png",
   "primaryColor": "#125da0",
   "description": "Hatchyverse is a community-owned IP ecosystem on Avalanche, where the Hatchy brand and its characters are governed by a DAO. Fans and creators collectively steer the franchise—from NFT collectibles to games—ensuring a truly decentralized, fan-driven universe.",
-  "categories": ["GAMING", "IP"],
-  "mainCategory": "GAMING"
+  "categories": [
+    "GAMING",
+    "IP"
+  ],
+  "mainCategory": "GAMING",
+  "evmChainId": 8198
 }

@@ -4,5 +4,8 @@
   "logo": "https://cdn.snowpeer.io/artery.svg",
   "primaryColor": "#ffffff",
   "mainCategory": "GAMING",
-  "categories": ["GAMING"]
+  "categories": [
+    "GAMING"
+  ],
+  "evmChainId": 4313
 }

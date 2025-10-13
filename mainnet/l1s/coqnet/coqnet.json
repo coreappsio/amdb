@@ -1,28 +1,29 @@
 {
-    "links": {
-      "website": "https://coqnet.io",
-      "socials": [
-        {
-          "name": "X",
-          "url": "https://x.com/coqnet_io"
-        },
-        {
-            "name": "Telegram",
-            "url": "https://t.me/CoqnetClub"
-          },
-        {
-            "name": "Youtube",
-            "url": "https://www.youtube.com/@Coqnet"
-         } 
-      ]
-    },
-    "id": "5moznRzaAEhzWkNTQVdT1U4Kb9EU7dbsKZQNmHwtN5MGVQRyT",
-    "name": "Coqnet",
-    "description": "Coqnet is a Layer-1 blockchain within the Avalanche ecosystem, designed to empower memecoin communities. It combines Avalanche's robust infrastructure with a unique identity and features tailored to support vibrant communities, innovative developers, and dedicated validators.",
-    "logo": "https://cdn.snowpeer.io/coqnet.svg",
-    "primaryColor": "#9a1e1e",
-    "mainCategory": "GAMING",
-    "categories": [
-      "GAMING"
+  "links": {
+    "website": "https://coqnet.io",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/coqnet_io"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/CoqnetClub"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/@Coqnet"
+      }
     ]
-  }
+  },
+  "id": "5moznRzaAEhzWkNTQVdT1U4Kb9EU7dbsKZQNmHwtN5MGVQRyT",
+  "name": "Coqnet",
+  "description": "Coqnet is a Layer-1 blockchain within the Avalanche ecosystem, designed to empower memecoin communities. It combines Avalanche's robust infrastructure with a unique identity and features tailored to support vibrant communities, innovative developers, and dedicated validators.",
+  "logo": "https://cdn.snowpeer.io/coqnet.svg",
+  "primaryColor": "#9a1e1e",
+  "mainCategory": "GAMING",
+  "categories": [
+    "GAMING"
+  ],
+  "evmChainId": 42069
+}

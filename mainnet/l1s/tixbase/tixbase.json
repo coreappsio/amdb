@@ -7,6 +7,9 @@
   },
   "mainCategory": "TICKETING",
   "logo": "https://cdn.snowpeer.io/tixbase.png",
-  "categories": ["TICKETING"],
-  "primaryColor": "#ff4805"
+  "categories": [
+    "TICKETING"
+  ],
+  "primaryColor": "#ff4805",
+  "evmChainId": 13790
 }

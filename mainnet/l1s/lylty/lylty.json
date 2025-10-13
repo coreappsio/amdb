@@ -2,6 +2,9 @@
   "id": "2iumcj2wiV9BQ96LRHpYNpD1SHhb8Vcvm8YUebZSqcFeJakTo6",
   "primaryColor": "#14141ce0",
   "logo": "https://cdn.snowpeer.io/lylty.png",
-  "categories": ["LOYALTY"],
-  "mainCategory": "LOYALTY"
+  "categories": [
+    "LOYALTY"
+  ],
+  "mainCategory": "LOYALTY",
+  "evmChainId": 17177
 }

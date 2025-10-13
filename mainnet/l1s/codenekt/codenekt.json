@@ -21,7 +21,10 @@
   "name": "CodeNekt",
   "description": "A fast, secure, and customizable Layer 1 blockchain built specifically for the automotive industry.",
   "logo": "https://cdn.snowpeer.io/codenekt.png",
-  "categories": ["DEPIN"],
+  "categories": [
+    "DEPIN"
+  ],
   "mainCategory": "DEPIN",
-  "primaryColor": "#FF0000"
+  "primaryColor": "#FF0000",
+  "evmChainId": 235235
 }

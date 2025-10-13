@@ -14,5 +14,8 @@
   "primaryColor": "#9B692B",
   "logo": "https://cdn.snowpeer.io/growth.png",
   "mainCategory": "MARKETING",
-  "categories": ["MARKETING"]
+  "categories": [
+    "MARKETING"
+  ],
+  "evmChainId": 61587
 }

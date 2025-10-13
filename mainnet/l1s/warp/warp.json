@@ -7,6 +7,9 @@
   "description": "A full-service Layer 1 protocol, game publisher, and growth platform, offering unparalleled support throughout the game lifecycle.",
   "primaryColor": "#000000",
   "logo": "https://cdn.snowpeer.io/warpgaming.png",
-  "categories": ["GAMING"],
-  "mainCategory": "GAMING"
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "evmChainId": 299792
 }

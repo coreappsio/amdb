@@ -5,9 +5,12 @@
   "logo": "https://cdn.snowpeer.io/dinari.png",
   "primaryColor": "#07846d",
   "mainCategory": "FINANCE",
-  "categories": ["FINANCE", "RWA"],
-
+  "categories": [
+    "FINANCE",
+    "RWA"
+  ],
   "links": {
     "website": "https://dinari.com"
-  }
+  },
+  "evmChainId": 202110
 }

@@ -4,7 +4,9 @@
   "description": "Layer 1 blockchain powering streaming.",
   "primaryColor": "#FF9C04",
   "logo": "https://cdn.snowpeer.io/blaze.png",
-  "categories": ["GAMING"],
+  "categories": [
+    "GAMING"
+  ],
   "mainCategory": "GAMING",
   "links": {
     "website": "https://apply.blaze.stream/",
@@ -18,5 +20,6 @@
         "url": "https://discord.com/invite/NSJXekVH7V"
       }
     ]
-  }
+  },
+  "evmChainId": 46975
 }

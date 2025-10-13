@@ -4,10 +4,12 @@
   "description": "EVEN is more than just a platform; it's a community that thrives on the direct connection between artists and their fans. It revolutionizes the way fans can support their favorite artists and how artists can give back to their most loyal fans.",
   "primaryColor": "#e33226",
   "logo": "https://cdn.snowpeer.io/even.png",
-  "categories": ["ART"],
+  "categories": [
+    "ART"
+  ],
   "mainCategory": "ART",
-
   "links": {
     "website": "https://even.biz"
-  }
+  },
+  "evmChainId": 33345
 }

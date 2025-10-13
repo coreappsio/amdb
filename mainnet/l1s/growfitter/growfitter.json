@@ -5,7 +5,9 @@
   "logo": "https://cdn.snowpeer.io/growfitter.svg",
   "primaryColor": "#f93200",
   "mainCategory": "SPORT",
-  "categories": ["SPORT"],
+  "categories": [
+    "SPORT"
+  ],
   "links": {
     "website": "https://www.growfitter.com",
     "socials": [
@@ -14,5 +16,6 @@
         "url": "https://twitter.com/growfitter"
       }
     ]
-  }
+  },
+  "evmChainId": 7084
 }
