@@ -34,7 +34,7 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "4337",
+      "evmId": 4337,
       "rpcUrl": "https://subnets.avax.network/beam/mainnet/rpc",
       "description": "An opinionated chain built for gaming.",
       "vmName": null,
@@ -50,8 +50,7 @@
           "cap": "FIXED",
           "description": "The BEAM token is the native crypto asset of the Beam network, a gaming ecosystem powered by the Merit Circle DAO."
         }
-      ],
-      "evmChainId": 4337
+      ]
     }
   ]
 }

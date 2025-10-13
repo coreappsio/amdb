@@ -23,15 +23,14 @@
   "mainCategory": "METAVERSE",
   "chains": [
     {
-      "evmId": "8227",
+      "evmId": 8227,
       "rpcUrl": "https://subnets.avax.network/space/mainnet/rpc",
       "description": "Space is Otherworld's subnets, offering distinctive services for the needs of users. Fuel is a specialized token that functions as a lubricant for data transactions and enhances user interaction within Space, enabling seamless transaction.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/space",
       "id": "22CN6x5LAPEkvLDdz4UwG3XXtZV69Su3bcspiYtkF9k5f9rcCt",
       "name": "Space",
-      "vmId": "dkLYNQ3pAEfwcWuzC16XfT1QFVtpkZts2FMVBtvV5GXXQxseg",
-      "evmChainId": 8227
+      "vmId": "dkLYNQ3pAEfwcWuzC16XfT1QFVtpkZts2FMVBtvV5GXXQxseg"
     }
   ]
 }

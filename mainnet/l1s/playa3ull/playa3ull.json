@@ -29,15 +29,14 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "3011",
+      "evmId": 3011,
       "rpcUrl": "https://subnets.avax.network/playa3ull/mainnet/rpc",
       "description": "PLAYA3ULL GAMES is inspired by gamers and funded by our community. Gaming is changing from being an all consuming time-sink into a brand new asset class! It's time to lock and load!",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/playa3ull",
       "id": "k2SFEZ2MZr9UGXiycnA1DdaLqZTKDaHK7WUXVLhJk5F9DD8r1",
       "name": "PLAYA3ULL",
-      "vmId": "cN6t22ptqzNhvvB66z25f2eZXK92PR62fxoVYRzDw1hWsMZt2",
-      "evmChainId": 3011
+      "vmId": "cN6t22ptqzNhvvB66z25f2eZXK92PR62fxoVYRzDw1hWsMZt2"
     }
   ]
 }

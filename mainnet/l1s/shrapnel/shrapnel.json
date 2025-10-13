@@ -29,15 +29,14 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "2044",
+      "evmId": 2044,
       "rpcUrl": "https://subnets.avax.network/shrapnel/mainnet/rpc",
       "description": "The Shrapnel Subnet is the default blockchain on Avalanche used for trustworthy, transparent, and interoperable content, commerce, and community for Shrapnel, a AAA FPS extraction shooter.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/shrapnel",
       "id": "2tdRBvNEUhoD6ZWYF9b5NBdj5hHwWPfvSq1EnzvV8QU2XjLNy9",
       "name": "shrapnelnetwork",
-      "vmId": "spwf44sL7fXJDwxthqSH9S255fgLRZP9eTFpuAGaE8Q7PyZjL",
-      "evmChainId": 2044
+      "vmId": "spwf44sL7fXJDwxthqSH9S255fgLRZP9eTFpuAGaE8Q7PyZjL"
     }
   ]
 }

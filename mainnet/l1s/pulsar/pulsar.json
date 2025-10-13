@@ -29,15 +29,14 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "357",
+      "evmId": 357,
       "rpcUrl": "https://subnets.avax.network/pulsar/mainnet/rpc",
       "description": "Pulsar combines game elements of the Real Time Strategy (RTS) genre with a persistent, massively multiplayer online (MMO) world. From the former Tech Director of the whole technology and the New IPs Director of King (Candy Crush Franchise) arrives Pulsar.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/pulsar",
       "id": "QVbrD172sAF1TgCvN9DZG93nAd2YBGCJVZP4cngdEKCTy2F9v",
       "name": "Pulsar",
-      "vmId": "rXcAFxJFTumjKQSJPe2VNdvR6FveM9r6Zyb2axDddAvVZifXt",
-      "evmChainId": 357
+      "vmId": "rXcAFxJFTumjKQSJPe2VNdvR6FveM9r6Zyb2axDddAvVZifXt"
     }
   ]
 }

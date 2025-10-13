@@ -34,7 +34,7 @@
       "name": "StepNetwork",
       "vmId": "dkjnKTbCTozMmvJJETzrz8sYVs7vSKzkGShHoa493UcQEweU6",
       "vmName": "EVM",
-      "evmChainId": 1234
+      "evmId": 1234
     }
   ]
 }

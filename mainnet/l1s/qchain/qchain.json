@@ -34,7 +34,7 @@
   "chains": [
     {
       "id": "2GRw9HYnCxyVsr4P5pytpqcyRaymtnTuu1oZhuSWcP4DfJxojy",
-      "evmChainId": 12150
+      "evmId": 12150
     }
   ]
 }

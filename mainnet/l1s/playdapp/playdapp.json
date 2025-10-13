@@ -30,15 +30,14 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "504441",
+      "evmId": 504441,
       "rpcUrl": "https://subnets.avax.network/playdappne/mainnet/rpc",
       "description": "PlayDapp offers a platform designed to bring Web2 users into the Web3 ecosystem. It enables players to engage in games and transactions without the need for cryptocurrency. Through its SDK, PlayDapp helps developers integrate Web3 elements into traditional apps, fostering interoperability across games, metaverses, and more.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/playdappne",
       "id": "jAvZZkDuokp67yH8QQm4AXv1qUm3fwhxUUo2mmMsmopdgHChp",
       "name": "PlaydappNetwork",
-      "vmId": "cRJoFPANq1613xoqB9fKgNTaJG3ogR87p4gziEZjyWraPG2u3",
-      "evmChainId": 504441
+      "vmId": "cRJoFPANq1613xoqB9fKgNTaJG3ogR87p4gziEZjyWraPG2u3"
     }
   ]
 }

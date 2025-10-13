@@ -35,15 +35,14 @@
   "mainCategory": "FINANCE",
   "chains": [
     {
-      "evmId": "333000333",
+      "evmId": 333000333,
       "rpcUrl": "https://subnets.avax.network/meld/mainnet/rpc",
       "description": "The Meld Subnet is one of the key pieces of the MELD protocol. It supports the smart contracts and operations of the financial products developed by MELD in a composable, interoperable way.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/meld",
       "id": "W6m4NgS2ie2LJerquYAt7V6fVXVAMmjvYFsWWtyjDY97exGTy",
       "name": "meld",
-      "vmId": "qBNy2jVdA34ynZUSP7Q1nBQovhQHq5vfGxrKRYey9ojJia944",
-      "evmChainId": 333000333
+      "vmId": "qBNy2jVdA34ynZUSP7Q1nBQovhQHq5vfGxrKRYey9ojJia944"
     }
   ]
 }

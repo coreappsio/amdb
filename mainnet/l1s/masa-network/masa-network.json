@@ -13,15 +13,14 @@
   "mainCategory": "AI",
   "chains": [
     {
-      "evmId": "13396",
+      "evmId": 13396,
       "rpcUrl": "https://subnets.avax.network/masanetwork/mainnet/rpc",
       "description": "The World's Personal Data Network\n\nMasa is architecting the “decentralized Google” for the AI era. We are building an open, incentivized, and privacy-by-default economy for the world's personal data.",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/masa",
       "id": "2EpCcmHLNqFqbE6Ch1fX6VbgqFETtuKdn9dcBS375pXLN48NKC",
       "name": "MasaNetwork",
-      "vmId": "b5awsgDn99TGhtWXVU8YrXEyBBtuNkGb5NFjfw6LFPHYZSzvW",
-      "evmChainId": 13396
+      "vmId": "b5awsgDn99TGhtWXVU8YrXEyBBtuNkGb5NFjfw6LFPHYZSzvW"
     }
   ]
 }
