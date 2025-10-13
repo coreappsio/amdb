@@ -36,7 +36,8 @@
       "explorerUrl": "https://subnets.avax.network/pulsar",
       "id": "QVbrD172sAF1TgCvN9DZG93nAd2YBGCJVZP4cngdEKCTy2F9v",
       "name": "Pulsar",
-      "vmId": "rXcAFxJFTumjKQSJPe2VNdvR6FveM9r6Zyb2axDddAvVZifXt"
+      "vmId": "rXcAFxJFTumjKQSJPe2VNdvR6FveM9r6Zyb2axDddAvVZifXt",
+      "evmChainId": 357
     }
   ]
 }

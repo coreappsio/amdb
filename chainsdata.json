@@ -1,0 +1,1110 @@
+{
+  "chains": [
+    {
+      "evmChainId": 80000,
+      "subnetId": "2qJPnDkDH6hn3PVzxzkUdTqDD1HeAnTT8FL4t2BJagc2iuq8j7",
+      "chainName": "aibmainnet",
+      "blockchainId": "2FUHgWJcZ4j8FrEi1DsdGyq6vMWQXeQGbZLuzcU6sFAazvnrYd",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 8787,
+      "subnetId": "TfTBHvcxpBfxPntMpadskcZTH8AG5rgkrNyz2DzeByNMsZkMo",
+      "chainName": "animalia",
+      "blockchainId": "QgQ2ATB5Ca6US2jur1iPrfBtFDGNSQHXcnSzfv19ZZ2vLZSrk",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 2786,
+      "subnetId": "2Y83BEXg7zgSCJunL2KD2i1vjMfaMnU1QEpG4M7acqG44BnRto",
+      "chainName": "apertum",
+      "blockchainId": "YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 4313,
+      "subnetId": "25VdGtdQPejyffNLpTqh4BH2NABXT8Zxup6ee3B4htrMryofUB",
+      "chainName": "artery",
+      "blockchainId": "rBabVhbJKGcKTEpzm9PdpQ7ModsxNpYQZ6ALN6g9p5JKjqfw6",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 65713,
+      "subnetId": "2vL4TMT23mZzTsdkSSMFWZArFNWskR3xRWvCLxdrgd4rCe6vVy",
+      "chainName": "as0314t1tp",
+      "blockchainId": "2ZqKyxvovYxFrJxp7ETRZVioem6zkP5Jsbifq7k9GNchma94fC",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 40404,
+      "subnetId": "2r7mmEKg3R2gTD22TtErn8KD8TmLeSjVXHdwMpH2S9BESUxH7q",
+      "chainName": "bango",
+      "blockchainId": "JuQ6MoqssBjhm7WToMCC7fod4Xsti7aXgZAEVtkTySfHm1WFY",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 5506,
+      "subnetId": "4Wuefof5Lp2v5KfmJRnsGJz9HPX4UzWP7DZC5SyhQcXRQkyPp",
+      "chainName": "bangochain",
+      "blockchainId": "QUmGffHpjgMeHJVobZDjwvFKAcP5Rs5FQsURJexDjKir2Ljp4",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 4337,
+      "subnetId": "eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC",
+      "chainName": "beam",
+      "blockchainId": "2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 46975,
+      "subnetId": "j6HXQWdpRhX7yHMWLehUyYDjypHa455vP5tuiXZ81nkPgveFV",
+      "chainName": "blaze",
+      "blockchainId": "2SfshBPqRJexmqdWBY2xYSTq2Rp2dDisuax7nQB6GyNqPjSWWY",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1344,
+      "subnetId": "yPUx56ffTBML1QfomcBvwfBxfE3LSgqkBNfxTCpx5dr4NNFGB",
+      "chainName": "blitz",
+      "blockchainId": "2QGraMRcH8gEnQbLviM4ykgyY31jFfLhaEtEvPHk8q8pPfe7Kj",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 578,
+      "subnetId": "2QRKgBVT4zbcEWM4aXYRPNRazmas9on1QZodYakh1cF4RDrQE5",
+      "chainName": "bloodloop",
+      "blockchainId": "iNrFZ5vbEfURqFCQh8dF1AHvRfKnZ9gk9ksRgMHDKy4AfyYwA",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 836,
+      "subnetId": "23dqTMHK186m4Rzcn1ukJdmHy13nqido4LjTp5Kh9W6qBKaFib",
+      "chainName": "bnrymainnet",
+      "blockchainId": "J3MYb3rDARLmB7FrRybinyjKqVTqmerbCr9bAXDatrSaHiLxQ",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 28530,
+      "subnetId": "2Ypm6RVhddu5Ps8DEbb35Y1PgX4uXE76yyxn6JMhnZy8ftAFLW",
+      "chainName": "btic",
+      "blockchainId": "2pV5K35V1ohNSYhRU3z1Bud2oZys9bak7QYcmvbVvnieh4FJXc",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 43114,
+      "subnetId": "11111111111111111111111111111111LpoYY",
+      "chainName": "c_chain",
+      "blockchainId": "2q9e4r6Mu3U68nU1fYjgbR6JvwrRx36CohpAX5UQxse55x1Q5",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 35414,
+      "subnetId": "2LyJdHSdQDwg84nrbLrmtvEoAuudg41dWnhrbjMQUq78bdDHnT",
+      "chainName": "cedomis",
+      "blockchainId": "ajCDtyB1dfjc1AmJDWWDGt8R7r8z14UmhRE8UT53WuY7WfPmD",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 2053,
+      "subnetId": "2hZa4RMWAkiQAQ5zpbPSkNziYSHyCqBGeKNnbqWfJL2GKmy8eq",
+      "chainName": "certalink",
+      "blockchainId": "27xa71ERzSzir2KuPmmsAFkceVA74Xfh8Fys8SrmHjdKyj1vqd",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 33210,
+      "subnetId": "4YtJVNm6KnytRaEDeezC3mHK5FnsP75Sjgxa5eiav3sxNUQD9",
+      "chainName": "cloudverse",
+      "blockchainId": "21wWGaE2vXSeJqfYwyiMukJuP866jFfKNYkCLXmhx9SZakh11G",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 235235,
+      "subnetId": "o4Eariv2Cx1fTvPFXYofpJfS9KgwFaiGN8KFGcCeZM9t87GJr",
+      "chainName": "codenekt",
+      "blockchainId": "ZG7cT4B1u3y7piZ9CzfejnTKnNAoehcifbJWUwBqgyD3RuEqK",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 42069,
+      "subnetId": "5moznRzaAEhzWkNTQVdT1U4Kb9EU7dbsKZQNmHwtN5MGVQRyT",
+      "chainName": "coqnet",
+      "blockchainId": "23aQU1537YseCJmXW11XHjPra6bptBSps5D4xXupt8hN2QUeaG",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 737373,
+      "subnetId": "WChFQ1twkXBLxZGo4qojC9AgizFrRdMRnPCK9FZmisY7z6pUs",
+      "chainName": "cx",
+      "blockchainId": "25xjR3fvh7aXkxs36n1xRc3wLUAuqnS1wBxJD1BC4z3y6mHsEV",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 707070,
+      "subnetId": "yD6k6gVKmzFbefPcdYjsJz17KVQFSivTR1emJ5cTBvq2d8MRg",
+      "chainName": "cxchain",
+      "blockchainId": "2pzU2j1SdDuAo3XakxVXaics6zURCAMr6NxZo9wgzijVa3Baj",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 326663,
+      "subnetId": "fmmMAGwEYQZMGN7BC4b86gqmukSMEc6rAkG1SXapq3cz1W7y7",
+      "chainName": "dcomm",
+      "blockchainId": "2QJ6d1ue6UyXNXrMdGnELFc2AjMdMqs8YbX3sT3k4Nin2RcWSm",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 29732,
+      "subnetId": "2QFrcg2dZbfyQaaSvakAQyXi6bFfSFGSzvi2ELUECbXK5wCAWB",
+      "chainName": "deboard",
+      "blockchainId": "2poYwjB2XAhYPuqLHy59rdp3ceBanBvx4oNKvxE7EQzqdFZz7v",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 96786,
+      "subnetId": "2ocjsdpN9czPYmHqS4Tc5Aydj4zk2WWVdX9jdXtqvMjQuf9pgV",
+      "chainName": "delaunch",
+      "blockchainId": "8yyXaeqhBEDc7sJVTecGtdHgXE4y2EJD228SaVvEsU6ZU3Kuv",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 75685,
+      "subnetId": "2ZKrfJUwXDsp27ggtxTqhWnzV87GpHppu2XJsv2nmFkHefHZZ5",
+      "chainName": "demol1",
+      "blockchainId": "26dcgz8T8kfy4L2C7xUini5L8rrefvDhtmSaSnRHPNJ978zVHf",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 20250320,
+      "subnetId": "B7hA9WibSJu2fKdHT2XZs2RYg1rZTtxwg6cMYBKYjvcJjbqsp",
+      "chainName": "deraalpha",
+      "blockchainId": "2XCTEc8CfNK9MtQWYMfgNt32QjZsZqq92LH7eTV5xY8YjY44du",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 432204,
+      "subnetId": "wenKDikJWAYQs3f2v9JhV86fC6kHZwkFZsuUBftnmgZ4QXPnu",
+      "chainName": "dexalot",
+      "blockchainId": "21Ths5Afqi5r4PaoV8r8cruGZWhN11y5rxvy89K8px7pKy3P8E",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 53935,
+      "subnetId": "Vn3aX6hNRstj5VHHm63TCgPNaeGnRSqCYXQqemSqDd2TQH4qJ",
+      "chainName": "dfk",
+      "blockchainId": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 202110,
+      "subnetId": "2Ee4oBUute1PV5XaeS4b256eLH98r4NE8YgzX5nSX4cUxvtgre",
+      "chainName": "dinari",
+      "blockchainId": "C5GXnNHNEfDxUydtjZ5B5J6XspdAZJGLsX3u4wxCXZgE3N4Gq",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 7979,
+      "subnetId": "nQCwF6V9y8VFjvMuPeQVWWYn6ba75518Dpf6ZMWZNb3NyTA94",
+      "chainName": "dos",
+      "blockchainId": "22v7AG7h6qaVxd4bLvAsSsg2LZ4RCn5iVYgFn7a2Fj1LCuYwjv",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 389,
+      "subnetId": "q54cgHa9RN2NFp9qsfpPzVkhgn8xqDgKEQR1G997xZ1P5Dc8o",
+      "chainName": "etx",
+      "blockchainId": "2R87vuaaRZRxPLdvdMEpo7fH9qyyNnP34h4nyxuwq8sKkQ1GaE",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 33345,
+      "subnetId": "VsxF67NQTACc2fLQL9fD3F8LzJ5eezcSGFNitGsk7VxKbPwcD",
+      "chainName": "even",
+      "blockchainId": "2YnwDMW9shSuV6nuYpAhm3DE2KvYJP2GFDvUde6XG8jE5gxvpL",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 33311,
+      "subnetId": "29p4FdSKaXQPyw8sqhzJSK37FXuPHdyECau186qZSUNRhk3QuB",
+      "chainName": "feature",
+      "blockchainId": "txbozTNfyRgJJxtHmsbpvwTTWTHU739z7pX7qKdhJVxHC2MAk",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 13322,
+      "subnetId": "h7egyVb6fKHMDpVaEsTEcy7YaEnXrayxZS4A1AEU4pyBzmwGp",
+      "chainName": "fifa",
+      "blockchainId": "SUDoK9P89PCcguskyof41fZexw7U3zubDP2DZpGf3HbFWwJ4E",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 96050,
+      "subnetId": "2rQ8M43c9NTv1545VsTunmY95m8QLw8koNYawuTnMtDf97im99",
+      "chainName": "fizit",
+      "blockchainId": "tjoVGZ7f9FrXhi1QEH2NwHkPtvzmkGMPX6hkypYX6gK5YaXxN",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 62786,
+      "subnetId": "FAjUPxhRewh9vk8dSzcgRFZRLaCaNVg6gb5TcHwKsehuQ7k6p",
+      "chainName": "frqtal",
+      "blockchainId": "2v7hzVNE4pN7BpYMSkv9NCwKWy6pDoNXDhCtGR6oMRaAvCCMU6",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 62789,
+      "subnetId": "5vcCHz5fgd1hWyXaKiLnMAVjmh4qW7yFxNbASBjxCXZYE445N",
+      "chainName": "frqtalnet",
+      "blockchainId": "2JepXG35p5i21VxbnPx1eWmu5Z5EutcSXVAtcisBBJPTYzAVmB",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 741741,
+      "subnetId": "2TqrQau4E99KoUXcFjyf1Pek3rUHpDpqtN9rC5GDaCKFu7dfPo",
+      "chainName": "goodcare",
+      "blockchainId": "2AB5dDcGsw86kroZ81AZXzdez3CgA1x9uXkyQDhxr98hjrkVhu",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 6765897101,
+      "subnetId": "VzsCkPm6MjStgT2v5Qmcn5ycgMhj68rxPN4gX9eMgBbBXHYEu",
+      "chainName": "greendot",
+      "blockchainId": "8bvSiqVvhsyRLMo3osGgAwbjd8U7G4XUoTKAEJAWvowH1BHrB",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 7084,
+      "subnetId": "BCDGWbjqYBJLsXEzHNc2qy9VYPTrF3aGaSMbTGyjn7qJ7RxH8",
+      "chainName": "growfitter",
+      "blockchainId": "2PdUCtQocNDvbVWy8ch4PdaicTHA2h5keHLAAPcs9Pr8tYaUg3",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 43512,
+      "subnetId": "9ewhue9Lyryt1G4H1icgZotc6wRVwiPgmiVemSN24JXwg91JH",
+      "chainName": "gunzilla",
+      "blockchainId": "222KARi6VgSZXbewFp1BvZgyuSKVa9JPb7swhbwN9fUHFKgxUD",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 43419,
+      "subnetId": "2MbQjnTg3yxEtZBfnamboi7K9AajwNq7WExiwReBQSBtwbBVer",
+      "chainName": "gunzilla",
+      "blockchainId": "2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 7272,
+      "subnetId": "2LwJgsZLT52eAaxLTMLtBQeiUnEZuMibCqpAzJSQWHvRPs1iWN",
+      "chainName": "hashfire",
+      "blockchainId": "2vcBHFK7jiv74dyYeUCUiCsKy2jbWx6xEQzNfQPiLmYidBaDfX",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 8198,
+      "subnetId": "2Mi7V6HwKCEPxXTRG87o5tHACECkMPnJKP6UA3w1ote7j46GYT",
+      "chainName": "hatchyverse",
+      "blockchainId": "2tig763SuFas5WGk6vsjj8uWzTwq8DKvAN8YgeouwFZe28XjNm",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 35578,
+      "subnetId": "nBv88rWrKMXNGBmnwkA4P5HCRPcU1VVxenJGZnXZbc8CADqCQ",
+      "chainName": "henesys",
+      "blockchainId": "2cYaGPReo4cgjRPV4aVBPeYow3ruzhMfGFZgpxz9r15ZTjDtas",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 68414,
+      "subnetId": "jmLmezoViv3F72XLzpdmSNk3qLEGb72g5EYkp3ij4wHXPF2KN",
+      "chainName": "henesysmsu",
+      "blockchainId": "2LFmzhHDKxkreihEtPanVmofuFn63bsh8twnRXEbDhBtCJxURB",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1853,
+      "subnetId": "27mZh9HyNwGdqfkQDWabzo9BonhPSzh1qwdzaDsmPJDn1woCVV",
+      "chainName": "highoctane",
+      "blockchainId": "25friWasfe2pMdVHQAh5inDBz5XQq42a1V8DYqAGnxeKks5Bkp",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1992,
+      "subnetId": "2mxZY7A2t1tuRMALW4BcBUPVGNR3LH1DXhftdbLAHm1QtDkFp8",
+      "chainName": "hubblenet",
+      "blockchainId": "2jfjkB7NkK4v8zoaoWmh5eaABNW6ynjQvemPFZpgPQ7ugrmUXv",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 2345,
+      "subnetId": "7SeGzzeirxi9tAn594hTSmZb8BQdYzwNgWSHa9DqJ9hCUYbFx",
+      "chainName": "ienium",
+      "blockchainId": "HXf94rzeJ2HuAMWM3SbSkZZuVFgUXy7GY3coZiMpUyEoNjUgj",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 10036,
+      "subnetId": "oerPWBbtbe13eWbo3AegYUrHuSETeTwyNy7szoHJJ1QQBL9nu",
+      "chainName": "innovo",
+      "blockchainId": "vFHT9J4F6PhqCTMmqkKKUKW3yfsjd6tNvhmcK4MkFa3Pmnnqe",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 151122,
+      "subnetId": "2UEGsEEjRyMSgD7cNufCGEXbPXsma7RctBgfRw3Haqkk8oByFa",
+      "chainName": "intainmkt",
+      "blockchainId": "m4xWma3wWpxHAAKWyDXX6oqvzKUkqCXnTJTwKmTkReJpcEuS6",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1216,
+      "subnetId": "2UPuVAx5yFubvDPm6CYywT4mYAdTW3zM1XXD7R7ic8s2zQhF8U",
+      "chainName": "intersect",
+      "blockchainId": "2Ec9g5vbwwoy7MEyjmjjEjuS6FzaeToBm1KVbvDU6HeKsSNVTF",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 6533,
+      "subnetId": "x1C95jnFyLV3x8tiiCW7ZFRoRFgq9SX1Yprwfxx4GCTujggYB",
+      "chainName": "kalichain",
+      "blockchainId": "TT2vQnjSF9VZfjaA5dB1VNKVdqkVCDzSncxaMcGVwYedGaMG3",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 379,
+      "subnetId": "pchqewRRQHwx1B3XJEq9p2HGSdjrHsyv48YzVUWXZbrmH4TM6",
+      "chainName": "koroshi",
+      "blockchainId": "26Ee4Lm4R1bQbQLQU66exLiWgSC9qdDPJCvFpzVsd3raLrHBGZ",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 10849,
+      "subnetId": "2hoHzxcZktxrTNoqCZhR9bEctc5oCuBqSp6SpRn6uvwxzLkvnD",
+      "chainName": "lamina1",
+      "blockchainId": "UhReZTXT8Cqsjat9ghRtCe5kBQPQexQB5zG5Fvf3egrdYfyoJ",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 10850,
+      "subnetId": "2T4gpnissLkoezQ36XKxhrFAH5yynqKGa1u47XxCYTdfvePuNz",
+      "chainName": "lamina1id",
+      "blockchainId": "hR6djBP7uMGJnXrjdUic2rzvvuuMpqMWNb5us7j8xgmj6Ck2N",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 50776,
+      "subnetId": "f6ewGNYxGRjQ1SFfhL2tiHCMHzz9AHdTuPe11dRNarGbp3dES",
+      "chainName": "letsbuyhc",
+      "blockchainId": "29vwJsYDCuAHpCCGkvvWh8K2MiHAyCXYKUNobCMg4c7ZQvSkJu",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 72379,
+      "subnetId": "fZu9D9Ldxq9svbgRNdycWCSbLyEZLmTfKNxEnSqF3UXQztHP7",
+      "chainName": "loyal",
+      "blockchainId": "2rpeyPqn1Th7WsebmecpHgQEvFHWq3vzrcRi9vKgMc32rTjUKX",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 62521,
+      "subnetId": "hbP3PrnQS71Py1VVxvHfnCnr7MWos3XQesEsCKQoA9hpciyVR",
+      "chainName": "lucid",
+      "blockchainId": "2vmiAUCfkXd67jEq2GQhzVgTfNs3tpUP89agEEvnRK7urMVpjb",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 17177,
+      "subnetId": "2iumcj2wiV9BQ96LRHpYNpD1SHhb8Vcvm8YUebZSqcFeJakTo6",
+      "chainName": "lylty",
+      "blockchainId": "2Ldubr6779M2PWhY3ECsBx5kb85pGY4euCWZLdaaE9o7ocSHMC",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 5419,
+      "subnetId": "sZ1zmoQx3NeV8WB5D3np8xYUJ2p5hKfWFXDeuSGvxyZkCABs2",
+      "chainName": "marnisa",
+      "blockchainId": "2CLqZNxr9j7w6DDVZEixybcBhMrkUeB4Vff3HLrfF1fuS7M6FK",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 3454,
+      "subnetId": "P8teobyNzpvniT7XGhXdEnkXiXvkk3eM4vSYtHUTAJcuV3jLb",
+      "chainName": "masa",
+      "blockchainId": "rhNQ1LGD1jSwU6wP9SpYUthwTW6F13ZGUpDvseszuiy5trGsY",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 13396,
+      "subnetId": "yEQe3LdJgjxBqG28gRjLUu86qFCcNbWnkPtPr7ZHg8pLx1SUJ",
+      "chainName": "masanetwor",
+      "blockchainId": "2EpCcmHLNqFqbE6Ch1fX6VbgqFETtuKdn9dcBS375pXLN48NKC",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 333000333,
+      "subnetId": "2ibTg9ruyJRQf4NpRbkd1Utcfayo3gRRpkoWGCWNC3oXTZoYCe",
+      "chainName": "meld",
+      "blockchainId": "W6m4NgS2ie2LJerquYAt7V6fVXVAMmjvYFsWWtyjDY97exGTy",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1888,
+      "subnetId": "2sF5Pb165jhdeNSy2kT4WyDYazu3buh1WGh77oTBA9dDjBPtsy",
+      "chainName": "memoria",
+      "blockchainId": "kyY16vnR3Wc77KCsghGx1c2JM6FRKSP4EUxdfe19qE2az5TPC",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 74601,
+      "subnetId": "2AoD4ut6sXc7ZXVXbmDVb3QwUpuReLPkTTzbLrafTQ5QhtvPRu",
+      "chainName": "mi0624t1ms",
+      "blockchainId": "XhEQdB5GXX2yHD66qUWJLeRVntGTJyFXjexL8mWE7nXhXS2Jg",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 53849,
+      "subnetId": "D3s1GVeZfhWwjDrMLbcWUo5GF6t2CHTipok9o96hDJRgAS8iD",
+      "chainName": "mi0624t2ms",
+      "blockchainId": "2Zn7rkMerfxBfqRgcrpLTs2e7X595NN8jDPCu8qMkYxmp1sMcj",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 50476,
+      "subnetId": "JAvcXjdGsBHr8uPgvGaVvQzVCBpbv3nxAJrJUd7X38cupD2tY",
+      "chainName": "mi0624t3ms",
+      "blockchainId": "21Wm18bBxuvDgLfsCqBra8PRNVFBxLZzLxZ2j3JXDTdf6Sm8QM",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 87062,
+      "subnetId": "VHnb3J3W1tSPkRdMFSMgaskKyYd4fSfkjCBB6W8nKdDj2hEnz",
+      "chainName": "mi0624t4ms",
+      "blockchainId": "gsMae3bMogSUpn7i2ogeCJbY6HtrP4YY6sfv85BRa6Kyr5UUa",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 2718,
+      "subnetId": "2kyZRnEHakKriNufphojbeFR5hi247bJeTjFDgQgo7VRRjoqyq",
+      "chainName": "mirai",
+      "blockchainId": "Lgiwfx9L11MLt8RD5Aj7SZ5kEcWQz5NnyCc5hDd5k25J8LoxM",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 29111,
+      "subnetId": "LbvSkGmUJSpUby1gUrk4g9mmdeZQWcVGiFCXv57CJHBrxxEos",
+      "chainName": "mugen",
+      "blockchainId": "2GiVhBPR19ZaHYQivmheYv8RkEBjfdu7AyDvSocbWWjR4gz1qf",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 49755,
+      "subnetId": "7wfzTn2ef8QjPtUMvJyc6YzxGYoDxKeQ4Mc5t6aewLtwDTezw",
+      "chainName": "nightshift",
+      "blockchainId": "ELkY58nQg6oPdQYcDaKorjJU9mCiuoV2TwgLMMnswzjRnNEcP",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 10507,
+      "subnetId": "2gHgAgyDHQv7jzFg6MxU2yyKq5NZBpwFLFeP8xX2E3gyK1SzSQ",
+      "chainName": "numbersevm",
+      "blockchainId": "2PDRxzc6jMbZSTLb3sufkVszgQc2jtDnYZGtDTAAfom1CTwPsE",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 8021,
+      "subnetId": "2nCzBViQ5jxLaxkg9TABx6oXu1UGU7chM7G6XzPvW9ehP8RfrJ",
+      "chainName": "numi",
+      "blockchainId": "2c1BN4N9qEhNmW4yCpeLK24SfjFQLyS1Z7FtgRDaYxZWFUUKxf",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1188811,
+      "subnetId": "4iDWVgCCSu4Tafpg4bdhxu8q1ap8Rp2hMzG4UPxUhL9UVX6iU",
+      "chainName": "numine",
+      "blockchainId": "2vEit8MMxLNNfbMdoiBjvFP7MFwPwo1YmiLaBBxQU2YRGvdjJx",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 5041,
+      "subnetId": "2mBbfPEFbdEqeaBvRLgvmQQA3cG5mbpqbC8fcXCTZaycXZrXDq",
+      "chainName": "omochi",
+      "blockchainId": "2oNTBWEqxBjxWFj8vdubco79AeRwHcDyfveh7Aurqg3Q2EwMA9",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 5040,
+      "subnetId": "2QiTdY87qfDRav1pSdxkGMqjRD6YXFscVd64W3L3V8v4re9CCo",
+      "chainName": "onigiri",
+      "blockchainId": "2pdeYfs5hRYDM63ETuPN9YFWohEXehuhkAMsvYETyrsjbReK9q",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 58166,
+      "subnetId": "HXtMMwc6UwS8zK1G3kA9u6NGtUHrm56cnPm2WZBCU1bs2hHsM",
+      "chainName": "oumla",
+      "blockchainId": "3ZtS5VvsATbGWZhs2ymHNCmVkRVwW3QxhwbTtwxWK3XXVopsr",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 7776,
+      "subnetId": "26NzZkCTeUHfqdxRcUXDTAurNxDsT6mYLwSEqTz3s11G1rQV14",
+      "chainName": "pandasea",
+      "blockchainId": "2gYSmRb7tjS4wb5FHFx8NBhwQgARWEdr8MGVC7v8UWJJFkEpTj",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 3011,
+      "subnetId": "2wLe8Ma7YcUmxMJ57JVWETMSHz1mjXmJc5gmssvKm3Pw8GkcFq",
+      "chainName": "playa3ull",
+      "blockchainId": "k2SFEZ2MZr9UGXiycnA1DdaLqZTKDaHK7WUXVLhJk5F9DD8r1",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 504441,
+      "subnetId": "2bSdrPJaGvsDFeJtC7v9ut4m2vLKBgs2dJzRsDpxYKbqTyBmr9",
+      "chainName": "playdappne",
+      "blockchainId": "jAvZZkDuokp67yH8QQm4AXv1qUm3fwhxUUo2mmMsmopdgHChp",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1080,
+      "subnetId": "T6XNCf5qHYhJigDcGtjTaGvfiQGRW8JVXTyPza9eZBfCGyDF",
+      "chainName": "playthink",
+      "blockchainId": "2BfgPNjJhrirnfeLD9bkNbKMwWvernQkQFNYnYTDHnb6kwNRJe",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 16180,
+      "subnetId": "axp7DUSPvFghTM883ug2B8btAReBAACxD1VyENmRDStH4Lfed",
+      "chainName": "plyr",
+      "blockchainId": "HUwWdyoExrb1HgVp5X5sh3AWqhYFnKkfXBfGmGL3qjDsnMoR4",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 357,
+      "subnetId": "DxanjptkyaeM1eUew2gzUMngHM3n5ttUyMj7BuHw9riXh9pJC",
+      "chainName": "pulsar",
+      "blockchainId": "QVbrD172sAF1TgCvN9DZG93nAd2YBGCJVZP4cngdEKCTy2F9v",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 12150,
+      "subnetId": "26wQKuvA5kjwrKDaje7nmuJAx6Ke2bGvDDr3EiypNr53rH1pMc",
+      "chainName": "qchain",
+      "blockchainId": "2GRw9HYnCxyVsr4P5pytpqcyRaymtnTuu1oZhuSWcP4DfJxojy",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 89043,
+      "subnetId": "63toLWYNBLvCZvYqRArcVo6jxv2PUPRWM39pRc34ffGTe2bPu",
+      "chainName": "qi0207m1mp",
+      "blockchainId": "UyegvLmBWf9yw2ZRUM7jGmmjaPi8jgXdcKkRGsWkWLbvw7TNR",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 48394,
+      "subnetId": "2PkFwku54MGMqUuwWwiEnt5pgWE51DHQW9hAePbsnPdxAbtiG",
+      "chainName": "qr0108t1ms",
+      "blockchainId": "2KsEUM9REjqmoydbgvug2u72wzWk838n5nwr7dqatmizGCr59n",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 79807,
+      "subnetId": "PbPEQ8tMmorrRpt46HeZXMd8tWsChADw3LVcbeXnV8Dzt7pQH",
+      "chainName": "qr0203t1ms",
+      "blockchainId": "s7DQkD463M1YqjNHJhfwUcHVpzZqr8WgspSeLFmkMQWNbVWFq",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 82728,
+      "subnetId": "2PCfLUzaSPx3fXWv2itkQS8wuJi9GLBTzzxfByxvj3gXX54vBw",
+      "chainName": "qr0203t2ms",
+      "blockchainId": "C77KJ8EkrJVwks792KPEsZLwwTXg9UTMsWFF17V1ZMjsnZDgd",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 31215,
+      "subnetId": "2np4VHz1c31SjmiMmtSZ27VswzDhKZThznVRXX9AzkD37BKfNx",
+      "chainName": "qr0211t1mp",
+      "blockchainId": "7YQA3Q7fdaiMR2ZWPnHDmDbBKUypdursRUSvPM1K3WisJ5vHk",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 28461,
+      "subnetId": "2jSd7RdKVoqVQoUjuvJBuMPancYJ3CUcLLdqfu6RFocHyxxEQh",
+      "chainName": "qr0211t1ms",
+      "blockchainId": "2CPbpgAnKS28mVcV8YR4XrQmhjmdijwsoEQNvLbk3zK8MzT8XT",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 9850,
+      "subnetId": "hfN9kmYmMDR8sHoXGkAS2QLaKz2TYtDV8CHBr6NXrfQnNDKFu",
+      "chainName": "qr0318t1ms",
+      "blockchainId": "2pR28dLA7KxVioieqLwg7BrbQ3RjX3MpotiHh6kD1g98YGzjiX",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 74719,
+      "subnetId": "dvqEJ3jJQmQ1N7ykvqq6TWyKu47q4yXmdZqaeMo6795GZmHUf",
+      "chainName": "qr0408t1ms",
+      "blockchainId": "HVPGfG6F8EXsL3bDpE6iVcbaYFyZTcigHxDvpbFGa8P5PeZFg",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 91792,
+      "subnetId": "25HsT5NZw5hrCZBgi7zqafWXyDqbU3yCV4xuA593qU54XQecy4",
+      "chainName": "qr0523t1mp",
+      "blockchainId": "zPGjGz8LEj9k8jwDwME4MrYiqgx4iZ3L3PFZnh7bWg7XV3qRG",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 24127,
+      "subnetId": "2FKZhsPScXjdoAqL6xf9z7Vgqyh3yRpkFFGeLTQfDeQ6JZzyEB",
+      "chainName": "qr0527t1ms",
+      "blockchainId": "2oVuw1XAakaKX5Jqc1Q4aFDTozb27NAA6mezhYKbpPNtFMGVkt",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 59434,
+      "subnetId": "91HAifNFJZq1TaiurGA8jaFGnbA7pkYzJ3kcDSSEJarRwAt56",
+      "chainName": "qr0528t2ms",
+      "blockchainId": "2kE3oCW3Bc77KrDxutLea1tbzkvxnXCshNExj7h6YKKro7b96G",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 83620,
+      "subnetId": "2SWquk5bfTpXLrBihfFVLmg4QksBNAuDfFASAZbT2cHmbeaaQv",
+      "chainName": "qr0529t1mp",
+      "blockchainId": "C12ogRsjQZgDQbE19NenmLVT4kPmUtoFc646FJuXvu93YFw71",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1375,
+      "subnetId": "25RptLzxD9NWBtwHRdA8vSAmQmkB3zgcH1vVFHS9j2v7RQukjQ",
+      "chainName": "qr0606t1mp",
+      "blockchainId": "2ZpAo79FqGtJ28J4gdrpE8BoF9QkMjgq43TL9o9xgCQPB14qVU",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 49900,
+      "subnetId": "okR7BjR3cg2bYMTETouqegfDd2y6eDjGRJAfCwUTVZk4DT7zi",
+      "chainName": "qr0606t1ms",
+      "blockchainId": "tVoHDu8xUutfXeyJWB6mXWhfVEfvkSjwuUrm7Ydfbj6vw2WiS",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 27480,
+      "subnetId": "ba2bjrAsHrLUE9WkjbmCBvqNf3U2v1nyGB7sc753xTzfjRpTZ",
+      "chainName": "qr0609t1mp",
+      "blockchainId": "2p7XVVapxG6zAHbhRA3cab5FKNafFXJcBB7MBtoaLfJfM3SLjU",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 77593,
+      "subnetId": "2UBZsRpnikx9UiendquLXB8K5DBWNcTWB3ZewCcC8sPsHPzzej",
+      "chainName": "qr0609t2mp",
+      "blockchainId": "JD4XqpgYP6Tnee519seeSpnH1g7sg6wA386Bge4BamfugMTix",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 62381,
+      "subnetId": "22q93SHdfeHo9MQkeCk5oWVgfn4EKB7PqTWNw99deeHYUYeNYS",
+      "chainName": "qr0609t3mp",
+      "blockchainId": "2L9f6Eyuq5nMJqBScnhdKSyrVyLkmHV8ZQPqacaJzmHwwxvuCx",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 88265,
+      "subnetId": "2WArg2RRp1KTAGV4qpKxQJDXEjFisjKphodYdz1JBuWwooEygb",
+      "chainName": "qr0609t4mp",
+      "blockchainId": "wwMMm2ya8FSRqyzUv5UnoFA4gQkFULdXtnfziKeetvBoBkpnV",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 37625,
+      "subnetId": "2uyWpY3K1xwELQDm7patnxMYdQz8nnbcGrNaeGN9tMwCpMQbAg",
+      "chainName": "qr0609t5mp",
+      "blockchainId": "25nXgpm8c2VZevQ7KTUxZkZJD1TsDRDpJN4QESZ7nXRBknTqrP",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 36593,
+      "subnetId": "9X9K31xVvP4FhQTrhgEeCxjftMioNBm7uZcjnkdwsepYTBTxP",
+      "chainName": "qr0609t6mp",
+      "blockchainId": "C7SES5SddXcYs1cAZaL78FHbhThP7ye9uwn85uNuADthLXhyL",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 21272,
+      "subnetId": "3eCrhhxBQdRWWu6YdQMaHRPzLLP7AfVbAHxWdXoxqbgTvcoD9",
+      "chainName": "qr0617t2ms",
+      "blockchainId": "2eQpCd1dwDz2rmN6PGUxKxdKV9EdssHraMhQ5LNgza551iezvL",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 37759,
+      "subnetId": "1QH3cyAQURoD6h9VbDomPzW8h3tC7MJDs93grVuSJNXmff2eL",
+      "chainName": "qr0617t3ms",
+      "blockchainId": "DaCdjunN17gNXyWjyooVrkyPjWfp3oCSdAo4DePNx5y6SmwZP",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 20726,
+      "subnetId": "suLYgJcRcsdytVDpXJfPgrRWZt4tBSP6SZaxZNgByocK7zKJ7",
+      "chainName": "qr0618t1ms",
+      "blockchainId": "8RnNAJrLed6EZd7yZyvqjc3PTk2H2Uqa24S9MAypeviV5wb5a",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 86611,
+      "subnetId": "2Edt56XSexAyk59J7EvTNfNyYssERhASQRramxZNyvDiENmcmh",
+      "chainName": "qr0618t2ms",
+      "blockchainId": "WSpXS5wxUG9EfjSdt1b5odPyp1VzUxiyWJvPzwVsWmtnJ2wN6",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 87189,
+      "subnetId": "bjhcBUSYwTiPZxzgGEtQybBiWPniafXy2dFVk4z7Fate3ZbYz",
+      "chainName": "qr0623t1ms",
+      "blockchainId": "sgb7i2DuEAT64MFLkSR6CWfVMGTzCA2bvFXbLkAB7etu2YZmH",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 3062,
+      "subnetId": "HoJRJDWQx9LdCQuPJVkYap4XHUZsudHMj19aTAkKxob4Wf5Hb",
+      "chainName": "qr0623t2ms",
+      "blockchainId": "4UguwZVugzSzFvWjuECU1ueANav8oLAM4ewWAqiJgicn9VkKr",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 76683,
+      "subnetId": "E2FMCPxuUCtA8xotCw6uxQ6qBkNLGAWkdWPBotp37KrESWQDp",
+      "chainName": "qr0623t3ms",
+      "blockchainId": "PzBpFiuu9QLvWrZxd3UqoCqPnxPVYZDBo5etFYmhFcxr1q1oM",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 91900,
+      "subnetId": "4g4aPDjZen4JZ9RXWKUYnJ3iTakd5KBeDc4HutEJAsJsZ7uV4",
+      "chainName": "qr0623t4ms",
+      "blockchainId": "2FHtnP2JotTRhuEQ9hbAhSUkE8TqzQzPgYgxoBNG5paFowA9af",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 923,
+      "subnetId": "82Jqc94ZDXQdVhgAXHDMwTPkGpgNasqUNgd9UpwEcV6xzyppA",
+      "chainName": "qr0623t5ms",
+      "blockchainId": "tyavqQfKFiE7aab5urt4vrkCDD7k56NQ1pfsstJCW6Nd5NoDX",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 83414,
+      "subnetId": "C7egCB9aB7zrdhDyBPb1xaFcdxVBgrKbGeo6MAJum3juc2bAX",
+      "chainName": "qr0623t6ms",
+      "blockchainId": "2gqxrt1FCzYpkVkgW6TcSA3ptCWfDGamn5b4PL76toXCExh1YP",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 61849,
+      "subnetId": "YGmemTf6gvqscnztTGYK5TdJVfKQrRMm2o67Nete4rz9snrzs",
+      "chainName": "qr0624t1ms",
+      "blockchainId": "2tbSdDLKSbQWctDhBy31cYnmADMiHy3uMnRQhTJoNJcx13pDpo",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 75887,
+      "subnetId": "woujh9tFzCjBUXaE4ibwntmSwu4eoAW53BBGmqSpe3n28MmqM",
+      "chainName": "qr0624t2ms",
+      "blockchainId": "2oEMviuENDcwJkQqFcbTmxjQHMb9nEsRbxcondkHHymorPcF5d",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 66005,
+      "subnetId": "2Huo6TzwHkvpTiKLQAWsgZ82DJgAacWaHZnwKiEWCFnsHdTPxZ",
+      "chainName": "qr0630t1mp",
+      "blockchainId": "2P6E7K5tJWMGNvDEMHoMcenbktA3bUVHtzmzfdF6GWZjqUjFmc",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 51206,
+      "subnetId": "2aXFJUbgtP7PccY5Sz5RHM6enV9ZvLv6gE4E1fhq2w1kiADwv9",
+      "chainName": "qr0630t1ms",
+      "blockchainId": "kz1BXBp7PHyV246E28y8jRPz9BAvd2iqvZicu7USsZsfbW7hk",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 12087,
+      "subnetId": "TnR6FmcW4PSCk4DiqaQAGhRsYEkJE5bvTAswYH3tWt6ADpajR",
+      "chainName": "qr0710t1ms",
+      "blockchainId": "2qn2cvsCdgp9ZwHXjS68YPYPCspSxFQ2uL8k1GmV2jTpup4NQx",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 24513,
+      "subnetId": "2R6ZZqzZyqWze8F6E6JWzs1GZJBQdkG6a9PPS6qgePk7MM73qf",
+      "chainName": "qr0711t1mp",
+      "blockchainId": "tkfaNJvuPU8LxLjMRSP3XvoU7khfqZp1tU1peZ83zv9ysNxfZ",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 58168,
+      "subnetId": "2NML1KySPw4RkfxamxUmF9UH9WU9Mkp9iDscxqBZP2pqscgqRx",
+      "chainName": "qr0717t1ms",
+      "blockchainId": "22utJMBfgNYMUTSqidPdUDEJpD5AvPsL8VAhxm2yEx5jGjLKxf",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 936903,
+      "subnetId": "nur8sATqR5dCeCxk9quXayf16MrywGFGS3eF4GnEmbWmyNGsv",
+      "chainName": "qr0719t1ms",
+      "blockchainId": "xrbkk3pz7EJT3HXLJqZu73ijEyJx9KFhSGyC1cPnVpQtc414P",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 77757,
+      "subnetId": "TsijYHafTXCUZGoisGnMorh2HGwY9Vg2YzviEo8nrmtZZESp9",
+      "chainName": "qr0723t1ms",
+      "blockchainId": "28Z2DcNiiV6dD5LAm1KNZGBmpbokWaHVBaTXV9HoUCh7o1ahEc",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 93638,
+      "subnetId": "2erTxKQfG8BbwKAUXnpWkiJMiQKZ1tVHjRwbupZYd7io9XNM2f",
+      "chainName": "qr0826t1mp",
+      "blockchainId": "VijJkHKeTr2LAvz5wxezf5HHc4gAo1EyY9yenU8YqJaCayNg4",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 931499,
+      "subnetId": "2u4CdtuzwT2AtS8UcZYWAiB3sVWrSJVyD8QQMR3d9wmGAXZo5v",
+      "chainName": "qr0830t1ms",
+      "blockchainId": "tmX5HjBWUBRzy8wQd7LE5CFMmimCQDz5WH14QzdYJMxcVm1bC",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 64764,
+      "subnetId": "Ct2mwtK1PQpS27WKuRjR5cqHFBJxZVsDd1q1kiS33bG7cyiKk",
+      "chainName": "qr1125t1tp",
+      "blockchainId": "C4PM2cZiTJ37TLS75d68HPk1SX9S7qxQjkdiKPLE5e58BqZgr",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 95251,
+      "subnetId": "2fpvGFWRcax5pg6SuVeY9iWphJFxDcgA6ScNv62WkV3wSPNiqb",
+      "chainName": "qr1127t2mp",
+      "blockchainId": "tZnDbX8A7ZzubWY664XQkzMF8UU5jZrpfPNiNeX8vmqBbvkFf",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 57759,
+      "subnetId": "22JVyUQPXbum5pK9WqC92Qyz9cmwW11MmKXAGn4m3G5TGBvDxd",
+      "chainName": "qr1218t1mp",
+      "blockchainId": "2EDqG1P1MSvtaXUmdQSA9oSMqJWtWVhWFmo45nhdcsxEfQcrHV",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 7766,
+      "subnetId": "bd4FY16fF5pd7iscMFTtb214Yya1kbrLow1XMyNeb3ZY3fFXA",
+      "chainName": "qr1219t1ms",
+      "blockchainId": "uxT4KgmtktYoK8W7nRgXUqkMmh4RJEtkYzB7wS3RzLYyZoDEr",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 912888,
+      "subnetId": "8memoZjjcw3PoJzr8DSUorQkr45DqgEvakLA41tfuj121ziMu",
+      "chainName": "qr1223t1ms",
+      "blockchainId": "25baXcGvNQe5DhTHej9xjTiuzFTvnjaky641Qi8csASpuPqphu",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 64273,
+      "subnetId": "nzn8Jhci2yYVnKSTzEjADD5UUx9pEa3kPizEoyrv14e6iaZ7f",
+      "chainName": "really",
+      "blockchainId": "2gPHVXPoDvbt6MFUrGBYV5mApC9Y1Xckhdpr31cHzjcJyTAgrZ",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 111003001,
+      "subnetId": "2v7aLktZroWTwcSPHkN6gSDjzJCDuAsHhHpRZTMKiqnegwG6sL",
+      "chainName": "rymedic",
+      "blockchainId": "2Zqzt687kQ4G7RiWYKypiWrid4ZPrFW3jg9Hy5SmNAVgebB2ph",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 111001001,
+      "subnetId": "qWeo55RT2F7SNoWtVUuAGptPoz23hViLthjHHaj3BsV2pv7TM",
+      "chainName": "rymedii",
+      "blockchainId": "HnECQEqpvvXcBF9Jup1ti1XMowQGrSWiQSkKdwcjxEbzmTHMC",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 111002001,
+      "subnetId": "LThVFg2aFviak8Ranf8nNX4UAEtLyzhyCNY2AQdXbgYkJdQTM",
+      "chainName": "rymedit",
+      "blockchainId": "2PKgDmUGYJEV3gSBkvM7ztJuSk3g7omGjDjHdQR28Tv8JSxFBK",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 69743,
+      "subnetId": "ptTCeCUV7PiaDXJxpSkjLah22mtekH4uGnQy5k9KT5ee9865g",
+      "chainName": "scgk",
+      "blockchainId": "icrB1LbWxZtfJEn2XvPF4QtUa7AFrgsohu797Pksyzbkb8dmu",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 2044,
+      "subnetId": "Cv1gyKNUtPNAtFw8YcjbsD4a3HNRbNvinY7t2gnGK4J54rQK3",
+      "chainName": "shrapnel",
+      "blockchainId": "2tdRBvNEUhoD6ZWYF9b5NBdj5hHwWPfvSq1EnzvV8QU2XjLNy9",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 6119,
+      "subnetId": "yDxaSh2hoVxQKRHmacV1xFpuSgHf6Q6cCMu4v3GoLQnqQWk6L",
+      "chainName": "sk",
+      "blockchainId": "2tsFdSeemtqK9vaPgjPrcwvKFKPw1T6PHufaZ26tKbAFSkXPTE",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 9899,
+      "subnetId": "2An23jRoEGZc5Fr9CQSw4vNnBRDX5Y56F27ChYz9Sa5Bg8L6JK",
+      "chainName": "solert",
+      "blockchainId": "2wPK7ouBk3FDdv1RzKBKMQfLF21vxZjbNhbzyeLdJfedcYv8v6",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 8227,
+      "subnetId": "hkugVjqegihrQcggCnScNW8yQctyY7Z7oj2Mj5tGxWGXNa5iQ",
+      "chainName": "space",
+      "blockchainId": "22CN6x5LAPEkvLDdz4UwG3XXtZV69Su3bcspiYtkF9k5f9rcCt",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 1234,
+      "subnetId": "7f9jciLEX25NPJEaAz1X7XF44B1Q9UBwq6PdnCHm5mnUq1e1C",
+      "chainName": "stepnetwork",
+      "blockchainId": "2jRZvKtXY5nyWTqRwFh1KMHGrCRxJoULu4r2CsayWRnjdDGbV1",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 5566,
+      "subnetId": "2W9sERL7Zf7NrWpz7Bzg3fKSEt46gSQaKAU7ntTMSShLy64yMz",
+      "chainName": "straitsx",
+      "blockchainId": "EJ4DyXHe4ydhsLLMiDPsHtoq5RDqgyao6Lwb9znKhs59q4NQx",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 62707,
+      "subnetId": "V9cD5JH4TYcw9241zgxrXXEj3k3rZJJLNL2UEPv5ujDip1m3m",
+      "chainName": "tele1",
+      "blockchainId": "ABZSWmFRFR6bujjQCvaoe8duUJhPcLCccDx76ssY8f65PTtqh",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 70953,
+      "subnetId": "2BNnJuF7QiSjnEhvRStKE6ksugnAyF1e42j3u6VWMCL4c8D3bJ",
+      "chainName": "tele2",
+      "blockchainId": "2V27BZNRQVNBbEsJevF2EXMp5N5n7ah1SuAUDrZ3A7fkCcFodY",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 61587,
+      "subnetId": "2eq3DtJp4cWzvGd8Q3ZFo8VpZmmD235Xoxgq6CmX8anZ69M54",
+      "chainName": "tgp",
+      "blockchainId": "2DnTLFrwyrvDDdWWzXBZqnNZXsHbLDGBU2kkrenaF5M5xFgbDY",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 710420,
+      "subnetId": "23LsHpx3wTPtNC4PUaTdtNQkaGbLxwiGimnZjHaUc28qLHs7Dn",
+      "chainName": "tiltyard",
+      "blockchainId": "2cJ7FyNoqigEGoM7m8p4PY7a33B2SQxV8P7VuUVJZ9y5otyqNS",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 84358,
+      "subnetId": "2LbGgyVZE5aMMYPp3h1F2MkKbjefR51nSZWaZzarDZf8GThCcX",
+      "chainName": "titan",
+      "blockchainId": "24gRTyzFmXUPebVwzQHuwU6RFeKHHDxRftRVaSAe7MHRXWxZ4S",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 13790,
+      "subnetId": "2BLtazsGwYAFEHpvZQGQUPavjQZ2YUqpvfYPdAdTtKpJ1m3eRK",
+      "chainName": "tixchain",
+      "blockchainId": "Bb5XKrQoBT6ypFmFUppAqfSmKCqcqYwjGCn3hHS6gibRTjiDj",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 21024,
+      "subnetId": "JD8MbaUp75twdVJ7A4j2ryk7gFJ8FCgQeNLhvDv3y4up9bExp",
+      "chainName": "trx",
+      "blockchainId": "2L9oVyCkyqMgrwVS7CFkn21KSNWeD67dH6uzjw3LF6ErDhzAjK",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 237007,
+      "subnetId": "sopy3uXvCFVLorg4kmqQfZpqVg9GXzs8GmjSwM18GZJtf66h6",
+      "chainName": "ulalo",
+      "blockchainId": "2uN4Y9JHkLeAJK85Y48LExpNnEiepf7VoZAtmjnwDSZzpZcNig",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 40875,
+      "subnetId": "kf1sMrGJSA2x9yZfvjBJCHu3ZdTievrCyrbEEPKXbHMH2tXuA",
+      "chainName": "v1migrate",
+      "blockchainId": "2bfBt8cBikMAPQER52FLkRDK4WoMhr77rqHz6WxvRCRmt4A7Cs",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 25726,
+      "subnetId": "rNQNzPsd7G1tm48jDXxb2inZ2zucMivTiygiaUg2RMYMfYozy",
+      "chainName": "vocational",
+      "blockchainId": "4Ci8kcWroGE1rBWUJXxEsdcJiWrRtePph32mVaNeBUDRCPrBv",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 299792,
+      "subnetId": "9L3hT5PtJVhiyJt1FHVqeJKtguyTM7V98KZobBeCUhYCQEHeQ",
+      "chainName": "warp",
+      "blockchainId": "uoVf4pQ3KkaNqAz76ZrmYYeGSJJJSuVR4Wv72BCJR8Eyq2iF4",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 192,
+      "subnetId": "QL49tBK9T84NSHQYYSP33Ru7h1KcybDR6MGA8dARVWhw1zLB8",
+      "chainName": "watr",
+      "blockchainId": "EypLFUSzC2wdbFJovYS3Af1E7ch1DJf7KxKoGR5QFPErxQkG1",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 98968,
+      "subnetId": "hqqtt4VGmzSACDn2yYxTFMhHu9RpFTECEhbexb4bXu2w6Pxtf",
+      "chainName": "wow",
+      "blockchainId": "2MvLKR8AP3tz1yFQhLRnHBWrXFR4wfojysCHMAGuJVvb8ayRNK",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 26935,
+      "subnetId": "Eax96S3KFyMs1CpgdmuJjzR1DngU8iKR8j7ugJmx2fvLyANf8",
+      "chainName": "ww1217t1ms",
+      "blockchainId": "22LLLpHeVi3URr3ufXDfWDLBSe7bQUjGpo2AapBCXC2BuenoVF",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 8888,
+      "subnetId": "ii7zCu8JNnYYgPT8PwpVYiTS1gcK5RWJfsyuPXTDv8Bn9wspY",
+      "chainName": "xanachain",
+      "blockchainId": "2MrmXmx4nrSn5BS3EAtWg5Pf9madiBoN7MRaByM88g49VArjDt",
+      "network": "mainnet"
+    },
+    {
+      "evmChainId": 27827,
+      "subnetId": "nKJuE11HePLrmp391sfoFVqZR7Fw5VJ1XjyznsogsjebxwiAg",
+      "chainName": "zeroonemai",
+      "blockchainId": "2Xj6iZeySuuUTZR5jYjhQ7yQ84q8AtDWnAJ2vS9BmmXBNJhYD1",
+      "network": "mainnet"
+    }
+  ]
+}

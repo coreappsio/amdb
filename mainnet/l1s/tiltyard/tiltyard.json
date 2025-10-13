@@ -31,7 +31,8 @@
       "explorerUrl": "https://subnets.avax.network/tiltyard",
       "id": "2cJ7FyNoqigEGoM7m8p4PY7a33B2SQxV8P7VuUVJZ9y5otyqNS",
       "name": "Tiltyard",
-      "vmId": "eBBp8MuVsdcUj8MioApg74QTiBJdGfNPyVAVHKYJVvfxMAFQj"
+      "vmId": "eBBp8MuVsdcUj8MioApg74QTiBJdGfNPyVAVHKYJVvfxMAFQj",
+      "evmChainId": 710420
     }
   ]
 }

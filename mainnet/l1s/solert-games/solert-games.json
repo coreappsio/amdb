@@ -16,7 +16,8 @@
       "id": "2wPK7ouBk3FDdv1RzKBKMQfLF21vxZjbNhbzyeLdJfedcYv8v6",
       "name": "solert",
       "vmId": "sqe2pnCmugCSZraNAXD1i6WfnmYGpUdqZhgw1Ah3vFDoqsgYk",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmChainId": 9899
     }
   ]
 }

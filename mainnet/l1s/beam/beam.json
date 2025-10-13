@@ -50,7 +50,8 @@
           "cap": "FIXED",
           "description": "The BEAM token is the native crypto asset of the Beam network, a gaming ecosystem powered by the Merit Circle DAO."
         }
-      ]
+      ],
+      "evmChainId": 4337
     }
   ]
 }

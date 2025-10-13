@@ -16,7 +16,8 @@
       "id": "2jfjkB7NkK4v8zoaoWmh5eaABNW6ynjQvemPFZpgPQ7ugrmUXv",
       "name": "hubblenet",
       "vmId": "o1Fg94YujMqL75Ebrdkos95MTVjZpPpdeAp5ocEsp2X9c2FSz",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 1992
     }
   ]
 }

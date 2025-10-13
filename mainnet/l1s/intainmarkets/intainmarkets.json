@@ -6,7 +6,7 @@
         "name": "X",
         "url": "https://x.com/intainft?s=21"
       },
-       {
+      {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/feed/"
       }
@@ -26,7 +26,8 @@
       "id": "m4xWma3wWpxHAAKWyDXX6oqvzKUkqCXnTJTwKmTkReJpcEuS6",
       "name": "IntainMarkets",
       "vmId": "ZLi5JUuvPV4QS326oMJ2NFLKEuxBEpBLmpv692QxbizmW5x1Q",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 151122
     }
   ]
 }

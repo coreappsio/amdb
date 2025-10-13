@@ -33,7 +33,8 @@
       "id": "hR6djBP7uMGJnXrjdUic2rzvvuuMpqMWNb5us7j8xgmj6Ck2N",
       "name": "Lamina1Identity",
       "vmId": "ae3HBgfy2smdk94GurMennLqotTvKwQeM8PRkALo7HKQRxZUc",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 10850
     }
   ]
 }

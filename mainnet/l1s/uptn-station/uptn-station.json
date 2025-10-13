@@ -21,7 +21,8 @@
       "explorerUrl": "http://explorer.uptn.io/",
       "id": "2tsFdSeemtqK9vaPgjPrcwvKFKPw1T6PHufaZ26tKbAFSkXPTE",
       "name": "UPTN",
-      "vmId": "eaE7qVXhH7XwvPafCGcAkYvdMPzy8sxweauh1XqUsAKZQFS7s"
+      "vmId": "eaE7qVXhH7XwvPafCGcAkYvdMPzy8sxweauh1XqUsAKZQFS7s",
+      "evmChainId": 6119
     }
   ]
 }

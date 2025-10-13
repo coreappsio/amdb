@@ -31,7 +31,8 @@
       "id": "222KARi6VgSZXbewFp1BvZgyuSKVa9JPb7swhbwN9fUHFKgxUD",
       "name": "gunzilla",
       "vmId": "YUKPT5yt72CKSu4gD4gaRhkSAEtqcGycn2tfyz1Vq7oVF1sc8",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmChainId": 43512
     }
   ]
 }

@@ -8,15 +8,15 @@
         "name": "X",
         "url": "https://x.com/numbersprotocol"
       },
-       {
+      {
         "name": "Discord",
         "url": "https://discord.com/invite/KF8TNeWd2u"
       },
-       {
+      {
         "name": "Telegram",
         "url": "https://t.me/numbersprotocol"
       },
-       {
+      {
         "name": "Medium",
         "url": "https://medium.com/numbers-protocol"
       }
@@ -37,7 +37,8 @@
       "id": "2PDRxzc6jMbZSTLb3sufkVszgQc2jtDnYZGtDTAAfom1CTwPsE",
       "name": "numbersevm",
       "vmId": "qeX7kcVMMkVLB9ZJKTpvtSjpLbtYooNEdpFzFShwRTFu76qdx",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmChainId": 10507
     }
   ]
 }

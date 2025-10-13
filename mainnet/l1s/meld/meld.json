@@ -42,7 +42,8 @@
       "explorerUrl": "https://subnets.avax.network/meld",
       "id": "W6m4NgS2ie2LJerquYAt7V6fVXVAMmjvYFsWWtyjDY97exGTy",
       "name": "meld",
-      "vmId": "qBNy2jVdA34ynZUSP7Q1nBQovhQHq5vfGxrKRYey9ojJia944"
+      "vmId": "qBNy2jVdA34ynZUSP7Q1nBQovhQHq5vfGxrKRYey9ojJia944",
+      "evmChainId": 333000333
     }
   ]
 }

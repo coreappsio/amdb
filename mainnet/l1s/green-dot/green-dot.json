@@ -20,7 +20,8 @@
       "explorerUrl": "https://subnets.avax.network/greendot",
       "id": "8bvSiqVvhsyRLMo3osGgAwbjd8U7G4XUoTKAEJAWvowH1BHrB",
       "name": "greendot",
-      "vmId": "nZQrF9kfzio9q5B54Njbpa3CCpRVpk4tNH3wh3ekA7NEX1LK1"
+      "vmId": "nZQrF9kfzio9q5B54Njbpa3CCpRVpk4tNH3wh3ekA7NEX1LK1",
+      "evmChainId": 6765897101
     }
   ]
 }

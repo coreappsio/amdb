@@ -20,7 +20,8 @@
       "explorerUrl": "https://subnets.avax.network/masa",
       "id": "2EpCcmHLNqFqbE6Ch1fX6VbgqFETtuKdn9dcBS375pXLN48NKC",
       "name": "MasaNetwork",
-      "vmId": "b5awsgDn99TGhtWXVU8YrXEyBBtuNkGb5NFjfw6LFPHYZSzvW"
+      "vmId": "b5awsgDn99TGhtWXVU8YrXEyBBtuNkGb5NFjfw6LFPHYZSzvW",
+      "evmChainId": 13396
     }
   ]
 }

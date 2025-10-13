@@ -39,7 +39,8 @@
       "id": "22v7AG7h6qaVxd4bLvAsSsg2LZ4RCn5iVYgFn7a2Fj1LCuYwjv",
       "name": "DOS Chain",
       "vmId": "X5tFvg9JwoXgaYPQbceSzhGoCF6dhwrDm5BnAav6meFp3xxmg",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmChainId": 7979
     }
   ]
 }

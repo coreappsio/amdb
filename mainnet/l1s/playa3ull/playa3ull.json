@@ -36,7 +36,8 @@
       "explorerUrl": "https://subnets.avax.network/playa3ull",
       "id": "k2SFEZ2MZr9UGXiycnA1DdaLqZTKDaHK7WUXVLhJk5F9DD8r1",
       "name": "PLAYA3ULL",
-      "vmId": "cN6t22ptqzNhvvB66z25f2eZXK92PR62fxoVYRzDw1hWsMZt2"
+      "vmId": "cN6t22ptqzNhvvB66z25f2eZXK92PR62fxoVYRzDw1hWsMZt2",
+      "evmChainId": 3011
     }
   ]
 }

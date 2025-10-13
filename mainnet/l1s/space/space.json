@@ -30,7 +30,8 @@
       "explorerUrl": "https://subnets.avax.network/space",
       "id": "22CN6x5LAPEkvLDdz4UwG3XXtZV69Su3bcspiYtkF9k5f9rcCt",
       "name": "Space",
-      "vmId": "dkLYNQ3pAEfwcWuzC16XfT1QFVtpkZts2FMVBtvV5GXXQxseg"
+      "vmId": "dkLYNQ3pAEfwcWuzC16XfT1QFVtpkZts2FMVBtvV5GXXQxseg",
+      "evmChainId": 8227
     }
   ]
 }

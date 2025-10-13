@@ -36,7 +36,8 @@
       "explorerUrl": "https://subnets.avax.network/lamina1",
       "id": "UhReZTXT8Cqsjat9ghRtCe5kBQPQexQB5zG5Fvf3egrdYfyoJ",
       "name": "Lamina1",
-      "vmId": "ae3HBgfy2rJd4jWV9fYqDQKKSFLuDarRKYxj3XX61nk56qdPT"
+      "vmId": "ae3HBgfy2rJd4jWV9fYqDQKKSFLuDarRKYxj3XX61nk56qdPT",
+      "evmChainId": 10849
     }
   ]
 }

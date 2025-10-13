@@ -6,7 +6,7 @@
         "name": "X",
         "url": "https://x.com/InnovoMarkets"
       },
-       {
+      {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/company/innovo-markets/"
       }
@@ -26,7 +26,8 @@
       "id": "vFHT9J4F6PhqCTMmqkKKUKW3yfsjd6tNvhmcK4MkFa3Pmnnqe",
       "name": "InnovoMarketsMainnet",
       "vmId": "ZLhwWNLcKhATKbjmGHpSKv9YJ6B462yLyq6eb4CkkD78zCoJZ",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 10036
     }
   ]
 }

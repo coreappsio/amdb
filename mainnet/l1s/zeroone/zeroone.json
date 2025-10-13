@@ -15,7 +15,6 @@
         "url": "https://www.linkedin.com/company/zeroone-art/"
       }
     ]
-
   },
   "id": "nKJuE11HePLrmp391sfoFVqZR7Fw5VJ1XjyznsogsjebxwiAg",
   "name": "zeroone",
@@ -35,7 +34,8 @@
       "explorerUrl": "https://subnets.avax.network/zeroonemai",
       "id": "2Xj6iZeySuuUTZR5jYjhQ7yQ84q8AtDWnAJ2vS9BmmXBNJhYD1",
       "name": "zerooneMainnet",
-      "vmId": "vuT2CesVBU7Jm6VtFnEVF8uX1Y7iMzLPWJgLstqU9vtd1x3Mz"
+      "vmId": "vuT2CesVBU7Jm6VtFnEVF8uX1Y7iMzLPWJgLstqU9vtd1x3Mz",
+      "evmChainId": 27827
     }
   ]
 }

@@ -41,7 +41,8 @@
       "explorerUrl": "https://subnets.avax.network/defi-kingdoms",
       "id": "q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi",
       "name": "DFK Chain",
-      "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv"
+      "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
+      "evmChainId": 53935
     }
   ]
 }

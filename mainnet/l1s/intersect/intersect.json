@@ -6,11 +6,11 @@
         "name": "X",
         "url": "https://x.com/0xintersect"
       },
-       {
+      {
         "name": "Telegram",
         "url": "https://t.me/+Omj6mbK24ftlMDlk"
       },
-       {
+      {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/company/0xintersect/"
       }
@@ -30,7 +30,8 @@
       "id": "2Ec9g5vbwwoy7MEyjmjjEjuS6FzaeToBm1KVbvDU6HeKsSNVTF",
       "name": "intersect",
       "vmId": "oS771BfpsymUfaGKNyR27cY8SwumaNwq9GTVkQpAQ4WCdughz",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 1216
     }
   ]
 }

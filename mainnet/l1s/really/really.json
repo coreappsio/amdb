@@ -20,7 +20,8 @@
       "explorerUrl": "https://subnets.avax.network/really",
       "id": "2gPHVXPoDvbt6MFUrGBYV5mApC9Y1Xckhdpr31cHzjcJyTAgrZ",
       "name": "REALLY",
-      "vmId": "dEVS4ibiRsTdKC8zSCjjDqnEF3NC5CxrbcUtQEDXD26d5UevE"
+      "vmId": "dEVS4ibiRsTdKC8zSCjjDqnEF3NC5CxrbcUtQEDXD26d5UevE",
+      "evmChainId": 64273
     }
   ]
 }

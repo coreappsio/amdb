@@ -31,7 +31,8 @@
       "id": "Lgiwfx9L11MLt8RD5Aj7SZ5kEcWQz5NnyCc5hDd5k25J8LoxM",
       "name": "Mirai",
       "vmId": "b6PDqnGnuy7KzdzP3H5vwztLsQ4GgxQnrd8BVkHmbvwsKHDPi",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 2718
     }
   ]
 }

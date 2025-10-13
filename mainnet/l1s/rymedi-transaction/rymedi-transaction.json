@@ -26,7 +26,8 @@
       "id": "2PKgDmUGYJEV3gSBkvM7ztJuSk3g7omGjDjHdQR28Tv8JSxFBK",
       "name": "Rymedi Transaction Subnet",
       "vmId": "dKhNBikRSySVNfS9n62hczWMVgXkKBYpKEKqb6Vjok1jf2VAj",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 111002001
     }
   ]
 }

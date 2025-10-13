@@ -14,7 +14,8 @@
       "id": "25friWasfe2pMdVHQAh5inDBz5XQq42a1V8DYqAGnxeKks5Bkp",
       "name": "HighOctane",
       "vmId": "YtfK8Sj57XHSE5GvaTJPzudH3Q9x1bfcK27jvJQjMgdoqB9JW",
-      "vmName": null
+      "vmName": null,
+      "evmChainId": 1853
     }
   ]
 }

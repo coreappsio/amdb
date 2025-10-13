@@ -39,7 +39,8 @@
       "explorerUrl": "https://subnets.avax.network/blitz",
       "id": "2QGraMRcH8gEnQbLviM4ykgyY31jFfLhaEtEvPHk8q8pPfe7Kj",
       "name": "BLITZ SUBNET",
-      "vmId": "WCVcNYunRn7jnekjw19ZCoDsxTVcoju2fozCJdDmbpFuQ9obc"
+      "vmId": "WCVcNYunRn7jnekjw19ZCoDsxTVcoju2fozCJdDmbpFuQ9obc",
+      "evmChainId": 1344
     }
   ]
 }

@@ -38,7 +38,8 @@
       "explorerUrl": "https://subnets.avax.network/straitsx",
       "id": "EJ4DyXHe4ydhsLLMiDPsHtoq5RDqgyao6Lwb9znKhs59q4NQx",
       "name": "StraitsX",
-      "vmId": "dkk5Hf5AcumD7JsjLRgtyp8QL85LbQL3uCu5AmCJarKub4B3a"
+      "vmId": "dkk5Hf5AcumD7JsjLRgtyp8QL85LbQL3uCu5AmCJarKub4B3a",
+      "evmChainId": 5566
     }
   ]
 }

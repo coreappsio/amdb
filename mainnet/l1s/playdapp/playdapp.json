@@ -37,7 +37,8 @@
       "explorerUrl": "https://subnets.avax.network/playdappne",
       "id": "jAvZZkDuokp67yH8QQm4AXv1qUm3fwhxUUo2mmMsmopdgHChp",
       "name": "PlaydappNetwork",
-      "vmId": "cRJoFPANq1613xoqB9fKgNTaJG3ogR87p4gziEZjyWraPG2u3"
+      "vmId": "cRJoFPANq1613xoqB9fKgNTaJG3ogR87p4gziEZjyWraPG2u3",
+      "evmChainId": 504441
     }
   ]
 }

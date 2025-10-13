@@ -9,15 +9,15 @@
         "name": "X",
         "url": "https://x.com/OnPlyr"
       },
-       {
+      {
         "name": "Discord",
         "url": "https://discord.com/invite/plyr"
       },
-       {
+      {
         "name": "Telegram",
         "url": "https://t.me/plyrchain"
       },
-       {
+      {
         "name": "Medium",
         "url": "https://onplyr.medium.com/"
       }
@@ -41,7 +41,8 @@
       "explorerUrl": "https://subnets.avax.network/plyr",
       "id": "HUwWdyoExrb1HgVp5X5sh3AWqhYFnKkfXBfGmGL3qjDsnMoR4",
       "name": "PLYRPHI",
-      "vmId": "cN7RT4fKXmpuL9xLVXbc8CK7pYzT3YDkVX9uVAAK9T4QH6bTa"
+      "vmId": "cN7RT4fKXmpuL9xLVXbc8CK7pYzT3YDkVX9uVAAK9T4QH6bTa",
+      "evmChainId": 16180
     }
   ]
 }

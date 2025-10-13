@@ -8,7 +8,8 @@
       "id": "tmX5HjBWUBRzy8wQd7LE5CFMmimCQDz5WH14QzdYJMxcVm1bC",
       "name": "QR0830T1MS",
       "vmId": "cpEkP82AuzR8dvGzYYay324AFnSZCVQxPxHJdNsE9YrPg6NXh",
-      "vmName": "EVM"
+      "vmName": "EVM",
+      "evmChainId": 931499
     }
   ]
 }

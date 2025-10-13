@@ -1,7 +1,6 @@
 {
   "links": {
     "website": "https://dexalot.com",
-
     "whitepaper": "https://dexalot.com/docs/DEXALOT-Litepaper.pdf",
     "forum": "",
     "git": "https://github.com/dexalot",
@@ -26,7 +25,10 @@
   "description": "Dexalot is a decentralized exchange (DEX) on Avalanche that combines the transparency of DeFi with the user-friendly experience of centralized platforms. It features an order book model for precise trading, low-latency execution, and secure on-chain settlement—all without sacrificing custody of your assets.",
   "primaryColor": "#EB1357",
   "logo": "https://cdn.snowpeer.io/dexalot.png",
-  "categories": ["FINANCE", "DEX"],
+  "categories": [
+    "FINANCE",
+    "DEX"
+  ],
   "mainCategory": "FINANCE",
   "chains": [
     {
@@ -46,7 +48,8 @@
           "cap": "FIXED",
           "description": "Dexalot allows for users to trade ERC20 tokens supported on the C-Chain against the blockchain native currency AVAX or against other supported ERC20 tokens."
         }
-      ]
+      ],
+      "evmChainId": 432204
     }
   ]
 }

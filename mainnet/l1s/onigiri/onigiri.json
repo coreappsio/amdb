@@ -26,7 +26,8 @@
       "explorerUrl": "https://subnets.avax.network/onigiri",
       "id": "2pdeYfs5hRYDM63ETuPN9YFWohEXehuhkAMsvYETyrsjbReK9q",
       "name": "ONIGIRI",
-      "vmId": "bvm6sRU3Sr87DGBCUCug9MUZa8eX9WMr83CLVefrS7aNDKkkE"
+      "vmId": "bvm6sRU3Sr87DGBCUCug9MUZa8eX9WMr83CLVefrS7aNDKkkE",
+      "evmChainId": 5040
     }
   ]
 }
