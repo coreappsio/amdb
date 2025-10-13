@@ -11,5 +11,10 @@
     "RWA"
   ],
   "mainCategory": "RWA",
-  "evmChainId": 192
+  "chains": [
+    {
+      "id": "EypLFUSzC2wdbFJovYS3Af1E7ch1DJf7KxKoGR5QFPErxQkG1",
+      "evmChainId": 192
+    }
+  ]
 }

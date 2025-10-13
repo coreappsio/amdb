@@ -14,5 +14,10 @@
     "EVM"
   ],
   "primaryColor": "#11314a",
-  "evmChainId": 2786
+  "chains": [
+    {
+      "id": "YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn",
+      "evmChainId": 2786
+    }
+  ]
 }

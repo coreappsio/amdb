@@ -11,5 +11,10 @@
     "HEALTH"
   ],
   "primaryColor": "#35e467",
-  "evmChainId": 237007
+  "chains": [
+    {
+      "id": "2uN4Y9JHkLeAJK85Y48LExpNnEiepf7VoZAtmjnwDSZzpZcNig",
+      "evmChainId": 237007
+    }
+  ]
 }

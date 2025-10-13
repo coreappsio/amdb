@@ -1,5 +1,10 @@
 {
   "id": "B7hA9WibSJu2fKdHT2XZs2RYg1rZTtxwg6cMYBKYjvcJjbqsp",
   "name": "Deraalpha",
-  "evmChainId": 20250320
+  "chains": [
+    {
+      "id": "2XCTEc8CfNK9MtQWYMfgNt32QjZsZqq92LH7eTV5xY8YjY44du",
+      "evmChainId": 20250320
+    }
+  ]
 }

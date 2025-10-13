@@ -17,5 +17,10 @@
       }
     ]
   },
-  "evmChainId": 5506
+  "chains": [
+    {
+      "id": "QUmGffHpjgMeHJVobZDjwvFKAcP5Rs5FQsURJexDjKir2Ljp4",
+      "evmChainId": 5506
+    }
+  ]
 }

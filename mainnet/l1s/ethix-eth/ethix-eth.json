@@ -1,5 +1,10 @@
 {
   "id": "q54cgHa9RN2NFp9qsfpPzVkhgn8xqDgKEQR1G997xZ1P5Dc8o",
   "name": "EthixEtx",
-  "evmChainId": 389
+  "chains": [
+    {
+      "id": "2R87vuaaRZRxPLdvdMEpo7fH9qyyNnP34h4nyxuwq8sKkQ1GaE",
+      "evmChainId": 389
+    }
+  ]
 }

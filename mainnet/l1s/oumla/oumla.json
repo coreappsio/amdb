@@ -11,5 +11,10 @@
     "INFRA"
   ],
   "primaryColor": "#9364f0",
-  "evmChainId": 58166
+  "chains": [
+    {
+      "id": "3ZtS5VvsATbGWZhs2ymHNCmVkRVwW3QxhwbTtwxWK3XXVopsr",
+      "evmChainId": 58166
+    }
+  ]
 }

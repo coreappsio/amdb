@@ -11,5 +11,10 @@
   "links": {
     "website": "https://even.biz"
   },
-  "evmChainId": 33345
+  "chains": [
+    {
+      "id": "2YnwDMW9shSuV6nuYpAhm3DE2KvYJP2GFDvUde6XG8jE5gxvpL",
+      "evmChainId": 33345
+    }
+  ]
 }

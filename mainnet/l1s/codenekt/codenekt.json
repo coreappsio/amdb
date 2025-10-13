@@ -26,5 +26,10 @@
   ],
   "mainCategory": "DEPIN",
   "primaryColor": "#FF0000",
-  "evmChainId": 235235
+  "chains": [
+    {
+      "id": "ZG7cT4B1u3y7piZ9CzfejnTKnNAoehcifbJWUwBqgyD3RuEqK",
+      "evmChainId": 235235
+    }
+  ]
 }

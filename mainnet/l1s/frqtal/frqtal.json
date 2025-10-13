@@ -29,5 +29,10 @@
     "STORAGE"
   ],
   "mainCategory": "STORAGE",
-  "evmChainId": 62789
+  "chains": [
+    {
+      "id": "2JepXG35p5i21VxbnPx1eWmu5Z5EutcSXVAtcisBBJPTYzAVmB",
+      "evmChainId": 62789
+    }
+  ]
 }

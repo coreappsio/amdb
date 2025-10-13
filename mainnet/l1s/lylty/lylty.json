@@ -6,5 +6,10 @@
     "LOYALTY"
   ],
   "mainCategory": "LOYALTY",
-  "evmChainId": 17177
+  "chains": [
+    {
+      "id": "2Ldubr6779M2PWhY3ECsBx5kb85pGY4euCWZLdaaE9o7ocSHMC",
+      "evmChainId": 17177
+    }
+  ]
 }

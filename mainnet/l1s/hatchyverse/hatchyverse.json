@@ -27,5 +27,10 @@
     "IP"
   ],
   "mainCategory": "GAMING",
-  "evmChainId": 8198
+  "chains": [
+    {
+      "id": "2tig763SuFas5WGk6vsjj8uWzTwq8DKvAN8YgeouwFZe28XjNm",
+      "evmChainId": 8198
+    }
+  ]
 }

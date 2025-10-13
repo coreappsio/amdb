@@ -14,8 +14,8 @@ def load_chainsdata(path: Path):
         data = json.load(f)
     # Build lookup by (subnetId, blockchainId) -> evmChainId
     lookup = {}
-    # Also build subnetId -> set(evmChainId) to enable root-level updates when no chains array
-    subnet_to_evm = {}
+    # Also build subnetId -> list of (blockchainId, evmChainId) to create minimal chains[] when missing
+    subnet_to_entries = {}
     for c in data.get("chains", []):
         subnet_id = c.get("subnetId")
         blockchain_id = c.get("blockchainId")
@@ -23,12 +23,12 @@ def load_chainsdata(path: Path):
         if not subnet_id or not blockchain_id or evm_chain_id is None:
             continue
         lookup[(subnet_id, blockchain_id)] = evm_chain_id
-        s = subnet_to_evm.setdefault(subnet_id, set())
-        s.add(evm_chain_id)
-    return lookup, subnet_to_evm
+        entries = subnet_to_entries.setdefault(subnet_id, [])
+        entries.append((blockchain_id, evm_chain_id))
+    return lookup, subnet_to_entries
 
 
-def process_l1_file(path: Path, lookup: dict, subnet_to_evm: dict, dry_run: bool = False) -> bool:
+def process_l1_file(path: Path, lookup: dict, subnet_to_entries: dict, dry_run: bool = False) -> bool:
     """
     Returns True if a change would be made/made.
     """
@@ -38,6 +38,11 @@ def process_l1_file(path: Path, lookup: dict, subnet_to_evm: dict, dry_run: bool
     subnet_id = doc.get("id")
     chains = doc.get("chains") or []
     changed = False
+
+    # Remove any root-level evmChainId if present
+    if "evmChainId" in doc:
+        del doc["evmChainId"]
+        changed = True
 
     for chain in chains:
         blockchain_id = chain.get("id")
@@ -54,14 +59,12 @@ def process_l1_file(path: Path, lookup: dict, subnet_to_evm: dict, dry_run: bool
             chain["evmChainId"] = evm_chain_id
             changed = True
 
-    # If there are no chains, attempt to set root-level evmChainId using unique subnet mapping
-    if not chains and subnet_id:
-        evm_ids = subnet_to_evm.get(subnet_id) or set()
-        if len(evm_ids) == 1:
-            only_evm = next(iter(evm_ids))
-            if doc.get("evmChainId") != only_evm:
-                doc["evmChainId"] = only_evm
-                changed = True
+    # If there are no chains, create minimal chains[] from chainsdata matches for this subnet
+    if (not chains) and subnet_id:
+        entries = subnet_to_entries.get(subnet_id) or []
+        if entries:
+            doc["chains"] = [{"id": bid, "evmChainId": evid} for (bid, evid) in entries]
+            changed = True
 
     if changed and not dry_run:
         # Keep formatting compact with 2 spaces and sorted keys disabled to preserve semantics
@@ -83,14 +86,14 @@ def main():
         print(f"L1 directory not found at {L1S_DIR}", file=sys.stderr)
         sys.exit(1)
 
-    lookup, subnet_to_evm = load_chainsdata(CHAINSDATA_PATH)
+    lookup, subnet_to_entries = load_chainsdata(CHAINSDATA_PATH)
 
     total_files = 0
     updated_files = 0
     for json_path in L1S_DIR.rglob("*.json"):
         total_files += 1
         try:
-            changed = process_l1_file(json_path, lookup, subnet_to_evm, dry_run=dry_run)
+            changed = process_l1_file(json_path, lookup, subnet_to_entries, dry_run=dry_run)
         except json.JSONDecodeError as e:
             print(f"Skipping invalid JSON: {json_path}: {e}")
             continue

@@ -12,5 +12,10 @@
   "links": {
     "website": "https://dinari.com"
   },
-  "evmChainId": 202110
+  "chains": [
+    {
+      "id": "C5GXnNHNEfDxUydtjZ5B5J6XspdAZJGLsX3u4wxCXZgE3N4Gq",
+      "evmChainId": 202110
+    }
+  ]
 }

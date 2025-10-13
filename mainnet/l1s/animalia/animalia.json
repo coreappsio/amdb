@@ -23,5 +23,10 @@
     ]
   },
   "description": "An immersive blockchain gaming ecosystem where players collect, breed, and battle fantasy creatures—powered by play-to-earn mechanics and true digital ownership.",
-  "evmChainId": 8787
+  "chains": [
+    {
+      "id": "QgQ2ATB5Ca6US2jur1iPrfBtFDGNSQHXcnSzfv19ZZ2vLZSrk",
+      "evmChainId": 8787
+    }
+  ]
 }

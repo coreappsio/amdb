@@ -25,5 +25,10 @@
   "categories": [
     "GAMING"
   ],
-  "evmChainId": 42069
+  "chains": [
+    {
+      "id": "23aQU1537YseCJmXW11XHjPra6bptBSps5D4xXupt8hN2QUeaG",
+      "evmChainId": 42069
+    }
+  ]
 }

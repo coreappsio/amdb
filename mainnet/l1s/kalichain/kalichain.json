@@ -31,5 +31,10 @@
   "categories": [
     "IP"
   ],
-  "evmChainId": 6533
+  "chains": [
+    {
+      "id": "TT2vQnjSF9VZfjaA5dB1VNKVdqkVCDzSncxaMcGVwYedGaMG3",
+      "evmChainId": 6533
+    }
+  ]
 }

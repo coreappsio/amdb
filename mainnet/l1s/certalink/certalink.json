@@ -1,5 +1,10 @@
 {
   "id": "2hZa4RMWAkiQAQ5zpbPSkNziYSHyCqBGeKNnbqWfJL2GKmy8eq",
   "name": "CertaLink",
-  "evmChainId": 2053
+  "chains": [
+    {
+      "id": "27xa71ERzSzir2KuPmmsAFkceVA74Xfh8Fys8SrmHjdKyj1vqd",
+      "evmChainId": 2053
+    }
+  ]
 }

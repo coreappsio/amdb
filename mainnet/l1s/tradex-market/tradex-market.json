@@ -7,5 +7,10 @@
     "PREDICTION"
   ],
   "mainCategory": "PREDICTION",
-  "evmChainId": 21024
+  "chains": [
+    {
+      "id": "2L9oVyCkyqMgrwVS7CFkn21KSNWeD67dH6uzjw3LF6ErDhzAjK",
+      "evmChainId": 21024
+    }
+  ]
 }

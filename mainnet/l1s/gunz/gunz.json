@@ -7,5 +7,10 @@
     "GAMING"
   ],
   "mainCategory": "GAMING",
-  "evmChainId": 43419
+  "chains": [
+    {
+      "id": "2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML",
+      "evmChainId": 43419
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "links": {
     "website": "https://cxchain.xyz"
   },
-  "evmChainId": 737373
+  "chains": [
+    {
+      "id": "25xjR3fvh7aXkxs36n1xRc3wLUAuqnS1wBxJD1BC4z3y6mHsEV",
+      "evmChainId": 737373
+    }
+  ]
 }

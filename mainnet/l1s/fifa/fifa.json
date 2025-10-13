@@ -11,5 +11,10 @@
   "links": {
     "website": "https://collect.fifa.com"
   },
-  "evmChainId": 13322
+  "chains": [
+    {
+      "id": "SUDoK9P89PCcguskyof41fZexw7U3zubDP2DZpGf3HbFWwJ4E",
+      "evmChainId": 13322
+    }
+  ]
 }

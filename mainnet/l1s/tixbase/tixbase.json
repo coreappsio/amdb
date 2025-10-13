@@ -11,5 +11,10 @@
     "TICKETING"
   ],
   "primaryColor": "#ff4805",
-  "evmChainId": 13790
+  "chains": [
+    {
+      "id": "Bb5XKrQoBT6ypFmFUppAqfSmKCqcqYwjGCn3hHS6gibRTjiDj",
+      "evmChainId": 13790
+    }
+  ]
 }
