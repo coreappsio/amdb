@@ -37,7 +37,7 @@
       "pricingDataProvider": [
         {
           "name": "CoinGecko",
-          "id": "avalanche"
+          "id": "avalanche-2"
         }
       ]
     }
