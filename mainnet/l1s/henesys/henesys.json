@@ -9,7 +9,7 @@
   "chains": [
     {
       "id": "2LFmzhHDKxkreihEtPanVmofuFn63bsh8twnRXEbDhBtCJxURB",
-      "evmId": "68414",
+      "evmId": 68414,
       "vmId": "YtGKetwQgUADapTEJBQCfS2EcH55x4hyjrFiJBaooiUd1X17v",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/henesys",

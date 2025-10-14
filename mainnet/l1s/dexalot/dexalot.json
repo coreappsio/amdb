@@ -8,7 +8,7 @@
   "mainCategory": "FINANCE",
   "chains": [
     {
-      "evmId": "432204",
+      "evmId": 432204,
       "rpcUrl": "https://subnets.avax.network/dexalot/mainnet/rpc",
       "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche L1 technology, the most effective scaling solution in the blockchain industry.",
       "vmName": "EVM",
@@ -49,4 +49,5 @@
         "url": "https://discord.gg/S4NP9w7Xwn"
       }
     ]
+  }
 }

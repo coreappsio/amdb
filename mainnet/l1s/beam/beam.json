@@ -8,7 +8,7 @@
   "mainCategory": "GAMING",
   "chains": [
     {
-      "evmId": "4337",
+      "evmId": 4337,
       "rpcUrl": "https://subnets.avax.network/beam/mainnet/rpc",
       "description": "An opinionated chain built for gaming.",
       "vmName": null,

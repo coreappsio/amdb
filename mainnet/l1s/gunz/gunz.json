@@ -10,7 +10,7 @@
   "chains": [
     {
       "id": "2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML",
-      "evmId": "43419",
+      "evmId": 43419,
       "vmId": "nZiR8U7nEv51M7THczAzjXPNKdjFP75Ci4HxLevo9duYiLAHn",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/gunzilla",
