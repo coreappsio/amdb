@@ -1,6 +1,6 @@
 {
   "links": {
-    "website": "https://step.network",
+    "website": "https://step.app/",
     "whitepaper": "https://whitepaper.stepn.com/",
     "git": "https://github.com/step-app-fi",
     "docs": "https://whitepaper.stepn.com/",
@@ -35,6 +35,17 @@
       "vmId": "dkjnKTbCTozMmvJJETzrz8sYVs7vSKzkGShHoa493UcQEweU6",
       "vmName": "EVM",
       "evmId": 1234
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "FITFI",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "step-app-fitfi"
+        }
+      ]
     }
   ]
 }

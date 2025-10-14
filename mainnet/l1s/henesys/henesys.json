@@ -3,8 +3,9 @@
   "name": "Henesys",
   "primaryColor": "#8632fb",
   "logo": "https://cdn.snowpeer.io/henesys.png",
-
-  "categories": ["GAMING"],
+  "categories": [
+    "GAMING"
+  ],
   "mainCategory": "GAMING",
   "chains": [
     {
@@ -16,6 +17,9 @@
       "rpcUrl": "https://henesys-rpc.msu.io"
     }
   ],
+  "links": {
+    "website": "https://msu.io/"
+  },
   "assets": [
     {
       "symbol": "NXPC",

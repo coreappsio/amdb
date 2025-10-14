@@ -9,7 +9,7 @@
   ],
   "mainCategory": "GAMING",
   "links": {
-    "website": "https://apply.blaze.stream/",
+    "website": "https://blaze.stream/",
     "socials": [
       {
         "name": "X",
@@ -25,6 +25,17 @@
     {
       "id": "2SfshBPqRJexmqdWBY2xYSTq2Rp2dDisuax7nQB6GyNqPjSWWY",
       "evmId": 46975
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "BLAZE",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "blaze-2"
+        }
+      ]
     }
   ]
 }

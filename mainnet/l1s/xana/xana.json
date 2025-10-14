@@ -43,5 +43,16 @@
       "vmName": "EVM",
       "evmId": 8888
     }
+  ],
+  "assets": [
+    {
+      "symbol": "XETA",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "xana"
+        }
+      ]
+    }
   ]
 }

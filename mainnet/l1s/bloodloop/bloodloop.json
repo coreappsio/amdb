@@ -9,7 +9,7 @@
   "mainCategory": "GAMING",
   "primaryColor": "#D7291C",
   "links": {
-    "website": "https://www.bloodloop.com/home ",
+    "website": "https://www.bloodloop.com/ ",
     "whitepaper": "https://whitepaper.bloodloop.com/ ",
     "socials": [
       {
@@ -30,6 +30,17 @@
     {
       "id": "iNrFZ5vbEfURqFCQh8dF1AHvRfKnZ9gk9ksRgMHDKy4AfyYwA",
       "evmId": 578
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "BLS",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "bloodloop"
+        }
+      ]
     }
   ]
 }

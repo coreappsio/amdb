@@ -30,5 +30,16 @@
       "id": "23aQU1537YseCJmXW11XHjPra6bptBSps5D4xXupt8hN2QUeaG",
       "evmId": 42069
     }
+  ],
+  "assets": [
+    {
+      "symbol": "COQ",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "coq-inu"
+        }
+      ]
+    }
   ]
 }
