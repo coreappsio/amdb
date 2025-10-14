@@ -43,5 +43,16 @@
       "name": "DFK Chain",
       "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv"
     }
+  ],
+  "assets": [
+    {
+      "symbol": "JEWEL",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "defi-kingdoms"
+        }
+      ]
+    }
   ]
 }

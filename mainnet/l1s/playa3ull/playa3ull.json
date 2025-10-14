@@ -38,5 +38,16 @@
       "name": "PLAYA3ULL",
       "vmId": "cN6t22ptqzNhvvB66z25f2eZXK92PR62fxoVYRzDw1hWsMZt2"
     }
+  ],
+  "assets": [
+    {
+      "symbol": "3ULL",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "playa3ull-games-2"
+        }
+      ]
+    }
   ]
 }

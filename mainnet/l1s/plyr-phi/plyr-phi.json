@@ -43,5 +43,16 @@
       "name": "PLYRPHI",
       "vmId": "cN7RT4fKXmpuL9xLVXbc8CK7pYzT3YDkVX9uVAAK9T4QH6bTa"
     }
+  ],
+  "assets": [
+    {
+      "symbol": "PLYR",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "plyr-l1"
+        }
+      ]
+    }
   ]
 }
