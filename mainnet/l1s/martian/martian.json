@@ -1,9 +1,16 @@
 {
-  "id": "2MsjtNrK8BacanssVC2LmUrUHDMqwVFHdi5xS2BdpLPxbpiv1N",
+  "id": "KQnyo57ynwQ5QD1xcLYySYSVxvR1yQCU3vmH7krZ6XLhZjSrV",
   "name": "Martian",
   "links": {
     "website": "https://martianchain.com"
   },
   "logo": "https://cdn.snowpeer.io/martianl1.png",
-  "primaryColor": "#219F62"
+  "primaryColor": "#219F62",
+  "mainCategory": "LAUNCHPAD",
+  "categories": ["LAUNCHPAD"],
+  "chains": {
+    "id": "EYPBCBz1QBTA4YvZChXFx5m3Ztct8B5LyXDynR1ekuQnsjqiK",
+    "name": "MartianChain",
+    "evmId": 2027
+  }
 }
