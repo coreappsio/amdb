@@ -8,9 +8,11 @@
   "primaryColor": "#219F62",
   "mainCategory": "LAUNCHPAD",
   "categories": ["LAUNCHPAD"],
-  "chains": {
-    "id": "EYPBCBz1QBTA4YvZChXFx5m3Ztct8B5LyXDynR1ekuQnsjqiK",
-    "name": "MartianChain",
-    "evmId": 2027
-  }
+  "chains": [
+    {
+      "id": "EYPBCBz1QBTA4YvZChXFx5m3Ztct8B5LyXDynR1ekuQnsjqiK",
+      "name": "MartianChain",
+      "evmId": 2027
+    }
+  ]
 }
