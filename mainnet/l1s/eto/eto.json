@@ -1,0 +1,18 @@
+{
+  "id": "2ku5ZCd4t4CDc7ahotdJcoDxc6efE6uMC5C445S9ZKih473LpN",
+  "name": "ETO",
+  "description": "Data-based Basket ETFs for simple US-market exposure and yield solutions for retail investors.",
+  "mainCategory": "RWA",
+  "primaryColor": "#000000",
+  "categories": ["RWA"],
+  "logo": "https://cdn.snowpeer.io/eto.png",
+  "links": {
+    "website": "https://entropytoorder.xyz"
+  },
+  "chains": [
+    {
+      "id": "2NSohUwNQfQxSYhu3ihZQDpxhNEU3uxEegFMP8rVuxC8atY5m1",
+      "name": "ETO Mainnet"
+    }
+  ]
+}
