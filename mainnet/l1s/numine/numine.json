@@ -13,7 +13,8 @@
       "vmId": "bVvAsrLWieiBKwjttxdaYRDaTDmn5ixjN5bDp8fJekCJLiVQE",
       "vmName": "EVM",
       "explorerUrl": "https://subnets.avax.network/numi",
-      "rpcUrl": "https://subnets.avax.network/numi/mainnet/rpc"
+      "rpcUrl": "https://subnets.avax.network/numi/mainnet/rpc",
+      "evmId": 8021
     }
   ],
   "assets": [
