@@ -1,0 +1,19 @@
+{
+  "id": "ZjyoAfPS1qaSzLKkCVCc3koXf7KLqop7G9viy93oSkxJf6odZ",
+  "name": "Youmio",
+  "description": "The first Layer 1 built from the ground up as an agent chain.",
+  "mainCategory": "AI",
+  "primaryColor": "#d482ac",
+  "categories": ["AI"],
+  "logo": "https://cdn.snowpeer.io/youmio.png",
+  "links": {
+    "website": "https://youmio.ai"
+  },
+  "chains": [
+    {
+      "id": "2d64dyhZfegk2hZBt49xGmMRPfqj5mufhW5tR1wX9xPJintuNW",
+      "name": "Youmio",
+      "evmId": 61360
+    }
+  ]
+}
