@@ -1,0 +1,18 @@
+{
+  "id": "2LbGgyVZE5aMMYPp3h1F2MkKbjefR51nSZWaZzarDZf8GThCcX",
+  "name": "TITAN",
+  "description": "TITAN CONTENT will create next-gen K-pop artists and content, unique fan engagement and experience in virtual/web3 and the real world.",
+  "mainCategory": "MUSIC",
+  "primaryColor": "#000000",
+  "categories": ["MUSIC"],
+  "links": {
+    "website": "https://www.thetitan.xyz"
+  },
+  "chains": [
+    {
+      "id": "24gRTyzFmXUPebVwzQHuwU6RFeKHHDxRftRVaSAe7MHRXWxZ4S",
+      "name": "TITANL",
+      "evmId": 84358
+    }
+  ]
+}
