@@ -1,0 +1,29 @@
+{
+  "id": "23dqTMHK186m4Rzcn1ukJdmHy13nqido4LjTp5Kh9W6qBKaFib",
+  "name": "The Binary Network",
+  "primaryColor": "#01fb8a",
+  "logo": "https://cdn.snowpeer.io/bnry.png",
+  "categories": ["INFRA"],
+  "mainCategory": "INFRA",
+  "chains": [
+    {
+      "id": "J3MYb3rDARLmB7FrRybinyjKqVTqmerbCr9bAXDatrSaHiLxQ",
+      "name": "BnryMainnet",
+      "evmId": 836
+    }
+  ],
+  "links": {
+    "website": "https://thebinaryholdings.com"
+  },
+  "assets": [
+    {
+      "symbol": "BNRY",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "binary-holdings"
+        }
+      ]
+    }
+  ]
+}
