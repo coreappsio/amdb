@@ -1,0 +1,19 @@
+{
+  "id": "4onzNay6p7oru7GfZLCMrXhxvUqtmoC4vz8r8ev9e7r2C5wju",
+  "name": "Orange",
+  "description": "Purpose-built for AI-native creators. Orange Web3 provides the tools to turn AI-assisted and vibe coded ideas into live products, backed by on-chain rewards and an active user ecosystem.",
+  "mainCategory": "AI",
+  "primaryColor": "#f3791f",
+  "categories": ["AI"],
+  "logo": "https://cdn.snowpeer.io/orange.png",
+  "links": {
+    "website": "https://www.orangeweb3.com"
+  },
+  "chains": [
+    {
+      "id": "AowVWzuCAyLrTPSLHHaHeMJSdxRhhWbvmEuXncPnKv1hT5wf4",
+      "name": "Orange",
+      "evmId": 1510
+    }
+  ]
+}
