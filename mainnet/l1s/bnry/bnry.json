@@ -5,6 +5,7 @@
   "logo": "https://cdn.snowpeer.io/bnry.png",
   "categories": ["INFRA"],
   "mainCategory": "INFRA",
+  "description": "The Binary Network integrates any dApp, on any chain inside telecommunication apps. Put your project in front of 169 million users.",
   "chains": [
     {
       "id": "J3MYb3rDARLmB7FrRybinyjKqVTqmerbCr9bAXDatrSaHiLxQ",
