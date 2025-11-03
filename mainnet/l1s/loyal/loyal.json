@@ -1,0 +1,13 @@
+{
+  "id": "fZu9D9Ldxq9svbgRNdycWCSbLyEZLmTfKNxEnSqF3UXQztHP7",
+  "name": "Loyal",
+  "categories": ["LOYALTY"],
+  "mainCategory": "LOYALTY",
+  "chains": [
+    {
+      "id": "2rpeyPqn1Th7WsebmecpHgQEvFHWq3vzrcRi9vKgMc32rTjUKX",
+      "name": "Loyal",
+      "evmId": 72379
+    }
+  ]
+}
