@@ -1087,6 +1087,27 @@
       "issuer": "JPYC Inc.",
       "backingType": "fiat",
       "website": "https://jpyc.jp/",
+      "logo": "https://cdn.snowpeer.io/tokens/jpycoin.svg",
+      "backingCurrencyCode": "JPY",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "Japanese Yen Stablecoin Connects the World."
+    },
+    {
+      "name": "JPYC",
+      "symbol": "JPYC",
+      "issuer": "JPYC Inc.",
+      "backingType": "fiat",
+      "website": "https://jpyc.jp/",
       "logo": "https://cdn.snowpeer.io/tokens/jpyc.svg",
       "backingCurrencyCode": "JPY",
       "originType": "native",
@@ -1443,7 +1464,7 @@
         }
       ]
     },
-        {
+    {
       "name": "YUSD",
       "symbol": "YUSD",
       "issuer": "Aegis",
