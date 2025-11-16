@@ -4,9 +4,10 @@
   "description": "Avalanche is a highly scalable, eco-friendly blockchain platform offering sub-second finality and low transaction fees, designed to support decentralized applications and custom blockchain networks.",
   "primaryColor": "#f34333",
   "logo": "https://cdn.snowpeer.io/avax.svg",
-  "categories": ["L0"],
+  "categories": [
+    "L0"
+  ],
   "mainCategory": "L0",
-
   "chains": [
     {
       "evmId": 43114,
@@ -53,7 +54,7 @@
     "socials": [
       {
         "name": "X",
-        "url": "https://twitter.com/avax"
+        "url": "https://twitter.com/avax5"
       },
       {
         "name": "Youtube",
