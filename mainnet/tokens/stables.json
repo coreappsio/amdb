@@ -1598,6 +1598,29 @@
           "id": "stable-coin-2"
         }
       ]
+    },
+    {
+      "name": "xpUSD",
+      "symbol": "xpUSD",
+      "issuer": "The Growth Protocol",
+      "issuerShort": "TGP",
+      "backingType": "fiat",
+      "website": "https://growthprotocol.xyz/about-xpUSD",
+      "logo": "https://cdn.snowpeer.io/tokens/stable_placeholder.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xcc18b41a0f63C67F17F23388c848aeC67b583422",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "xpUSD represents a fundamental shift in how value moves through the gaming ecosystem. Developed by The Growth Protocol, xpUSD is designed specifically for the unique needs of modern gaming.",
+      "priceProviders": []
     }
   ]
 }
