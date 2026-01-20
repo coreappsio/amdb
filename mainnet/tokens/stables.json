@@ -1549,7 +1549,7 @@
       "name": "Reservoir rUSD",
       "symbol": "rUSD",
       "issuer": "Reservoir",
-      "backingType": "crypto",
+      "backingType": "fiat",
       "website": "https://www.reservoir.xyz",
       "logo": "https://cdn.snowpeer.io/tokens/reservoir-rusd.svg",
       "backingCurrencyCode": "USD",
@@ -1569,6 +1569,33 @@
         {
           "name": "CoinGecko",
           "id": "reservoir-rusd"
+        }
+      ]
+    },
+    {
+      "name": "SBC",
+      "symbol": "SBC",
+      "issuer": "Stable Coin Inc.",
+      "backingType": "fiat",
+      "website": "https://stablecoin.xyz",
+      "logo": "https://cdn.snowpeer.io/tokens/sbc.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0xf9fb20b8e097904f0ab7d12e9dbee88f2dcd0f16",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "SBC is the fiat-backed stablecoin unlocking seamless global payments for developers and businesses.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "stable-coin-2"
         }
       ]
     }
