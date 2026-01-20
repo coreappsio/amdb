@@ -1490,6 +1490,33 @@
           "id": "aegis-yusd"
         }
       ]
+    },
+    {
+      "name": "Parallel USDp",
+      "symbol": "USDp",
+      "issuer": "Parallel",
+      "backingType": "crypto",
+      "website": "https://parallel.best",
+      "logo": "https://cdn.snowpeer.io/tokens/parallel-USDp.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "USDp is the USD stablecoin of Parallel V3. It is a decentralized, overcollateralized asset backed by a basket of cryptocurrencies and stablecoins, including yield-bearing versions such as sfrxUSD or sUSDe.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "parallel-usdp"
+        }
+      ]
     }
   ]
 }
