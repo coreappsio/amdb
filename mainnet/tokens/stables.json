@@ -1621,6 +1621,33 @@
       ],
       "description": "xpUSD represents a fundamental shift in how value moves through the gaming ecosystem. Developed by The Growth Protocol, xpUSD is designed specifically for the unique needs of modern gaming.",
       "priceProviders": []
+    },
+    {
+      "name": "Tokenised GBP",
+      "symbol": "tGBP",
+      "issuer": "BCP Technologies",
+      "backingType": "fiat",
+      "website": "https://www.tokenisedgbp.com",
+      "logo": "https://cdn.snowpeer.io/tokens/tgbp.svg",
+      "backingCurrencyCode": "GBP",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x27f6c8289550fce67f6b50bed1f519966afe5287",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "A fully-backed tokenised pound sterling for the digital age. Seamlessly bridge traditional finance with blockchain technology.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "tokenised-gbp"
+        }
+      ]
     }
   ]
 }
