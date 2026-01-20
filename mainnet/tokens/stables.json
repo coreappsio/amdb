@@ -1650,6 +1650,34 @@
           "id": "tokenised-gbp"
         }
       ]
+    },
+    {
+      "name": "EURØP",
+      "symbol": "EURØP",
+      "issuer": "Schuman Financial",
+      "issuerShort": "Schuman",
+      "backingType": "fiat",
+      "website": "https://schuman.io/europ",
+      "logo": "https://cdn.snowpeer.io/tokens/europ-coin.png",
+      "backingCurrencyCode": "EUR",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x8835a2f66a7aaccb297cb985831a616b75e2e16c",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "EURØP euro stablecoin is a secure, transparent, and MiCA-compliant euro-denominated stablecoin, redeemable 1:1 for the euro. It is issued by a licensed stablecoin issuer Schuman Financial and regulated by the French banking authority ACPR. Each EURØP is 100% backed by euros, with reserves held in government-supervised EU banks such as Société Générale. Our reserves are audited by KPMG, one of the world’s leading audit firms.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "schuman-europ"
+        }
+      ]
     }
   ]
 }
