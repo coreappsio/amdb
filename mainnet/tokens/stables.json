@@ -1517,6 +1517,33 @@
           "id": "parallel-usdp"
         }
       ]
+    },
+    {
+      "name": "Paypal USD",
+      "symbol": "PYUSD0",
+      "issuer": "Paypal",
+      "backingType": "fiat",
+      "website": "https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd",
+      "logo": "https://cdn.snowpeer.io/tokens/pyusd0.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x142cdc44890978B506e745bB3Bd11607B7f7faEf",
+          "decimals": 6,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "PayPal USD is a stablecoin that is redeemable 1:1 for US dollars.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "paypal-usd"
+        }
+      ]
     }
   ]
 }
