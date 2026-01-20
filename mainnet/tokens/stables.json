@@ -1544,6 +1544,33 @@
           "id": "paypal-usd"
         }
       ]
+    },
+    {
+      "name": "Reservoir rUSD",
+      "symbol": "rUSD",
+      "issuer": "Reservoir",
+      "backingType": "crypto",
+      "website": "https://www.reservoir.xyz",
+      "logo": "https://cdn.snowpeer.io/tokens/reservoir-rusd.svg",
+      "backingCurrencyCode": "USD",
+      "originType": "native",
+      "chains": [
+        {
+          "name": "C-Chain",
+          "evmId": 43114,
+          "contractAddress": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+          "decimals": 18,
+          "tokenType": "ERC20",
+          "active": true
+        }
+      ],
+      "description": "rUSD is built to be extremely scalable and efficient, paving the way for increased utility and cross chain use cases.",
+      "priceProviders": [
+        {
+          "name": "CoinGecko",
+          "id": "reservoir-rusd"
+        }
+      ]
     }
   ]
 }
