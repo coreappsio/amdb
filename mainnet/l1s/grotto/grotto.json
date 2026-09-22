@@ -1,0 +1,28 @@
+{
+  "id": "2qZWoi4PSG69vdYAQ9otTxMGmRh8YgAXEsm4HMbZZkMamibU76",
+  "name": "The Grotto",
+  "description": "An all in one indie game marketplace and ecosystem",
+  "primaryColor": "#F9611F",
+  "logo": "https://cdn.snowpeer.io/the_grotto.png",
+  "categories": ["GAMING"],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "evmId": 36463,
+      "vmName": null,
+      "id": "axF6i526AKGeduJeA6PQ8ewGQhtLoy2VFgxR9fknWnpf8iiFD",
+      "name": "TheGrotto",
+      "vmId": "eB5rrkpqpBxy3veQrbSs1jjio2driCqay1e4Apcj3WrWjgeDQ"
+    }
+  ],
+  "links": {
+    "website": "https://www.enterthegrotto.xyz",
+
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/TheGrottoL1"
+      }
+    ]
+  }
+}
