@@ -7,7 +7,10 @@
   "chains": [
     {
       "evmId": 2366,
-      "id": "3USaEfTcoUhHxpKXvpAG916UKCUEyjrtkg2hBArBG3JyDP7my"
+      "id": "3USaEfTcoUhHxpKXvpAG916UKCUEyjrtkg2hBArBG3JyDP7my",
+      "vmName": null,
+      "vmId": "pJhES6xZkqZxjxMqHiucbpBTTnB97EjL5aTYSynmWBoF26v9e",
+      "name": "kite"
     }
   ],
   "assets": [
