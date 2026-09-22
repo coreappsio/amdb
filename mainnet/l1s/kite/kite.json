@@ -1,0 +1,27 @@
+{
+  "id": "21uUaTxVdR3Sp6SJhpcSrdH1g66aFoE8mPQDvwKJCjXNexo5y6",
+  "name": "Kite",
+  "description": "Kite provides autonomous agents with verifiable trust and a purpose-built chain to transact, coordinate, and operate at scale.",
+  "categories": ["AI"],
+  "mainCategory": "AI",
+  "chains": [
+    {
+      "evmId": 2366,
+      "id": "3USaEfTcoUhHxpKXvpAG916UKCUEyjrtkg2hBArBG3JyDP7my"
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "Kite",
+      "pricingDataProvider": [
+        {
+          "name": "CoinGecko",
+          "id": "kite-2"
+        }
+      ]
+    }
+  ],
+  "links": {
+    "website": "https://gokite.ai"
+  }
+}
